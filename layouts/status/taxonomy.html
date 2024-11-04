@@ -2,7 +2,7 @@
 {{ .Content }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
-  <h2><a href="{{ .RelPermalink }}">{{ humanize .LinkTitle }}</a> ({{ len .Pages }} locations)</h2>
-  {{ end }}
+  <ul>{{ range .Pages }}
+  <li><a href="{{ .RelPermalink }}">{{ humanize .LinkTitle }}</a> ({{ len .Pages }} locations)</li>
+  {{ end }}</ul>
 {{ end }}
