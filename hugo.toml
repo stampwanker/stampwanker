@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://stampwanker.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Stampwanker'
 [taxonomies]
 bartype = "bartype"
 status = "status"
