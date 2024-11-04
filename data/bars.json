@@ -1,0 +1,1517 @@
+[
+  {
+    "name": "Aberdeen",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2010-10-01",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "aberdeen",
+    "type": "bar",
+    "city": "Aberdeen",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Aberdeen Castlegate",
+    "city": "Aberdeen",
+    "id": "castlegate",
+    "visas": [
+      "1.0"
+    ],
+    "country": "GBR-SCT",
+    "status": "open",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Aberdeen Kennels",
+    "city": "Aberdeen",
+    "id": "aberdeen-kennels",
+    "type": "doghouse",
+    "country": "GBR-SCT",
+    "status": "open",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Aberdeen Union Square",
+    "city": "Aberdeen",
+    "id": "union-square",
+    "country": "GBR-SCT",
+    "status": "open",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Amritsar",
+    "country": "IND",
+    "status": "open",
+    "id": "amritsar",
+    "type": "bar",
+    "city": "Amritsar",
+    "country_name": "India"
+  },
+  {
+    "name": "Amsterdam Centraal",
+    "country": "NLD",
+    "status": "open",
+    "id": "amsterdam-centraal",
+    "type": "bar",
+    "city": "Amsterdam Centraal",
+    "country_name": "Netherlands"
+  },
+  {
+    "name": "Angel",
+    "status": "closed",
+    "country": "GBR-ENG",
+    "city": "London",
+    "id": "angel",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Atlanta Outpost",
+    "country": "USA",
+    "type": "outpost",
+    "opening_date": "2022-10-13",
+    "status": "open",
+    "id": "atlanta-outpost",
+    "city": "Atlanta Outpost",
+    "country_name": "United States"
+  },
+  {
+    "name": "Barcelona",
+    "country": "ESP",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "barcelona",
+    "type": "bar",
+    "city": "Barcelona",
+    "country_name": "Spain"
+  },
+  {
+    "name": "Basingstoke",
+    "city": "London",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "basingstoke",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Bath",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "bath",
+    "type": "bar",
+    "city": "Bath",
+    "country_name": "England"
+  },
+  {
+    "name": "Berlin Friedrichshain",
+    "country": "DEU",
+    "city": "Berlin",
+    "opening_date": "2022-02-17",
+    "status": "open",
+    "id": "berlin-friedrichshain",
+    "type": "bar",
+    "country_name": "Germany"
+  },
+  {
+    "name": "Berlin Mitte",
+    "country": "DEU",
+    "city": "Berlin",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "berlin-mitte",
+    "type": "bar",
+    "country_name": "Germany"
+  },
+  {
+    "name": "Birdcage",
+    "country": "GBR-ENG",
+    "city": "London",
+    "type": "pub",
+    "status": "open",
+    "id": "birdcage",
+    "country_name": "England"
+  },
+  {
+    "name": "Birmingham",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2012-12-00",
+    "status": "open",
+    "id": "birmingham",
+    "type": "bar",
+    "city": "Birmingham",
+    "country_name": "England"
+  },
+  {
+    "name": "Bournemouth",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "bournemouth",
+    "type": "bar",
+    "city": "Bournemouth",
+    "country_name": "England"
+  },
+  {
+    "name": "Bradford",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "bradford",
+    "type": "bar",
+    "city": "Bradford",
+    "country_name": "England"
+  },
+  {
+    "name": "Brighton",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "brighton",
+    "type": "bar",
+    "city": "Brighton",
+    "country_name": "England"
+  },
+  {
+    "name": "Brisbane Fortitude Valley",
+    "country": "AUS",
+    "status": "open",
+    "id": "brisbane-fortitude-valley",
+    "type": "bar",
+    "city": "Brisbane Fortitude Valley",
+    "country_name": "Australia"
+  },
+  {
+    "name": "Bristol Baldwin Street",
+    "city": "Bristol",
+    "country": "GBR-ENG",
+    "id": "bristol",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2012-10-27",
+    "status": "open",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Bristol Harbourside",
+    "city": "Bristol",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "bristol-harbourside",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Brixton",
+    "country": "GBR-ENG",
+    "city": "London",
+    "state": "closed",
+    "status": "open",
+    "id": "brixton",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Brussels",
+    "country": "BEL",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "brussels",
+    "type": "bar",
+    "city": "Brussels",
+    "country_name": "Belgium"
+  },
+  {
+    "name": "Cambridge",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "cambridge",
+    "type": "bar",
+    "city": "Cambridge",
+    "country_name": "England"
+  },
+  {
+    "name": "Camden",
+    "city": "London",
+    "country": "GBR-ENG",
+    "opening_date": "2011-12-14",
+    "visas": [
+      "1.0"
+    ],
+    "references": [
+      "Opening date from the 10 year Facebook event."
+    ],
+    "trivia": [
+      "This was the first brewdog bar opened outside of Scotland.",
+      "The Founders drove a tank down Camden High St to anounce the invasion."
+    ],
+    "status": "open",
+    "id": "camden",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Camden Road Arms",
+    "city": "London",
+    "country": "GBR-ENG",
+    "id": "camden-road",
+    "type": "pub",
+    "status": "open",
+    "country_name": "England"
+  },
+  {
+    "name": "Canary Wharf",
+    "city": "London",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "canary-wharf",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Cardiff",
+    "country": "GBR-WLS",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "cardiff",
+    "type": "bar",
+    "city": "Cardiff",
+    "country_name": "Wales [Cymru GB-CYM]"
+  },
+  {
+    "name": "Carlisle",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "carlisle",
+    "type": "bar",
+    "city": "Carlisle",
+    "country_name": "England"
+  },
+  {
+    "name": "Chancery Lane",
+    "city": "London",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "chancery-lane",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Cheltenham",
+    "country": "GBR-ENG",
+    "opening_date": "2022-02-24",
+    "status": "open",
+    "id": "cheltenham",
+    "type": "bar",
+    "city": "Cheltenham",
+    "country_name": "England"
+  },
+  {
+    "name": "Cincinnati",
+    "country": "USA",
+    "status": "open",
+    "id": "cincinnati",
+    "type": "bar",
+    "city": "Cincinnati",
+    "country_name": "United States"
+  },
+  {
+    "name": "Clerkenwell",
+    "city": "London",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "clerkenwell",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Cleveland Outpost",
+    "country": "USA",
+    "type": "outpost",
+    "status": "open",
+    "id": "cleveland-outpost",
+    "city": "Cleveland Outpost",
+    "country_name": "United States"
+  },
+  {
+    "name": "Columbus Airport",
+    "city": "Columbus",
+    "country": "USA",
+    "location": "airport",
+    "status": "open",
+    "id": "columbus-airport",
+    "type": "bar",
+    "country_name": "United States"
+  },
+  {
+    "name": "Dalston",
+    "city": "London",
+    "country": "GBR-ENG",
+    "state": "closed",
+    "status": "open",
+    "id": "dalston",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Denver",
+    "country": "USA",
+    "status": "open",
+    "id": "denver",
+    "type": "bar",
+    "city": "Denver",
+    "country_name": "United States"
+  },
+  {
+    "name": "Doghouse Columbus Hotel",
+    "city": "Columbus",
+    "country": "USA",
+    "type": "doghouse",
+    "status": "open",
+    "id": "doghouse-columbus-hotel",
+    "country_name": "United States"
+  },
+  {
+    "name": "Doghouse Edinburgh Bar & Terrace",
+    "city": "Edinburgh",
+    "type": "bar",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "doghouse-edinburgh-bar-&-terrace",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Doghouse Edinburgh Hotel",
+    "city": "Edinburgh",
+    "type": "doghouse",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "doghouse-edinburgh-hotel",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Dogtap Berlin",
+    "country": "DEU",
+    "city": "Berlin",
+    "type": "dogtap",
+    "status": "open",
+    "id": "dogtap-berlin",
+    "country_name": "Germany"
+  },
+  {
+    "name": "Dogtap Brisbane",
+    "country": "AUS",
+    "type": "dogtap",
+    "status": "open",
+    "id": "dogtap-brisbane",
+    "city": "Dogtap Brisbane",
+    "country_name": "Australia"
+  },
+  {
+    "name": "Dogtap Columbus",
+    "city": "Columbus",
+    "country": "USA",
+    "type": "dogtap",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "dogtap-columbus",
+    "country_name": "United States"
+  },
+  {
+    "name": "Dogtap Ellon",
+    "aka": "Dogtap",
+    "type": "dogtap",
+    "visas": [
+      "1.0"
+    ],
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "dogtap-ellon",
+    "city": "Dogtap Ellon",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Duke of Hammersmith",
+    "city": "London",
+    "country": "GBR-ENG",
+    "type": "pub",
+    "status": "open",
+    "id": "duke-of-hammersmith",
+    "country_name": "England"
+  },
+  {
+    "name": "Dundee",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2014-06-14",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "dundee",
+    "type": "bar",
+    "city": "Dundee",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Ealing",
+    "city": "London",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "ealing",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Edinburgh Airport",
+    "city": "Edinburgh",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "edinburgh-airport",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Edinburgh Cowgate",
+    "id": "edinburgh",
+    "city": "Edinburgh",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2011-00-00",
+    "country": "GBR-SCT",
+    "status": "open",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Edinburgh Lothian Road",
+    "city": "Edinburgh",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2018-01-26",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "edinburgh-lothian-road",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Exeter",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "exeter",
+    "type": "bar",
+    "city": "Exeter",
+    "country_name": "England"
+  },
+  {
+    "name": "Firenze",
+    "country": "ITA",
+    "status": "closed",
+    "visas": [
+      "1.0"
+    ],
+    "id": "firenze",
+    "type": "bar",
+    "city": "Firenze",
+    "country_name": "Italy"
+  },
+  {
+    "name": "Frankfurt",
+    "country": "DEU",
+    "status": "open",
+    "id": "frankfurt",
+    "type": "bar",
+    "city": "Frankfurt",
+    "country_name": "Germany"
+  },
+  {
+    "name": "Franklinton",
+    "city": "Columbus",
+    "country": "USA",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "franklinton",
+    "type": "bar",
+    "country_name": "United States"
+  },
+  {
+    "name": "Gatwick Airport",
+    "country": "GBR-ENG",
+    "location": "airport",
+    "status": "open",
+    "id": "gatwick-airport",
+    "type": "bar",
+    "city": "Gatwick Airport",
+    "country_name": "England"
+  },
+  {
+    "name": "Glasgow Kelvingrove",
+    "id": "glasgow",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2011-07-00",
+    "country": "GBR-SCT",
+    "status": "open",
+    "type": "bar",
+    "city": "Glasgow Kelvingrove",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Glasgow Merchant City",
+    "aka": [
+      "Doghouse Merchant City"
+    ],
+    "visas": [
+      "1.0"
+    ],
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "glasgow-merchant-city",
+    "type": "bar",
+    "city": "Glasgow Merchant City",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "G\u00f6teborg",
+    "country": "SWE",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "g\u00f6teborg",
+    "type": "bar",
+    "city": "G\u00f6teborg",
+    "country_name": "Sweden"
+  },
+  {
+    "name": "Gr\u00fcnerl\u00f8kka",
+    "country": "SWE",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "gr\u00fcnerl\u00f8kka",
+    "type": "bar",
+    "city": "Gr\u00fcnerl\u00f8kka",
+    "country_name": "Sweden"
+  },
+  {
+    "name": "Gurugram",
+    "country": "IND",
+    "status": "open",
+    "id": "gurugram",
+    "type": "bar",
+    "city": "Gurugram",
+    "country_name": "India"
+  },
+  {
+    "name": "Hong Kong",
+    "country": "CHN",
+    "status": "open",
+    "id": "hong-kong",
+    "type": "bar",
+    "city": "Hong Kong",
+    "country_name": "China"
+  },
+  {
+    "name": "Hop Hub",
+    "status": "closed",
+    "country": "GBR-SCT",
+    "id": "hop-hub",
+    "type": "bar",
+    "city": "Hop Hub",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Hop and Anchor",
+    "status": "closed",
+    "type": "pub",
+    "country": "GBR-SCT",
+    "id": "hop-and-anchor",
+    "city": "Hop and Anchor",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Huddersfield",
+    "country": "GBR-ENG",
+    "opening_date": "2021-12-02",
+    "status": "open",
+    "id": "huddersfield",
+    "type": "bar",
+    "city": "Huddersfield",
+    "country_name": "England"
+  },
+  {
+    "name": "Hull",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "hull",
+    "type": "bar",
+    "city": "Hull",
+    "country_name": "England"
+  },
+  {
+    "name": "Inverurie",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "inverurie",
+    "type": "bar",
+    "city": "Inverurie",
+    "country_name": "England"
+  },
+  {
+    "name": "Kijkduin",
+    "country": "NLD",
+    "status": "open",
+    "id": "kijkduin",
+    "type": "bar",
+    "city": "Kijkduin",
+    "country_name": "Netherlands"
+  },
+  {
+    "name": "Kungsholmen",
+    "country": "SWE",
+    "city": "Stockholm",
+    "opening_date": "2013-05-00",
+    "status": "open",
+    "id": "kungsholmen",
+    "type": "bar",
+    "country_name": "Sweden"
+  },
+  {
+    "name": "Las Vegas",
+    "country": "USA",
+    "opening_date": "2022-10-30",
+    "status": "open",
+    "id": "las-vegas",
+    "type": "bar",
+    "city": "Las Vegas",
+    "country_name": "United States"
+  },
+  {
+    "name": "Le Marais",
+    "country": "FRA",
+    "city": "Paris",
+    "status": "open",
+    "id": "le-marais",
+    "type": "bar",
+    "country_name": "France"
+  },
+  {
+    "name": "Leeds",
+    "status": "closed",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "id": "leeds",
+    "type": "bar",
+    "city": "Leeds",
+    "country_name": "England"
+  },
+  {
+    "name": "Leeds North Street",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "leeds-north-street",
+    "type": "bar",
+    "city": "Leeds North Street",
+    "country_name": "England"
+  },
+  {
+    "name": "Liverpool",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "liverpool",
+    "type": "bar",
+    "city": "Liverpool",
+    "country_name": "England"
+  },
+  {
+    "name": "Malm\u00f6",
+    "country": "SWE",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "malm\u00f6",
+    "type": "bar",
+    "city": "Malm\u00f6",
+    "country_name": "Sweden"
+  },
+  {
+    "name": "Manchester Outpost",
+    "country": "GBR-ENG",
+    "type": "outpost",
+    "city": "Manchester",
+    "status": "open",
+    "id": "manchester-outpost",
+    "country_name": "England"
+  },
+  {
+    "name": "Manchester Peter Street",
+    "country": "GBR-ENG",
+    "id": "manchester",
+    "visas": [
+      "1.0"
+    ],
+    "city": "Manchester",
+    "opening_date": "2012-05-04",
+    "references": [
+      "Opening Date from https://www.brewbound.com/news/brewdog-marks-launch-of-manchester-craft-beer-bar-with-crap-beer-amnesty/."
+    ],
+    "trivia": [
+      "Brewdog annouced a crap beer amnesty where people could exchange their cans of mainstream beer for a Brewdog beer."
+    ],
+    "status": "open",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Midtown Mumbai",
+    "country": "IND",
+    "status": "open",
+    "id": "midtown-mumbai",
+    "type": "bar",
+    "city": "Midtown Mumbai",
+    "country_name": "India"
+  },
+  {
+    "name": "Milan",
+    "country": "ITA",
+    "status": "coming_soon",
+    "id": "milan",
+    "type": "bar",
+    "city": "Milan",
+    "country_name": "Italy"
+  },
+  {
+    "name": "Milton Keynes",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "milton-keynes",
+    "type": "bar",
+    "city": "Milton Keynes",
+    "country_name": "England"
+  },
+  {
+    "name": "Mumbai Bandra",
+    "country": "IND",
+    "status": "open",
+    "id": "mumbai-bandra",
+    "type": "bar",
+    "city": "Mumbai Bandra",
+    "country_name": "India"
+  },
+  {
+    "name": "New Albany",
+    "country": "IND",
+    "status": "open",
+    "id": "new-albany",
+    "type": "bar",
+    "city": "New Albany",
+    "country_name": "India"
+  },
+  {
+    "name": "Newcastle",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "newcastle",
+    "type": "bar",
+    "city": "Newcastle",
+    "country_name": "England"
+  },
+  {
+    "name": "Nice",
+    "country": "FRA",
+    "status": "open",
+    "id": "nice",
+    "type": "bar",
+    "city": "Nice",
+    "country_name": "France"
+  },
+  {
+    "name": "Norwich",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "norwich",
+    "type": "bar",
+    "city": "Norwich",
+    "country_name": "England"
+  },
+  {
+    "name": "Nottingham",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2012-02-28",
+    "references": [
+      "Opening Night: https://www.nottsbrew.co.uk/2012/02/brewdog-nottingham-opens-in-er-nottingham/"
+    ],
+    "status": "open",
+    "id": "nottingham",
+    "type": "bar",
+    "city": "Nottingham",
+    "country_name": "England"
+  },
+  {
+    "name": "Old Street",
+    "aka": [
+      "Old Street AF"
+    ],
+    "country": "GBR-ENG",
+    "city": "London",
+    "status": "closed",
+    "opening_date": "2019-01-04",
+    "closing_date": "2022-00-00",
+    "id": "old-street",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Outpost Itaewon",
+    "country": "KOR",
+    "type": "outpost",
+    "status": "open",
+    "id": "outpost-itaewon",
+    "city": "Outpost Itaewon",
+    "country_name": "Korea, Republic of"
+  },
+  {
+    "name": "Oxford",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "oxford",
+    "type": "bar",
+    "city": "Oxford",
+    "country_name": "England"
+  },
+  {
+    "name": "Paddington",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "paddington",
+    "type": "bar",
+    "city": "Paddington",
+    "country_name": "England"
+  },
+  {
+    "name": "Pentridge",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "pentridge",
+    "type": "bar",
+    "city": "Pentridge",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Perth, Australia",
+    "id": "perth-australia",
+    "country": "AUS",
+    "status": "open",
+    "type": "bar",
+    "city": "Perth, Australia",
+    "country_name": "Australia"
+  },
+  {
+    "name": "Perth, Scotland",
+    "id": "perth",
+    "country": "GBR-SCT",
+    "status": "open",
+    "type": "bar",
+    "city": "Perth, Scotland",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Peterhead",
+    "country": "GBR-ENG",
+    "status": "closed",
+    "id": "peterhead",
+    "type": "bar",
+    "city": "Peterhead",
+    "country_name": "England"
+  },
+  {
+    "name": "Ploenchit",
+    "country": "THA",
+    "status": "open",
+    "id": "ploenchit",
+    "type": "bar",
+    "city": "Ploenchit",
+    "country_name": "Thailand"
+  },
+  {
+    "name": "Plymouth",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "plymouth",
+    "type": "bar",
+    "city": "Plymouth",
+    "country_name": "England"
+  },
+  {
+    "name": "Queen Charlotte",
+    "city": "London",
+    "country": "GBR-ENG",
+    "type": "pub",
+    "status": "open",
+    "id": "queen-charlotte",
+    "country_name": "England"
+  },
+  {
+    "name": "Reading",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "reading",
+    "type": "bar",
+    "city": "Reading",
+    "country_name": "England"
+  },
+  {
+    "name": "Reykjavik",
+    "country": "ISL",
+    "status": "open",
+    "id": "reykjavik",
+    "type": "bar",
+    "city": "Reykjavik",
+    "country_name": "Iceland"
+  },
+  {
+    "name": "Roppongi",
+    "country": "JPN",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "roppongi",
+    "type": "bar",
+    "city": "Roppongi",
+    "country_name": "Japan"
+  },
+  {
+    "name": "Rotterdam Outpost",
+    "city": "Rotterdam",
+    "country": "NLD",
+    "type": "outpost",
+    "status": "open",
+    "id": "rotterdam-outpost",
+    "country_name": "Netherlands"
+  },
+  {
+    "name": "Rotterdam Witte De Withstraat",
+    "city": "Rotterdam",
+    "country": "NLD",
+    "status": "open",
+    "id": "rotterdam-witte-de-withstraat",
+    "type": "bar",
+    "country_name": "Netherlands"
+  },
+  {
+    "name": "Seething Lane Tap",
+    "country": "GBR-ENG",
+    "city": "London",
+    "id": "seething-lane",
+    "type": "pub",
+    "status": "open",
+    "country_name": "England"
+  },
+  {
+    "name": "Seven Dials",
+    "city": "London",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "seven-dials",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Shanghai",
+    "country": "CHN",
+    "status": "open",
+    "id": "shanghai",
+    "type": "bar",
+    "city": "Shanghai",
+    "country_name": "China"
+  },
+  {
+    "name": "Sheffield",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2014-03-08",
+    "status": "open",
+    "id": "sheffield",
+    "type": "bar",
+    "city": "Sheffield",
+    "country_name": "England"
+  },
+  {
+    "name": "Shepherd's Bush",
+    "city": "London",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "shepherd's-bush",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Shoreditch",
+    "city": "London",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "shoreditch",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Short North",
+    "country": "USA",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "short-north",
+    "type": "bar",
+    "city": "Short North",
+    "country_name": "United States"
+  },
+  {
+    "name": "Smithfield Market Arms",
+    "city": "London",
+    "type": "pub",
+    "country": "GBR-ENG",
+    "status": "closed",
+    "id": "smithfield-market-arms",
+    "country_name": "England"
+  },
+  {
+    "name": "Soho",
+    "city": "London",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "soho",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "S\u00f6dermalm",
+    "country": "SWE",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "s\u00f6dermalm",
+    "type": "bar",
+    "city": "S\u00f6dermalm",
+    "country_name": "Sweden"
+  },
+  {
+    "name": "South Eveleigh",
+    "country": "AUS",
+    "status": "open",
+    "id": "south-eveleigh",
+    "type": "bar",
+    "city": "South Eveleigh",
+    "country_name": "Australia"
+  },
+  {
+    "name": "Southampton",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "southampton",
+    "type": "bar",
+    "city": "Southampton",
+    "country_name": "England"
+  },
+  {
+    "name": "St Andrews",
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "st-andrews",
+    "type": "bar",
+    "city": "St Andrews",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "St Pauli",
+    "country": "DEU",
+    "city": "Hamburg",
+    "status": "open",
+    "id": "st-pauli",
+    "type": "bar",
+    "country_name": "Germany"
+  },
+  {
+    "name": "Stirling",
+    "visas": [
+      "1.0"
+    ],
+    "country": "GBR-SCT",
+    "status": "open",
+    "id": "stirling",
+    "type": "bar",
+    "city": "Stirling",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Tower Bridge Arms",
+    "country": "GBR-ENG",
+    "city": "London",
+    "type": "pub",
+    "status": "open",
+    "id": "tower-bridge-arms",
+    "country_name": "England"
+  },
+  {
+    "name": "Tower Hill Outpost",
+    "city": "London",
+    "country": "GBR-ENG",
+    "type": "outpost",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "tower-hill-outpost",
+    "country_name": "England"
+  },
+  {
+    "name": "Upminster",
+    "country": "GBR-ENG",
+    "status": "open",
+    "id": "upminster",
+    "type": "bar",
+    "city": "Upminster",
+    "country_name": "England"
+  },
+  {
+    "name": "Wandsworth",
+    "city": "London",
+    "country": "GBR-ENG",
+    "opening_date": "2023-01-26",
+    "status": "open",
+    "id": "wandsworth",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Waterloo",
+    "city": "London",
+    "country": "GBR-ENG",
+    "location": "train station",
+    "opening_date": "2022-08-12",
+    "status": "open",
+    "id": "waterloo",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Waterloo Arms",
+    "city": "London",
+    "country": "GBR-ENG",
+    "type": "pub",
+    "location": "train station",
+    "status": "open",
+    "id": "waterloo-arms",
+    "country_name": "England"
+  },
+  {
+    "name": "Wiesbaden",
+    "country": "DEU",
+    "status": "open",
+    "id": "wiesbaden",
+    "type": "bar",
+    "city": "Wiesbaden",
+    "country_name": "Germany"
+  },
+  {
+    "name": "York",
+    "country": "GBR-ENG",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "york",
+    "type": "bar",
+    "city": "York",
+    "country_name": "England"
+  },
+  {
+    "name": "Roma",
+    "country": "ITA",
+    "status": "closed",
+    "visas": [
+      "1.0"
+    ],
+    "id": "roma",
+    "type": "bar",
+    "city": "Roma",
+    "country_name": "Italy"
+  },
+  {
+    "name": "Bologna",
+    "country": "ITA",
+    "status": "closed",
+    "visas": [
+      "1.0"
+    ],
+    "id": "bologna",
+    "type": "bar",
+    "city": "Bologna",
+    "country_name": "Italy"
+  },
+  {
+    "name": "Dublin Outpost",
+    "country": "IRL",
+    "type": "outpost",
+    "opening": "2019-12-12",
+    "status": "open",
+    "id": "dublin-outpost",
+    "city": "Dublin Outpost",
+    "country_name": "Ireland"
+  },
+  {
+    "name": "Swansea",
+    "country": "GBR-WLS",
+    "status": "closed",
+    "id": "swansea",
+    "type": "bar",
+    "city": "Swansea",
+    "country_name": "Wales [Cymru GB-CYM]"
+  },
+  {
+    "name": "Homerton",
+    "country": "GBR-ENG",
+    "city": "London",
+    "status": "closed",
+    "opening_date": "2016-01-02",
+    "closing_date": "2017-05-00",
+    "references": [
+      "Open date from Instagram, https://www.instagram.com/p/BNhbClEjceD/.",
+      "Closure data from https://camra.org.uk/pubs/plough-homerton-156180."
+    ],
+    "id": "homerton",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Belfast Grand Central",
+    "status": "coming_soon",
+    "country": "GBR-NIR",
+    "id": "belfast-grand-central",
+    "type": "bar",
+    "city": "Belfast Grand Central",
+    "country_name": "Northern Ireland"
+  },
+  {
+    "name": "Chandigarh",
+    "status": "coming_soon",
+    "country": "IND",
+    "id": "chandigarh",
+    "type": "bar",
+    "city": "Chandigarh",
+    "country_name": "India"
+  },
+  {
+    "name": "Edinburgh Waverley",
+    "city": "Edinburgh",
+    "status": "open",
+    "country": "GBR-SCT",
+    "opening_date": "2024-10-30",
+    "location": "train station",
+    "id": "edinburgh-waverley",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Leicester",
+    "status": "closed",
+    "country": "GBR-ENG",
+    "city": "London",
+    "visas": [
+      "1.0"
+    ],
+    "id": "leicester",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Clapham Junction",
+    "status": "closed",
+    "country": "GBR-ENG",
+    "city": "London",
+    "visas": [
+      "1.0"
+    ],
+    "id": "clapham-junction",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Pittsburgh",
+    "status": "closed",
+    "country": "USA",
+    "id": "pittsburgh",
+    "type": "bar",
+    "city": "Pittsburgh",
+    "country_name": "United States"
+  },
+  {
+    "name": "Ch\u00e2telet",
+    "status": "never_opened",
+    "country": "FRA",
+    "city": "Paris",
+    "id": "ch\u00e2telet",
+    "type": "bar",
+    "country_name": "France"
+  },
+  {
+    "name": "Cork",
+    "status": "closed",
+    "country": "IRL",
+    "opening_date": "2022-07-21",
+    "closing_date": "2023-05-01",
+    "references": [
+      "closing date, https://www.corkbeo.ie/news/local-news/corks-brewdog-closes-suddenly-after-26820707"
+    ],
+    "id": "cork",
+    "type": "bar",
+    "city": "Cork",
+    "country_name": "Ireland"
+  },
+  {
+    "name": "Doghouse Manchester",
+    "country": "GBR",
+    "type": "doghouse",
+    "city": "Manchester",
+    "status": "open",
+    "id": "doghouse-manchester",
+    "country_name": "United Kingdom"
+  },
+  {
+    "name": "Overworks Tap Room",
+    "city": "Ellon",
+    "status": "closed",
+    "visas": [
+      "1.0"
+    ],
+    "country": "GBR-SCT",
+    "id": "overworks-tap-room",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Helsinki",
+    "country": "FIN",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "helsinki",
+    "type": "bar",
+    "city": "Helsinki",
+    "country_name": "Finland"
+  },
+  {
+    "name": "S\u00e3o Paulo",
+    "country": "BRA",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "s\u00e3o-paulo",
+    "type": "bar",
+    "city": "S\u00e3o Paulo",
+    "country_name": "Brazil"
+  },
+  {
+    "name": "Tallinn",
+    "country": "EST",
+    "visas": [
+      "1.0"
+    ],
+    "status": "open",
+    "id": "tallinn",
+    "type": "bar",
+    "city": "Tallinn",
+    "country_name": "Estonia"
+  },
+  {
+    "name": "Durham",
+    "status": "coming_soon",
+    "country": "GBR-ENG",
+    "id": "durham",
+    "type": "bar",
+    "city": "Durham",
+    "country_name": "England"
+  },
+  {
+    "name": "Indianapolis",
+    "country": "USA",
+    "status": "closed",
+    "opening_date": "2019-09-11",
+    "closing_date": "2022-04-19",
+    "id": "indianapolis",
+    "type": "bar",
+    "city": "Indianapolis",
+    "country_name": "United States"
+  }
+]

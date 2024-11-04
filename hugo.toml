@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[taxonomies]
+bartype = "bartype"
+status = "status"
+country_name = "country_name"
+location = "location"
+visa = "visas"

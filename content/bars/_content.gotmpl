@@ -1,0 +1,11 @@
+{{ range .Site.Data.bars }}
+{{ $params := merge . (dict "bartype" .type) }}
+{{ $status := slice "open" }}
+{{ $page := dict
+  "path" .id
+  "title" .name
+  "params" $params
+  "barstatuses" $status
+}}
+{{ $.AddPage $page }}
+{{ end }}

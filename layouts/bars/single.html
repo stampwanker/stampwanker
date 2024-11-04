@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{- with .Params }}
+<h1>{{ .name }}</h1>
+
+<table>
+    <tr>
+	<td>Status</td>
+	<td><a href="/status/{{ .status }}/">{{ title .status }}</a></td>
+    </tr>
+    <tr>
+	<td>Type</td>
+	<td><a href="/bartype/{{ .type }}">{{ title .type }}</a></td>
+    </tr>
+{{ if .opening_date -}}
+    <tr>
+	<td>Established</td>
+	<td>{{ partial "date" .opening_date }}</td>
+   </tr>
+{{- end }}
+{{ if .closing_date -}}
+    <tr>
+	<td>Closed</td>
+	<td>{{ partial "date" .closing_date }}</td>
+   </tr>
+{{- end }}
+    <tr>
+	<td>City</td>
+	<td>{{ title .city }}</td>
+    </tr>
+    <tr>
+	<td>Country</td>
+	<td><a href="/country_name/{{ .country_name | urlize}}/">{{ title .country_name }}</a></td>
+    </tr>
+</table>
+{{ if .trivia }}
+<h2>Trivia</h2>
+<ul>
+{{- range .trivia }}
+   <li>{{ . }}</li>
+{{- end -}}
+</ul>
+{{- end -}}
+{{- end -}}
+{{- end -}}

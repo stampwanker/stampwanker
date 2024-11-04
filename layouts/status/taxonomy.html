@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ .Content }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+  <h2><a href="{{ .RelPermalink }}">{{ humanize .LinkTitle }}</a> ({{ len .Pages }} locations)</h2>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,7 @@
+  <li><a href="/bars/{{ .id | urlize }}">{{ .name }}</a>
+      {{ if ne .status "open" }} 
+	  {{ title .status | humanize }} 
+      {{ end }}
+      {{ if ne .type "bar" }} 
+	  {{ title .type | humanize }} 
+      {{ end }}</li>

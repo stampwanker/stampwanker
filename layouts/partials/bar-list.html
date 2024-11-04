@@ -1,0 +1,5 @@
+<ul>
+{{ range sort . "name" -}}
+{{ partial "bar-list-item" . }}
+{{ end -}}
+</ul>

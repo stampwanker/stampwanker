@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <ul>
+  {{ range .Pages }}
+  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{- if ne .Params.type "bar" }} {{ title .Params.type -}} 
+      {{- end }}
+      {{ partial "date" .Params.opening_date }} - {{ partial "date" .Params.closing_date -}}</li>
+  {{- end -}}
+  </ul>
+{{ end }}

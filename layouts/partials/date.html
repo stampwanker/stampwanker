@@ -1,0 +1,9 @@
+{{- if . -}}
+  {{- if strings.HasSuffix . "-00-00" -}}
+    {{- strings.Replace . "-00-00" "-01-01" | time.Format "2006" -}}
+  {{- else if strings.HasSuffix . "-00" -}}
+    {{- strings.Replace . "-00" "-01" | time.Format "January 2006" -}}
+  {{- else -}}
+    {{- . | time.Format "2 January 2006" -}}
+  {{- end -}}
+{{- end -}}

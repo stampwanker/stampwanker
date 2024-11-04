@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ .Content }}
+{{- $year := "0000"  -}}
+{{- range sort (where .Site.Data.bars ".opening_date" "like" "[0-9]{4}") ".opening_date" -}}
+{{- $cyear := (substr .opening_date 0 4) -}}
+{{- if ne $year $cyear -}}
+{{- $year = $cyear }}
+
+<h2>{{ $year }}</h2>
+{{- end -}}
+<a href="/bars/{{ .id }}/">{{ .name }}</a>
+&nbsp;{{- if .closing_date -}} (closed {{ partial "date" .closing_date }})
+{{- end -}}
+<br/>
+{{ end }}
+{{ end }}

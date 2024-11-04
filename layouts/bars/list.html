@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<h2>United Kingdom</h2>
+
+<h3>Scotland</h3>
+{{ partial "partials/bar-list.html" (where .Site.Data.bars ".country" "GBR-SCT") -}}
+
+<h3>England</h3>
+{{- $england := (where .Site.Data.bars ".country" "GBR-ENG") -}}
+{{- $london := (where $england ".city" "London") -}}
+{{- $rest_of_england := (where $england ".city" "!=" "London") -}}
+<h4>London</h4>
+{{ partial "partials/bar-list.html" $london -}}
+<h4>Rest of Country</h4>
+{{ partial "partials/bar-list.html" $rest_of_england -}}
+
+
+<h3>Wales</h3>
+{{ partial "partials/bar-list.html" (where .Site.Data.bars ".country" "GBR-WLS") -}}
+
+<h3>Northen Ireland</h3>
+{{ partial "partials/bar-list.html" (where .Site.Data.bars ".country" "GBR-NIR") -}}
+
+<h2>Rest of World</h2>
+{{- $british_countries := slice "England" "Ireland" "Scotland" "Wales" "Northern Ireland" -}}
+{{- $countries := slice -}}
+{{- range .Site.Data.bars -}}
+{{-   $countries = $countries | append .country_name -}}
+{{- end -}}
+{{- $countries := complement $british_countries $countries -}}
+{{- range (uniq $countries | sort) -}}
+<h3>{{ . }}</h3>
+{{-   partial "partials/bar-list.html" (where $.Site.Data.bars ".country_name" .) -}}
+{{- end -}}
+{{- end -}}
