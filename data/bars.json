@@ -215,8 +215,9 @@
     "name": "Brixton",
     "country": "GBR-ENG",
     "city": "London",
-    "state": "closed",
-    "status": "open",
+    "status": "closed",
+    "opening_date": "2018-11-00",
+    "closing_date": "2023-03-22",
     "id": "brixton",
     "type": "bar",
     "country_name": "England"
@@ -1389,6 +1390,8 @@
     "visas": [
       "1.0"
     ],
+    "closing_date": "2023-03-00",
+    "opening_date": "2015-04-15",
     "id": "leicester",
     "type": "bar",
     "country_name": "England"
@@ -1401,6 +1404,8 @@
     "visas": [
       "1.0"
     ],
+    "opening_date": "2014-08-14",
+    "closing_date": "2023-03-22",
     "id": "clapham-junction",
     "type": "bar",
     "country_name": "England"
