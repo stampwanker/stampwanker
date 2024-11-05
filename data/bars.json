@@ -379,7 +379,7 @@
     "country": "GBR-ENG",
     "state": "closed",
     "opening_date": "2019-10-16",
-    "closing_date": "2022-00-00",
+    "closing_date": "2022-08-30",
     "status": "open",
     "id": "dalston",
     "type": "bar",
@@ -655,6 +655,7 @@
   {
     "name": "Hop Hub",
     "status": "closed",
+    "closing_date": "2022-08-30",
     "country": "GBR-SCT",
     "id": "hop-hub",
     "type": "bar",
@@ -665,6 +666,7 @@
     "name": "Hop and Anchor",
     "status": "closed",
     "type": "pub",
+    "closing_date": "2022-08-30",
     "country": "GBR-SCT",
     "id": "hop-and-anchor",
     "city": "Hop and Anchor",
@@ -915,7 +917,10 @@
     "city": "London",
     "status": "closed",
     "opening_date": "2019-01-04",
-    "closing_date": "2022-00-00",
+    "closing_date": "2022-08-30",
+    "references": [
+      "Closing date: https://forum.brewdog.com/t/bars-update-aug-22/47317"
+    ],
     "id": "old-street",
     "type": "bar",
     "country_name": "England"
@@ -981,6 +986,8 @@
     "name": "Peterhead",
     "country": "GBR-ENG",
     "status": "closed",
+    "closing_date": "2022-08-30",
+    "opening_date": "2019-03-00",
     "id": "peterhead",
     "type": "bar",
     "city": "Peterhead",
@@ -1149,6 +1156,7 @@
     "type": "pub",
     "country": "GBR-ENG",
     "status": "closed",
+    "closing_date": "2022-08-30",
     "id": "smithfield-market-arms",
     "country_name": "England"
   },
@@ -1458,12 +1466,12 @@
   },
   {
     "name": "Doghouse Manchester",
-    "country": "GBR",
+    "country": "GBR-ENG",
     "type": "doghouse",
     "city": "Manchester",
     "status": "open",
     "id": "doghouse-manchester",
-    "country_name": "United Kingdom"
+    "country_name": "England"
   },
   {
     "name": "Overworks Tap Room",
@@ -1512,6 +1520,15 @@
     "type": "bar",
     "city": "Tallinn",
     "country_name": "Estonia"
+  },
+  {
+    "name": "The Tankard",
+    "country": "GBR-ENG",
+    "city": "London",
+    "type": "pub",
+    "status": "closed",
+    "id": "the-tankard",
+    "country_name": "England"
   },
   {
     "name": "Durham",
