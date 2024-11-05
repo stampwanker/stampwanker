@@ -62,9 +62,20 @@
   },
   {
     "name": "Angel",
+    "aka": [
+      "Dog Eat Dog",
+      "Punk Kitchen"
+    ],
     "status": "closed",
     "country": "GBR-ENG",
     "city": "London",
+    "opening_date": "2015-10-15",
+    "closing_date": "2019-09-00",
+    "trivia": [
+      "This bar originally opened as \"Dog Eat Dog\", with a restaurant licence.",
+      "It later reopened as \"Punk Kitchen\" with rotating pop-up kitchens.",
+      "It finally reopened as Brewdog Angel with equipment for customers to brew their own beer."
+    ],
     "id": "angel",
     "type": "bar",
     "country_name": "England"
@@ -337,6 +348,7 @@
     "visas": [
       "1.0"
     ],
+    "opening_date": "2015-12-10",
     "status": "open",
     "id": "clerkenwell",
     "type": "bar",
@@ -366,6 +378,8 @@
     "city": "London",
     "country": "GBR-ENG",
     "state": "closed",
+    "opening_date": "2019-10-16",
+    "closing_date": "2022-00-00",
     "status": "open",
     "id": "dalston",
     "type": "bar",
