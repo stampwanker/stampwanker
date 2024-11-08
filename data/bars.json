@@ -5,6 +5,9 @@
       "1.0"
     ],
     "opening_date": "2010-10-01",
+    "lat": 57.149457749999996,
+    "long": -2.097896794130933,
+    "address": "BrewDog Flagship, 17, Gallowgate, City Centre, Aberdeen City, Alba / Scotland, AB25 1EB, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "aberdeen",
@@ -37,6 +40,9 @@
     "name": "Aberdeen Union Square",
     "city": "Aberdeen",
     "id": "union-square",
+    "lat": 57.1432179,
+    "long": -2.0970865,
+    "address": "BrewDog, Guild Street, City Centre, Aberdeen City, Alba / Scotland, AB11 5RG, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
@@ -76,6 +82,9 @@
       "It later reopened as \"Punk Kitchen\" with rotating pop-up kitchens.",
       "It finally reopened as Brewdog Angel with equipment for customers to brew their own beer."
     ],
+    "lat": 51.5369155,
+    "long": -0.1013052,
+    "address": "Dog Eat Dog, 29-31, Essex Road, Angel, Islington, London Borough of Islington, London, Greater London, England, N1 2SA, United Kingdom",
     "id": "angel",
     "type": "bar",
     "country_name": "England"
@@ -96,6 +105,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 41.3857301,
+    "long": 2.1581661,
+    "address": "Brewdog, Carrer de Casanova, l'Antiga Esquerra de l'Eixample, Eixample, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08011, Espa\u00f1a",
     "status": "open",
     "id": "barcelona",
     "type": "bar",
@@ -107,6 +119,9 @@
     "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2022-03-07",
+    "lat": 51.2651426,
+    "long": -1.0849505,
+    "address": "BrewDog, Festival Place, Basingstoke, Basingstoke and Deane, Hampshire, England, RG21 7BE, United Kingdom",
     "status": "open",
     "id": "basingstoke",
     "type": "bar",
@@ -115,6 +130,9 @@
   {
     "name": "Bath",
     "country": "GBR-ENG",
+    "lat": 51.37837515,
+    "long": -2.358202428618421,
+    "address": "Brewdog, 20, St. Lawrence Street, Widcombe, Bath, Bath and North East Somerset, West of England, England, BA1 1AN, United Kingdom",
     "status": "open",
     "id": "bath",
     "type": "bar",
@@ -126,6 +144,9 @@
     "country": "DEU",
     "city": "Berlin",
     "opening_date": "2022-02-17",
+    "lat": 52.5150559,
+    "long": 13.4541734,
+    "address": "Brewdog, 7, Warschauer Stra\u00dfe, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland",
     "status": "open",
     "id": "berlin-friedrichshain",
     "type": "bar",
@@ -138,6 +159,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 52.5328688,
+    "long": 13.3956502,
+    "address": "Brewdog Mitte, 29, Ackerstra\u00dfe, Mitte, Berlin, 10115, Deutschland",
     "status": "open",
     "id": "berlin-mitte",
     "type": "bar",
@@ -159,6 +183,9 @@
       "1.0"
     ],
     "opening_date": "2012-12-00",
+    "lat": 52.4771342,
+    "long": -1.9015611,
+    "address": "Brewdog, 81-87, John Bright Street, Chinese Quarter, Digbeth, Park Central, Birmingham, West Midlands, England, B1 1BL, United Kingdom",
     "status": "open",
     "id": "birmingham",
     "type": "bar",
@@ -168,6 +195,9 @@
   {
     "name": "Bournemouth",
     "country": "GBR-ENG",
+    "lat": 50.7191731,
+    "long": -1.8797387,
+    "address": "BrewDog Bournemouth, Exeter Crescent, West Cliff, Bournemouth, Bournemouth, Christchurch and Poole, England, BH2 5DD, United Kingdom",
     "status": "open",
     "id": "bournemouth",
     "type": "bar",
@@ -177,6 +207,9 @@
   {
     "name": "Bradford",
     "country": "GBR-ENG",
+    "lat": 53.7913899,
+    "long": -1.7579432,
+    "address": "BrewDog, 11, Great Horton Road, Great Horton, Bradford, West Yorkshire, England, BD7 1AJ, United Kingdom",
     "status": "open",
     "id": "bradford",
     "type": "bar",
@@ -186,6 +219,9 @@
   {
     "name": "Brighton",
     "country": "GBR-ENG",
+    "lat": 50.82454165,
+    "long": -0.1353913025972917,
+    "address": "Brewdog, 52-54, Grand Parade, Round Hill, Brighton, Brighton and Hove, England, BN2 9QA, United Kingdom",
     "status": "open",
     "id": "brighton",
     "type": "bar",
@@ -195,6 +231,9 @@
   {
     "name": "Brisbane Fortitude Valley",
     "country": "AUS",
+    "lat": -27.456814,
+    "long": 153.0326635,
+    "address": "BrewDog, Brunswick Street, Fortitude Valley, Greater Brisbane, Queensland, 4006, Australia",
     "status": "open",
     "id": "brisbane-fortitude-valley",
     "type": "bar",
@@ -210,6 +249,9 @@
       "1.0"
     ],
     "opening_date": "2012-10-27",
+    "lat": 51.45358455,
+    "long": -2.5924938709160434,
+    "address": "BrewDog, 58, Baldwin Street, Old City, City Centre, Bristol, City of Bristol, West of England, England, BS1 1QW, United Kingdom",
     "status": "open",
     "type": "bar",
     "country_name": "England"
@@ -218,6 +260,9 @@
     "name": "Bristol Harbourside",
     "city": "Bristol",
     "country": "GBR-ENG",
+    "lat": 51.44972225,
+    "long": -2.602288153154107,
+    "address": "Brewdog, Millennium Promenade, Canon's Marsh, City Centre, Bristol, City of Bristol, West of England, England, BS1 5LW, United Kingdom",
     "status": "open",
     "id": "bristol-harbourside",
     "type": "bar",
@@ -240,6 +285,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 50.8460189,
+    "long": 4.3570846,
+    "address": "BrewDog Brussels, Putterie - Putterij, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb / Belgique / Belgien",
     "status": "open",
     "id": "brussels",
     "type": "bar",
@@ -249,6 +297,9 @@
   {
     "name": "Cambridge",
     "country": "GBR-ENG",
+    "lat": 52.20402,
+    "long": 0.1186828,
+    "address": "Brewdog, 15, Bene't Street, Newnham, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 3QN, United Kingdom",
     "status": "open",
     "id": "cambridge",
     "type": "bar",
@@ -260,6 +311,8 @@
     "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2011-12-14",
+    "lat": 51.53833055,
+    "long": -0.14093251556267572,
     "visas": [
       "1.0"
     ],
@@ -270,6 +323,7 @@
       "This was the first brewdog bar opened outside of Scotland.",
       "The Founders drove a tank down Camden High St to anounce the invasion."
     ],
+    "address": "BrewDog, 113, Bayham Street, Chalk Farm, London Borough of Camden, London, Greater London, England, NW1 0AG, United Kingdom",
     "status": "open",
     "id": "camden",
     "type": "bar",
@@ -281,6 +335,9 @@
     "country": "GBR-ENG",
     "id": "camden-road",
     "type": "pub",
+    "lat": 51.5415402,
+    "long": -0.1383177,
+    "address": "Camden Road Arms, 102-106, Camden Road, Kentish Town, London Borough of Camden, London, Greater London, England, NW1 9EA, United Kingdom",
     "status": "open",
     "country_name": "England"
   },
@@ -289,6 +346,9 @@
     "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2018-10-00",
+    "lat": 51.5046438,
+    "long": -0.0146973,
+    "address": "BrewDog, 2, Churchill Place, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, England, E14 5RB, United Kingdom",
     "status": "open",
     "id": "canary-wharf",
     "type": "bar",
@@ -300,6 +360,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.4787462,
+    "long": -3.1792544,
+    "address": "BrewDog Cardiff, 31, Westgate Street, Temperance Town, Castle, Cardiff, Cymru / Wales, CF10 1DD, United Kingdom",
     "status": "open",
     "id": "cardiff",
     "type": "bar",
@@ -309,6 +372,9 @@
   {
     "name": "Carlisle",
     "country": "GBR-ENG",
+    "lat": 54.8907497,
+    "long": -2.9309043,
+    "address": "Brewdog, Botchergate, Currock, Carlisle, Cumberland, England, CA1 1QS, United Kingdom",
     "status": "open",
     "id": "carlisle",
     "type": "bar",
@@ -320,6 +386,8 @@
     "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2021-07-00",
+    "lat": 51.5166863,
+    "long": -0.1089721,
     "status": "open",
     "id": "chancery-lane",
     "type": "bar",
@@ -329,6 +397,9 @@
     "name": "Cheltenham",
     "country": "GBR-ENG",
     "opening_date": "2022-02-24",
+    "lat": 51.903386600000005,
+    "long": -2.076543395573728,
+    "address": "BrewDog, Henrietta Street, Marle Hill, St Paul\u2019s, Cheltenham, Gloucestershire, England, GL50 4FA, United Kingdom",
     "status": "open",
     "id": "cheltenham",
     "type": "bar",
@@ -338,6 +409,9 @@
   {
     "name": "Cincinnati",
     "country": "USA",
+    "lat": 39.10870145,
+    "long": -84.50909962578417,
+    "address": "Brewdog Cincinnati, 316, Reading Road, Pendleton, Cincinnati, Hamilton County, Ohio, 45202, United States",
     "status": "open",
     "id": "cincinnati",
     "type": "bar",
@@ -352,6 +426,9 @@
       "1.0"
     ],
     "opening_date": "2015-12-10",
+    "lat": 51.5224247,
+    "long": -0.1037538,
+    "address": "BrewDog, 45-47, Clerkenwell Road, Clerkenwell Green, Islington, London Borough of Islington, London, Greater London, England, EC1M 5RS, United Kingdom",
     "status": "open",
     "id": "clerkenwell",
     "type": "bar",
@@ -419,6 +496,9 @@
     "name": "Doghouse Edinburgh Hotel",
     "city": "Edinburgh",
     "type": "doghouse",
+    "lat": 55.951283399999994,
+    "long": -3.1828159580419566,
+    "address": "BrewDog Edinburgh Doghouse, 5, New Street, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH8 8BH, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "doghouse-edinburgh-hotel",
@@ -430,6 +510,9 @@
     "city": "Berlin",
     "type": "dogtap",
     "opening_date": "2019-08-09",
+    "lat": 52.4380374,
+    "long": 13.368003,
+    "address": "BrewDog DogTap Berlin, 23, Im Marienpark, Marienpark, Mariendorf, Tempelhof-Sch\u00f6neberg, Berlin, 12107, Deutschland",
     "status": "open",
     "id": "dogtap-berlin",
     "country_name": "Germany"
@@ -438,6 +521,9 @@
     "name": "Dogtap Brisbane",
     "country": "AUS",
     "type": "dogtap",
+    "lat": -27.4484924,
+    "long": 153.0998283,
+    "address": "BrewDog DogTap, 77, Metroplex Avenue, Metroplex on Gateway, Murarrie, Brisbane City, Queensland, 4172, Australia",
     "status": "open",
     "id": "dogtap-brisbane",
     "city": "Dogtap Brisbane",
@@ -462,6 +548,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 57.36949865,
+    "long": -2.0506896373604544,
+    "address": "Brewdog DogTap, Balmacassie Drive, Waterton, Ellon, Aberdeenshire, Alba / Scotland, AB41 8BX, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "dogtap-ellon",
@@ -483,6 +572,9 @@
       "1.0"
     ],
     "opening_date": "2014-06-14",
+    "lat": 56.4632348,
+    "long": -2.9707948,
+    "address": "BrewDog Dundee, Panmure Street, Central Waterfront, City Centre, Dundee, Dundee City, Alba / Scotland, DD1 2BW, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "dundee",
@@ -494,6 +586,9 @@
     "name": "Ealing",
     "city": "London",
     "country": "GBR-ENG",
+    "lat": 51.5134063,
+    "long": -0.3057929,
+    "address": "BrewDog, Market Street, Dickens Yard, London Borough of Ealing, London, Greater London, England, W5 2TD, United Kingdom",
     "status": "open",
     "id": "ealing",
     "type": "bar",
@@ -502,6 +597,9 @@
   {
     "name": "Edinburgh Airport",
     "city": "Edinburgh",
+    "lat": 55.9489667,
+    "long": -3.3617104,
+    "address": "Brewdog, Jubilee Road, City of Edinburgh, Alba / Scotland, EH12 9DP, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "edinburgh-airport",
@@ -516,6 +614,9 @@
       "1.0"
     ],
     "opening_date": "2011-00-00",
+    "lat": 55.9483708,
+    "long": -3.189683,
+    "address": "Brew Dog, 143, Cowgate, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1JS, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
@@ -528,6 +629,9 @@
       "1.0"
     ],
     "opening_date": "2018-01-26",
+    "lat": 55.9474969,
+    "long": -3.2065848,
+    "address": "BrewDog Lothian Road, 50, Lothian Road, Lauriston, Tollcross, City of Edinburgh, Alba / Scotland, EH3 9BY, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "edinburgh-lothian-road",
@@ -537,6 +641,9 @@
   {
     "name": "Exeter",
     "country": "GBR-ENG",
+    "lat": 50.72429245,
+    "long": -3.5321861308460645,
+    "address": "Brewdog, 12, Queen Street, St Thomas, Exeter, Devon, England, EX4 3HP, United Kingdom",
     "status": "open",
     "id": "exeter",
     "type": "bar",
@@ -558,6 +665,9 @@
   {
     "name": "Frankfurt",
     "country": "DEU",
+    "lat": 50.1085002,
+    "long": 8.6694914,
+    "address": "Brewdog, 51, Kaiserstra\u00dfe, Bahnhofsviertel, Innenstadt 1, Frankfurt am Main, Hessen, 60329, Deutschland",
     "status": "open",
     "id": "frankfurt",
     "type": "bar",
@@ -571,6 +681,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 39.95719235,
+    "long": -83.01235408942566,
+    "address": "BrewDog, West Town Street, Franklinton, Columbus, Franklin County, Ohio, 43216, United States",
     "status": "open",
     "id": "franklinton",
     "type": "bar",
@@ -593,6 +706,9 @@
       "1.0"
     ],
     "opening_date": "2011-07-00",
+    "lat": 55.8682059,
+    "long": -4.2921693,
+    "address": "BrewDog, 1397, Argyle Street, Stobcross, Kelvinhaugh, Glasgow, Glasgow City, Alba / Scotland, G3 8AN, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
@@ -607,6 +723,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 55.8593516,
+    "long": -4.2480192,
+    "address": "BrewDog, 99, Hutcheson Street, Merchant City, Glasgow, Glasgow City, Alba / Scotland, G1 1SH, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "glasgow-merchant-city",
@@ -620,6 +739,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 57.7032368,
+    "long": 11.9587442,
+    "address": "BrewDog, 10b, Kungsgatan, Kungsh\u00f6jd, Inom Vallgraven, Centrum, G\u00f6teborg, G\u00f6teborgs Stad, V\u00e4stra G\u00f6talands l\u00e4n, 411 19, Sverige",
     "status": "open",
     "id": "g\u00f6teborg",
     "type": "bar",
@@ -632,6 +754,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 59.9199499,
+    "long": 10.7572416,
+    "address": "BD57, Markveien, Gr\u00fcnerl\u00f8kka, Oslo, 0550, Norge",
     "status": "open",
     "id": "gr\u00fcnerl\u00f8kka",
     "type": "bar",
@@ -650,6 +775,9 @@
   {
     "name": "Hong Kong",
     "country": "CHN",
+    "lat": 22.28238,
+    "long": 114.15483,
+    "address": "BrewDog, 8, \u64fa\u82b1\u8857 Lyndhurst Terrace, SoHo, \u4e2d\u74b0 Central, \u4e2d\u897f\u5340 Central and Western District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
     "status": "open",
     "id": "hong-kong",
     "type": "bar",
@@ -660,6 +788,9 @@
     "name": "Hop Hub",
     "status": "closed",
     "closing_date": "2022-08-30",
+    "lat": 55.8253598,
+    "long": -3.985760604430667,
+    "address": "Brewdog Hop Hub, Condor Glen, Eurocentral Estate, Thankerton, Holytown, North Lanarkshire, Alba / Scotland, ML1 4UY, United Kingdom",
     "country": "GBR-SCT",
     "id": "hop-hub",
     "type": "bar",
@@ -680,6 +811,9 @@
     "name": "Huddersfield",
     "country": "GBR-ENG",
     "opening_date": "2021-12-02",
+    "lat": 53.6444833,
+    "long": -1.7792205,
+    "address": "BrewDog Huddersfield, 29, Queensgate, Springwood, Aspley, Huddersfield, Kirklees, West Yorkshire, England, HD1 2RD, United Kingdom",
     "status": "open",
     "id": "huddersfield",
     "type": "bar",
@@ -689,6 +823,9 @@
   {
     "name": "Hull",
     "country": "GBR-ENG",
+    "lat": 53.74197075,
+    "long": -0.3386838986706515,
+    "address": "BrewDog, 30G, Princes Dock Street, Old Town, Hull, Kingston upon Hull, England, HU1 2PQ, United Kingdom",
     "status": "open",
     "id": "hull",
     "type": "bar",
@@ -697,12 +834,15 @@
   },
   {
     "name": "Inverurie",
-    "country": "GBR-ENG",
+    "country": "GBR-SCT",
+    "lat": 57.2841068,
+    "long": -2.3738167,
+    "address": "Brewdog Inverurie, 22, Market Place, Port Elphinstone, Inverurie, Aberdeenshire, Alba / Scotland, AB51 3XN, United Kingdom",
     "status": "open",
     "id": "inverurie",
     "type": "bar",
     "city": "Inverurie",
-    "country_name": "England"
+    "country_name": "Scotland"
   },
   {
     "name": "Kijkduin",
@@ -718,6 +858,9 @@
     "country": "SWE",
     "city": "Stockholm",
     "opening_date": "2013-05-00",
+    "lat": 59.3362645,
+    "long": 18.0342749,
+    "address": "BrewDog Kungsholmen, Sankt Eriksgatan, Kungsholmen, Kungsholmens stadsdelsomr\u00e5de, Stockholm, Stockholms kommun, Stockholms l\u00e4n, 112 34, Sverige",
     "status": "open",
     "id": "kungsholmen",
     "type": "bar",
@@ -727,6 +870,9 @@
     "name": "Las Vegas",
     "country": "USA",
     "opening_date": "2022-10-30",
+    "lat": 36.1047,
+    "long": -115.1725056,
+    "address": "Brew Dog, South Las Vegas Boulevard, Las Vegas Strip, Paradise, Clark County, Nevada, 89158, United States",
     "status": "open",
     "id": "las-vegas",
     "type": "bar",
@@ -737,6 +883,9 @@
     "name": "Le Marais",
     "country": "FRA",
     "city": "Paris",
+    "lat": 48.8588994,
+    "long": 2.3621024,
+    "address": "Brewdog, 1, Place de Thorigny, Quartier des Archives, Paris 3e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75003, France",
     "status": "open",
     "id": "le-marais",
     "type": "bar",
@@ -749,6 +898,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 53.82027495,
+    "long": -1.5764136721196462,
+    "address": "Brewdog/Red's True BBQ, 6a, Otley Road, Headingley Hill, Headingley, Leeds, West Yorkshire, England, LS6 2AD, United Kingdom",
     "id": "leeds",
     "type": "bar",
     "city": "Leeds",
@@ -772,6 +924,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 53.4017596,
+    "long": -2.9772471,
+    "address": "BrewDog, 8, Colquitt Street, Ropewalks, Toxteth, Liverpool, Liverpool City Region, England, L1 4DE, United Kingdom",
     "status": "open",
     "id": "liverpool",
     "type": "bar",
@@ -784,6 +939,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 55.6047901,
+    "long": 13.00514,
+    "address": "Brewdog, 25, Baltzarsgatan, Gamla Staden, Norr, Malm\u00f6, Malm\u00f6 kommun, Sk\u00e5ne l\u00e4n, 211 37, Sverige",
     "status": "open",
     "id": "malm\u00f6",
     "type": "bar",
@@ -795,6 +953,9 @@
     "country": "GBR-ENG",
     "type": "outpost",
     "city": "Manchester",
+    "lat": 53.4677435,
+    "long": -2.23523,
+    "address": "Brewdog Outpost Manchester, 144, Oxford Road, Brunswick, Chorlton-on-Medlock, Manchester, Greater Manchester, England, M13 9GP, United Kingdom",
     "status": "open",
     "id": "manchester-outpost",
     "country_name": "England"
@@ -814,6 +975,9 @@
     "trivia": [
       "Brewdog annouced a crap beer amnesty where people could exchange their cans of mainstream beer for a Brewdog beer."
     ],
+    "lat": 53.4781428,
+    "long": -2.2472464,
+    "address": "BrewDog Manchester, 35, Peter Street, Civic Quarter, City Centre, Manchester, Greater Manchester, England, M2 5BG, United Kingdom",
     "status": "open",
     "type": "bar",
     "country_name": "England"
@@ -839,6 +1003,9 @@
   {
     "name": "Milton Keynes",
     "country": "GBR-ENG",
+    "lat": 52.0386269,
+    "long": -0.7629125,
+    "address": "BrewDog, 316, Midsummer Boulevard, Central Milton Keynes, Milton Keynes, City of Milton Keynes, England, MK9 2EA, United Kingdom",
     "status": "open",
     "id": "milton-keynes",
     "type": "bar",
@@ -848,6 +1015,9 @@
   {
     "name": "Mumbai Bandra",
     "country": "IND",
+    "lat": 19.0682271,
+    "long": 72.8317332,
+    "address": "Brewdog, PD Hinduja Road (Khar Pali Road), Linking Road Shopping area, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",
     "status": "open",
     "id": "mumbai-bandra",
     "type": "bar",
@@ -869,6 +1039,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 54.9699233,
+    "long": -1.609521,
+    "address": "Brew Dog, 12-16, Dean Street, Grainger Town, Newcastle upon Tyne, Tyne and Wear, North East, England, NE1 1PG, United Kingdom",
     "status": "open",
     "id": "newcastle",
     "type": "bar",
@@ -878,6 +1051,9 @@
   {
     "name": "Nice",
     "country": "FRA",
+    "lat": 43.6960274,
+    "long": 7.269312,
+    "address": "Brewdog, Avenue Max Gallo, Vieux Nice, Nice, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 06000, France",
     "status": "open",
     "id": "nice",
     "type": "bar",
@@ -890,6 +1066,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 52.630188,
+    "long": 1.2975454,
+    "address": "BrewDog, 1, Queen Street, Heigham Grove, Norwich, Norfolk, England, NR2 4SG, United Kingdom",
     "status": "open",
     "id": "norwich",
     "type": "bar",
@@ -906,6 +1085,9 @@
     "references": [
       "Opening Night: https://www.nottsbrew.co.uk/2012/02/brewdog-nottingham-opens-in-er-nottingham/"
     ],
+    "lat": 52.9544714,
+    "long": -1.1441262,
+    "address": "BrewDog, 22, Broad Street, Lace Market, St Ann's, City of Nottingham, East Midlands, England, NG1 3AL, United Kingdom",
     "status": "open",
     "id": "nottingham",
     "type": "bar",
@@ -944,6 +1126,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.748072300000004,
+    "long": -1.2372235021983062,
+    "address": "Brewdog, 119, Cowley Road, East Oxford, Oxford, Oxfordshire, England, OX4 1DD, United Kingdom",
     "status": "open",
     "id": "oxford",
     "type": "bar",
@@ -953,6 +1138,9 @@
   {
     "name": "Paddington",
     "country": "GBR-ENG",
+    "lat": 51.5190539,
+    "long": -0.1705643,
+    "address": "Brewdog Paddington, Unit 1, Harbet Road, Paddington, London, Greater London, England, W2 1JX, United Kingdom",
     "status": "open",
     "id": "paddington",
     "type": "bar",
@@ -961,12 +1149,15 @@
   },
   {
     "name": "Pentridge",
-    "country": "GBR-SCT",
+    "country": "AUS",
+    "lat": -37.736826,
+    "long": 144.968318,
+    "address": "BrewDog Pentridge, 1, Champ Street, Coburg, Melbourne, City of Merri-bek, Victoria, 3058, Australia",
     "status": "open",
     "id": "pentridge",
     "type": "bar",
     "city": "Pentridge",
-    "country_name": "Scotland"
+    "country_name": "Australia"
   },
   {
     "name": "Perth, Australia",
@@ -980,6 +1171,9 @@
   {
     "name": "Perth, Scotland",
     "id": "perth",
+    "lat": 56.3980111,
+    "long": -3.428065,
+    "address": "BrewDog, 62, George Street, Bridgend, Perth, Perth and Kinross, Alba / Scotland, PH1 5LA, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
@@ -1009,6 +1203,9 @@
   {
     "name": "Plymouth",
     "country": "GBR-ENG",
+    "lat": 50.3706714,
+    "long": -4.1372805,
+    "address": "Brewdog, Exeter Street, Barbican, Plymouth, England, PL4 0FE, United Kingdom",
     "status": "open",
     "id": "plymouth",
     "type": "bar",
@@ -1030,6 +1227,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.4535092,
+    "long": -0.9743138,
+    "address": "BrewDog, 11, Castle Street, Katesgrove, Coley, Reading, England, RG1 7SB, United Kingdom",
     "status": "open",
     "id": "reading",
     "type": "bar",
@@ -1039,6 +1239,9 @@
   {
     "name": "Reykjavik",
     "country": "ISL",
+    "lat": 64.14547,
+    "long": -21.9246286,
+    "address": "BrewDog, 8, Frakkast\u00edgur, Arnarh\u00f3ll, Mi\u00f0borg, Reykjav\u00edkurborg, H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0, 101, \u00cdsland",
     "status": "open",
     "id": "reykjavik",
     "type": "bar",
@@ -1062,6 +1265,9 @@
     "city": "Rotterdam",
     "country": "NLD",
     "type": "outpost",
+    "lat": 51.9228104,
+    "long": 4.4810729,
+    "address": "Brewdog Outpost Rotterdam, 1, Halvemaanpassage, Stadsdriehoek, Centrum, Rotterdam, Zuid-Holland, Nederland, 3011 DL, Nederland",
     "status": "open",
     "id": "rotterdam-outpost",
     "country_name": "Netherlands"
@@ -1091,6 +1297,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.5133622,
+    "long": -0.12862690929805623,
+    "address": "Brewdog, 142, Shaftesbury Avenue, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, England, WC2H 8HJ, United Kingdom",
     "status": "open",
     "id": "seven-dials",
     "type": "bar",
@@ -1099,6 +1308,9 @@
   {
     "name": "Shanghai",
     "country": "CHN",
+    "lat": 31.2295943,
+    "long": 121.4620009,
+    "address": "Brewdog, 333, \u6210\u90fd\u5317\u8def, \u5357\u4eac\u897f\u8def\u8857\u9053, \u9759\u5b89\u533a, \u4e0a\u6d77\u5e02, 200003, \u4e2d\u56fd",
     "status": "open",
     "id": "shanghai",
     "type": "bar",
@@ -1112,6 +1324,9 @@
       "1.0"
     ],
     "opening_date": "2014-03-08",
+    "lat": 53.37957295,
+    "long": -1.4772062373217931,
+    "address": "BrewDog, 108-110, Devonshire Street, Devonshire, City Centre, Sheffield, South Yorkshire, England, S3 7SF, United Kingdom",
     "status": "open",
     "id": "sheffield",
     "type": "bar",
@@ -1125,6 +1340,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.5029215,
+    "long": -0.22388932746910667,
+    "address": "BrewDog Shepherds Bush, 15-19, Goldhawk Road, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, England, W12 8QQ, United Kingdom",
     "status": "open",
     "id": "shepherd's-bush",
     "type": "bar",
@@ -1137,6 +1355,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.524592,
+    "long": -0.0726328,
+    "address": "BrewDog, 51-55, Bethnal Green Road, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 6LA, United Kingdom",
     "status": "open",
     "id": "shoreditch",
     "type": "bar",
@@ -1148,6 +1369,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 39.9863301,
+    "long": -83.0055781,
+    "address": "Brewdog Short North, 1175, North High Street, Dennison Place, Victorian Village, Columbus, Franklin County, Ohio, 43201, United States",
     "status": "open",
     "id": "short-north",
     "type": "bar",
@@ -1171,6 +1395,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.515085549999995,
+    "long": -0.13713386030238833,
+    "address": "BrewDog Soho, 21-22, Poland Street, Soho, London, Greater London, England, W1F 8QQ, United Kingdom",
     "status": "open",
     "id": "soho",
     "type": "bar",
@@ -1182,6 +1409,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 59.309259,
+    "long": 18.0831237,
+    "address": "Brewdog S\u00f6dermalm, Ringv\u00e4gen, Skanstull, S\u00f6dermalm, S\u00f6dermalms stadsdelsomr\u00e5de, Stockholm, Stockholms kommun, Stockholms l\u00e4n, 106 68, Sverige",
     "status": "open",
     "id": "s\u00f6dermalm",
     "type": "bar",
@@ -1191,6 +1421,9 @@
   {
     "name": "South Eveleigh",
     "country": "AUS",
+    "lat": -33.8942462,
+    "long": 151.1964004,
+    "address": "BrewDog, Innovation Plaza, South Eveleigh, Eveleigh, Sydney, Council of the City of Sydney, New South Wales, 2015, Australia",
     "status": "open",
     "id": "south-eveleigh",
     "type": "bar",
@@ -1203,6 +1436,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 50.9132647,
+    "long": -1.4055695452341368,
+    "address": "Brewdog Southampton, Upper Banister Street, Bedford Place, The Polygon, Southampton, England, SO15 2EF, United Kingdom",
     "status": "open",
     "id": "southampton",
     "type": "bar",
@@ -1211,6 +1447,9 @@
   },
   {
     "name": "St Andrews",
+    "lat": 56.3391725,
+    "long": -2.7981352,
+    "address": "Brewdog, 159, South Street, St Andrews, Fife, Alba / Scotland, KY16 9UP, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "st-andrews",
@@ -1223,6 +1462,9 @@
     "country": "DEU",
     "city": "Hamburg",
     "opening_date": "2019-06-06",
+    "lat": 53.5497853,
+    "long": 9.9684853,
+    "address": "BrewDog St. Pauli, 1, Reeperbahn, St. Pauli, Hamburg-Mitte, Hamburg, 20359, Deutschland",
     "status": "open",
     "id": "st-pauli",
     "type": "bar",
@@ -1233,6 +1475,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 56.1188487,
+    "long": -3.9389383,
+    "address": "Brewdog, Baker Street, Top of the Town, Kings Park, Stirling, Alba / Scotland, FK8 1FW, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "id": "stirling",
@@ -1265,6 +1510,9 @@
     "name": "Upminster",
     "country": "GBR-ENG",
     "opening_date": "2022-11-10",
+    "lat": 51.5568172,
+    "long": 0.24980300959424057,
+    "address": "BrewDog, 18, Station Road, Upminster, London Borough of Havering, London, Greater London, England, RM14 2UD, United Kingdom",
     "status": "open",
     "id": "upminster",
     "type": "bar",
@@ -1276,6 +1524,9 @@
     "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2023-01-26",
+    "lat": 51.4564848,
+    "long": -0.19306213642621045,
+    "address": "BrewDog Wandsworth, Garratt Lane, Wandsworth, London Borough of Wandsworth, London, Greater London, England, SW18 4TF, United Kingdom",
     "status": "open",
     "id": "wandsworth",
     "type": "bar",
@@ -1287,6 +1538,9 @@
     "country": "GBR-ENG",
     "location": "train station",
     "opening_date": "2022-08-12",
+    "lat": 51.5021808,
+    "long": -0.1154758,
+    "address": "BrewDog, 1, Leake Street, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, England, SE1 7PN, United Kingdom",
     "status": "open",
     "id": "waterloo",
     "type": "bar",
@@ -1306,6 +1560,9 @@
   {
     "name": "Wiesbaden",
     "country": "DEU",
+    "lat": 50.0821783,
+    "long": 8.2408944,
+    "address": "BrewDog Wiesbaden, 20, Marktstra\u00dfe, Mitte, Wiesbaden, Hessen, 65183, Deutschland",
     "status": "open",
     "id": "wiesbaden",
     "type": "bar",
@@ -1318,6 +1575,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 53.9564099,
+    "long": -1.0903855,
+    "address": "BrewDog, 130-134, Micklegate, Bishophill, York, York and North Yorkshire, England, YO1 6JX, United Kingdom",
     "status": "open",
     "id": "york",
     "type": "bar",
@@ -1331,6 +1591,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 41.8917617,
+    "long": 12.4929546,
+    "address": "BrewDog Roma, 80, Via delle Terme di Tito, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",
     "id": "roma",
     "type": "bar",
     "city": "Roma",
@@ -1343,6 +1606,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": 44.4965237,
+    "long": 11.3297482,
+    "address": "BrewDog, 2f, Via San Valentino, Saragozza, Porto-Saragozza, Bologna, Emilia-Romagna, 40122, Italia",
     "id": "bologna",
     "type": "bar",
     "city": "Bologna",
@@ -1353,6 +1619,8 @@
     "country": "IRL",
     "type": "outpost",
     "opening": "2019-12-12",
+    "lat": 53.344605650000005,
+    "long": -6.23082120168573,
     "status": "open",
     "id": "dublin-outpost",
     "city": "Dublin Outpost",
@@ -1407,6 +1675,9 @@
     "country": "GBR-SCT",
     "opening_date": "2024-10-30",
     "location": "train station",
+    "lat": 55.95232125,
+    "long": -3.1890094592314604,
+    "address": "BrewDog, Waverley Concourse, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1BB, United Kingdom",
     "id": "edinburgh-waverley",
     "type": "bar",
     "country_name": "Scotland"
@@ -1435,6 +1706,9 @@
     ],
     "opening_date": "2014-08-14",
     "closing_date": "2023-03-22",
+    "lat": 51.4608394,
+    "long": -0.16302616606540343,
+    "address": "Brewdog, 11-13, Battersea Rise, Clapham Junction, London Borough of Wandsworth, London, Greater London, England, SW11 1HG, United Kingdom",
     "id": "clapham-junction",
     "type": "bar",
     "country_name": "England"
@@ -1443,6 +1717,9 @@
     "name": "Pittsburgh",
     "status": "closed",
     "country": "USA",
+    "lat": 40.4603851,
+    "long": -79.9232191,
+    "address": "BrewDog, 6144, Centre Avenue, Shadyside, East Liberty, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States",
     "id": "pittsburgh",
     "type": "bar",
     "city": "Pittsburgh",
@@ -1466,6 +1743,9 @@
     "references": [
       "closing date, https://www.corkbeo.ie/news/local-news/corks-brewdog-closes-suddenly-after-26820707"
     ],
+    "lat": 51.8976641,
+    "long": -8.4793153,
+    "address": "BrewDog Cork, 33-34, Washington Street, The Marsh, Centre B ED, Cork, County Cork, Munster, T12 XV61, \u00c9ire / Ireland",
     "id": "cork",
     "type": "bar",
     "city": "Cork",
@@ -1476,6 +1756,9 @@
     "country": "GBR-ENG",
     "type": "doghouse",
     "city": "Manchester",
+    "lat": 53.4815873,
+    "long": -2.2402715,
+    "address": "BrewDog DogHouse Hotel, 18, Fountain Street, Central Retail District, City Centre, Manchester, Greater Manchester, England, M2 2AA, United Kingdom",
     "status": "open",
     "id": "doghouse-manchester",
     "country_name": "England"
@@ -1510,6 +1793,9 @@
     "visas": [
       "1.0"
     ],
+    "lat": -23.5612831,
+    "long": -46.6939527,
+    "address": "BrewDog Bar, 41, Rua Corop\u00e9, Pinheiros, Bairro de Pinheiros, S\u00e3o Paulo, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 05426-010, Brasil",
     "status": "open",
     "id": "s\u00e3o-paulo",
     "type": "bar",
@@ -1563,6 +1849,9 @@
     "city": "Leeds",
     "opening_date": "2022-10-29",
     "closing_date": "2023-02-00",
+    "lat": 53.82027495,
+    "long": -1.5764136721196462,
+    "address": "Brewdog/Red's True BBQ, 6a, Otley Road, Headingley Hill, Headingley, Leeds, West Yorkshire, England, LS6 2AD, United Kingdom",
     "status": "open",
     "id": "headingley",
     "type": "bar",
