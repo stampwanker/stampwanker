@@ -1686,7 +1686,7 @@
     "name": "Leicester",
     "status": "closed",
     "country": "GBR-ENG",
-    "city": "London",
+    "city": "Leicester",
     "visas": [
       "1.0"
     ],
@@ -1781,10 +1781,26 @@
     "visas": [
       "1.0"
     ],
-    "status": "open",
+    "status": "closed",
+    "opening_date": "2014",
+    "closing_date": "2020",
+    "references": [
+      "Closing date, https://www.stadissa.fi/paikat/1646/brewdog-helsinki."
+    ],
     "id": "helsinki",
     "type": "bar",
     "city": "Helsinki",
+    "country_name": "Finland"
+  },
+  {
+    "name": "Tampere",
+    "country": "FIN",
+    "status": "closed",
+    "opening_date": "2018",
+    "closing_date": "2020",
+    "id": "tampere",
+    "type": "bar",
+    "city": "Tampere",
     "country_name": "Finland"
   },
   {
