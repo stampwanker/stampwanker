@@ -1851,7 +1851,13 @@
     "visas": [
       "1.0"
     ],
-    "status": "open",
+    "status": "closed",
+    "opening_date": "2017-04-00",
+    "closing_date": "2024-08-30",
+    "references": [
+      "Closing date: https://naujienos.pricer.lt/world-famous-beer-hall-in-tallinn-to-close/",
+      "Opening date: https://beertoday.co.uk/2017/04/20/brewdog-bar-tallinn-estonia-0417/"
+    ],
     "id": "tallinn",
     "type": "bar",
     "city": "Tallinn",
