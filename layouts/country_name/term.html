@@ -18,25 +18,42 @@
       style="height: 400px"
       center="{{div $sum_lat $count }},{{ div $sum_long $count }}"
     >
-  {{ range .Pages -}}
-  {{- with .Params -}}
-  {{- if .lat -}}
+  {{    range .Pages -}}
+  {{-     with .Params -}}
+  {{-       if .lat -}}
   <gmp-advanced-marker
      position="{{ .lat }},{{ .long }}"
-     title="{{ .name }}"></gmp-advanced-marker>
-  {{- end -}}
-  {{- end -}}
-  {{- end -}}
+     title="{{ .name }}" {{- if eq .status "closed" -}}class="gmp-marker-closed"{{- end -}}></gmp-advanced-marker>
+  {{-       end -}}
+  {{-     end -}}
+  {{-   end -}}
   {{- end -}}
     </gmp-map>
 
   <ul>
   {{ range .Pages }}
   {{ partial "bar-list-item" .Params }}
-  {{ end }}
+  {{- end -}}
   </ul>
-      <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaljFu2k8QXEehmH5qkuHMhhZsfBDly2U&libraries=maps,marker&v=beta"
-      defer
-    ></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key={{ getenv "HUGO_GOOGLE_MAPS_KEY" }}&libraries=maps,marker&v=beta&loading=async&callback=initMap" defer></script>
+  <script>
+  async function initMap() {
+     const { Map } = await google.maps.importLibrary("maps");
+     const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary(
+        "marker",
+     );
+     const advancedMarkers = [...document.querySelectorAll('.gmp-marker-closed')];
+
+     // Loop through the markers
+     for (let i = 0; i < advancedMarkers.length; i++) {
+	const pin = new PinElement({
+	    background: "lightgray",
+	    borderColor: "black",
+	    glyphColor: "darkgray",
+	});
+
+	advancedMarkers[i].appendChild(pin.element);
+      }
+  }
+</script>
 {{ end }}
