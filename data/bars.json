@@ -177,6 +177,9 @@
     "country": "GBR-ENG",
     "city": "London",
     "type": "pub",
+    "opening_date": "2021-04-00",
+    "lat": 51.528299,
+    "long": -0.071017,
     "status": "open",
     "id": "birdcage",
     "country_name": "England"
@@ -341,6 +344,7 @@
     "country": "GBR-ENG",
     "id": "camden-road",
     "type": "pub",
+    "opening_date": "2021-04-00",
     "lat": 51.5415402,
     "long": -0.1383177,
     "address": "Camden Road Arms, 102-106, Camden Road, Kentish Town, London Borough of Camden, London, Greater London, England, NW1 9EA, United Kingdom",
@@ -1313,6 +1317,7 @@
     "city": "London",
     "id": "seething-lane",
     "type": "pub",
+    "opening_date": "2021-04-00",
     "status": "open",
     "country_name": "England"
   },
@@ -1517,6 +1522,9 @@
     "country": "GBR-ENG",
     "city": "London",
     "type": "pub",
+    "opening_date": "2021-04-00",
+    "lat": 51.502884,
+    "long": -0.076883,
     "status": "open",
     "id": "tower-bridge-arms",
     "country_name": "England"
