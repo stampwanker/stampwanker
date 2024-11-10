@@ -22,6 +22,8 @@
     "visas": [
       "1.0"
     ],
+    "lat": 57.14756,
+    "long": -2.094478,
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
@@ -32,6 +34,8 @@
     "city": "Aberdeen",
     "id": "aberdeen-kennels",
     "type": "doghouse",
+    "lat": 57.147497,
+    "long": -2.094706,
     "country": "GBR-SCT",
     "status": "open",
     "country_name": "Scotland"
@@ -475,10 +479,9 @@
     "name": "Dalston",
     "city": "London",
     "country": "GBR-ENG",
-    "state": "closed",
+    "status": "closed",
     "opening_date": "2019-10-16",
     "closing_date": "2022-08-30",
-    "status": "open",
     "id": "dalston",
     "type": "bar",
     "country_name": "England"
@@ -584,6 +587,8 @@
     "city": "London",
     "country": "GBR-ENG",
     "type": "pub",
+    "lat": 51.49417,
+    "long": -0.224139,
     "status": "open",
     "id": "duke-of-hammersmith",
     "country_name": "England"
@@ -716,6 +721,8 @@
     "name": "Gatwick Airport",
     "country": "GBR-ENG",
     "location": "airport",
+    "lat": 51.1559449,
+    "long": -0.1630408,
     "status": "open",
     "id": "gatwick-airport",
     "type": "bar",
@@ -1245,6 +1252,8 @@
     "city": "London",
     "country": "GBR-ENG",
     "type": "pub",
+    "lat": 51.519222,
+    "long": -0.13576,
     "status": "open",
     "id": "queen-charlotte",
     "country_name": "England"
@@ -1318,6 +1327,8 @@
     "id": "seething-lane",
     "type": "pub",
     "opening_date": "2021-04-00",
+    "lat": 51.5100578,
+    "long": -0.0793657,
     "status": "open",
     "country_name": "England"
   },
@@ -1537,6 +1548,8 @@
     "visas": [
       "1.0"
     ],
+    "lat": 51.5099031,
+    "long": -0.0807577,
     "status": "open",
     "id": "tower-hill-outpost",
     "country_name": "England"
@@ -1588,6 +1601,8 @@
     "type": "pub",
     "location": "train station",
     "opening_date": "2024-01-19",
+    "lat": 51.502746,
+    "long": -0.111338,
     "status": "open",
     "id": "waterloo-arms",
     "country_name": "England"
