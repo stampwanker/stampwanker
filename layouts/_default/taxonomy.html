@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{ .Content }}
   <h1>{{ humanize .Title | title }}</h1>
-  {{ .Content }}
+  {{- .Content }}
   <ul>{{ range .Pages }}
   <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ where .Pages ".Params.status" "open" | len }} open locations)</li>
-  {{ end }}</ul>
+  {{- end }}</ul>
 {{ end }}

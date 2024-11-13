@@ -1,4 +1,5 @@
-<html>
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <title>{{ block "title" . }}
@@ -6,18 +7,20 @@
     {{ end }}</title>
   <style>
 	body { background: gray; margin-top: 0;}
-	#main { margin-top: 0; padding: 1em 2em 2em 2em; background: #D0D0D0; margin-left: 1em; margin-right: 1em; }
-	#navbar { font-size: 125%; }
+	#main { margin-top: 0; padding: 1em 2em 2em 2em;background: #D0D0D0; margin-left: 1em; margin-right: 1em; }
+	#navbar { font-family: sans; background: #5060FF; font-color: white; padding: 0.2em; }
+	#navbar a { color: white; font-family: sans; font-size: 200%; font-weight: bold; }
+	H1, H2 { }
   </style>
   </head>
   <body>
   <div id="main">
     <div id="navbar">
       <a href="/bars/">All</a>
-      <a href="/status/">By Status</a>
-      <a href="/country_name/">By Country</a>
-      <a href="/bartype/">By Type</a>
-      <a href="/date/">By Opening Date</a>
+      <a href="/status/">Statuses</a>
+      <a href="/country_name/">Countries</a>
+      <a href="/bartype/">Types</a>
+      <a href="/date/">Opening Dates</a>
     </div>
     {{ block "main" . }}
     {{- end -}}

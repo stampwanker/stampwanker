@@ -1,5 +1,5 @@
 {{ range .Site.Data.bars }}
-{{ $params := merge . (dict "bartype" .type) }}
+{{ $params := merge . (dict "bartype" .type "city_country" (printf "%s, %s" .city .country_name)) }}
 {{ $status := slice "open" }}
 {{ $page := dict
   "path" .id
