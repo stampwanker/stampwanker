@@ -55,6 +55,8 @@
   {
     "name": "Amritsar",
     "country": "IND",
+    "lat": 31.655359,
+    "long": 74.860303,
     "status": "open",
     "id": "amritsar",
     "type": "bar",
@@ -98,13 +100,13 @@
   {
     "name": "Atlanta Outpost",
     "country": "USA",
+    "city": "Atlanta",
     "type": "outpost",
     "opening_date": "2022-10-13",
     "lat": 33.756269,
     "long": -84.3649011,
     "status": "open",
     "id": "atlanta-outpost",
-    "city": "Atlanta Outpost",
     "country_name": "United States"
   },
   {
@@ -147,6 +149,18 @@
     "type": "bar",
     "city": "Bath",
     "country_name": "England"
+  },
+  {
+    "name": "Belfast Grand Central",
+    "status": "coming_soon",
+    "city": "Belfast",
+    "opening_date": "2024-11-20",
+    "country": "GBR-NIR",
+    "lat": 54.594641,
+    "long": -5.939604,
+    "id": "belfast-grand-central",
+    "type": "bar",
+    "country_name": "Northern Ireland"
   },
   {
     "name": "Berlin Friedrichshain",
@@ -205,6 +219,21 @@
     "country_name": "England"
   },
   {
+    "name": "Bologna",
+    "country": "ITA",
+    "status": "closed",
+    "visas": [
+      "1.0"
+    ],
+    "lat": 44.4965237,
+    "long": 11.3297482,
+    "address": "BrewDog, 2f, Via San Valentino, Saragozza, Porto-Saragozza, Bologna, Emilia-Romagna, 40122, Italia",
+    "id": "bologna",
+    "type": "bar",
+    "city": "Bologna",
+    "country_name": "Italy"
+  },
+  {
     "name": "Bournemouth",
     "country": "GBR-ENG",
     "lat": 50.7191731,
@@ -244,13 +273,13 @@
   {
     "name": "Brisbane Fortitude Valley",
     "country": "AUS",
+    "city": "Brisbane",
     "lat": -27.456814,
     "long": 153.0326635,
     "address": "BrewDog, Brunswick Street, Fortitude Valley, Greater Brisbane, Queensland, 4006, Australia",
     "status": "open",
     "id": "brisbane-fortitude-valley",
     "type": "bar",
-    "city": "Brisbane Fortitude Valley",
     "country_name": "Australia"
   },
   {
@@ -288,6 +317,8 @@
     "status": "closed",
     "opening_date": "2018-11-00",
     "closing_date": "2023-03-22",
+    "lat": 51.461531,
+    "long": -0.11317,
     "id": "brixton",
     "type": "bar",
     "country_name": "England"
@@ -408,6 +439,15 @@
     "country_name": "England"
   },
   {
+    "name": "Chandigarh",
+    "status": "coming_soon",
+    "country": "IND",
+    "id": "chandigarh",
+    "type": "bar",
+    "city": "Chandigarh",
+    "country_name": "India"
+  },
+  {
     "name": "Cheltenham",
     "country": "GBR-ENG",
     "opening_date": "2022-02-24",
@@ -421,6 +461,15 @@
     "country_name": "England"
   },
   {
+    "name": "Ch\u00e2telet",
+    "status": "never_opened",
+    "country": "FRA",
+    "city": "Paris",
+    "id": "ch\u00e2telet",
+    "type": "bar",
+    "country_name": "France"
+  },
+  {
     "name": "Cincinnati",
     "country": "USA",
     "lat": 39.10870145,
@@ -431,6 +480,23 @@
     "type": "bar",
     "city": "Cincinnati",
     "country_name": "United States"
+  },
+  {
+    "name": "Clapham Junction",
+    "status": "closed",
+    "country": "GBR-ENG",
+    "city": "London",
+    "visas": [
+      "1.0"
+    ],
+    "opening_date": "2014-08-14",
+    "closing_date": "2023-03-22",
+    "lat": 51.4608394,
+    "long": -0.16302616606540343,
+    "address": "Brewdog, 11-13, Battersea Rise, Clapham Junction, London Borough of Wandsworth, London, Greater London, England, SW11 1HG, United Kingdom",
+    "id": "clapham-junction",
+    "type": "bar",
+    "country_name": "England"
   },
   {
     "name": "Clerkenwell",
@@ -457,7 +523,7 @@
     "opening_date": "2021-12-02",
     "status": "open",
     "id": "cleveland-outpost",
-    "city": "Cleveland Outpost",
+    "city": "Cleveland",
     "country_name": "United States"
   },
   {
@@ -476,12 +542,31 @@
     "country_name": "United States"
   },
   {
+    "name": "Cork",
+    "status": "closed",
+    "country": "IRL",
+    "opening_date": "2022-07-21",
+    "closing_date": "2023-05-01",
+    "references": [
+      "closing date, https://www.corkbeo.ie/news/local-news/corks-brewdog-closes-suddenly-after-26820707"
+    ],
+    "lat": 51.8976641,
+    "long": -8.4793153,
+    "address": "BrewDog Cork, 33-34, Washington Street, The Marsh, Centre B ED, Cork, County Cork, Munster, T12 XV61, \u00c9ire / Ireland",
+    "id": "cork",
+    "type": "bar",
+    "city": "Cork",
+    "country_name": "Ireland"
+  },
+  {
     "name": "Dalston",
     "city": "London",
     "country": "GBR-ENG",
     "status": "closed",
     "opening_date": "2019-10-16",
     "closing_date": "2022-08-30",
+    "lat": 51.551807,
+    "long": -0.07519,
     "id": "dalston",
     "type": "bar",
     "country_name": "England"
@@ -530,6 +615,18 @@
     "country_name": "Scotland"
   },
   {
+    "name": "Doghouse Manchester",
+    "country": "GBR-ENG",
+    "type": "doghouse",
+    "city": "Manchester",
+    "lat": 53.4815873,
+    "long": -2.2402715,
+    "address": "BrewDog DogHouse Hotel, 18, Fountain Street, Central Retail District, City Centre, Manchester, Greater Manchester, England, M2 2AA, United Kingdom",
+    "status": "open",
+    "id": "doghouse-manchester",
+    "country_name": "England"
+  },
+  {
     "name": "Dogtap Berlin",
     "country": "DEU",
     "city": "Berlin",
@@ -546,12 +643,12 @@
     "name": "Dogtap Brisbane",
     "country": "AUS",
     "type": "dogtap",
+    "city": "Brisbane",
     "lat": -27.4484924,
     "long": 153.0998283,
     "address": "BrewDog DogTap, 77, Metroplex Avenue, Metroplex on Gateway, Murarrie, Brisbane City, Queensland, 4172, Australia",
     "status": "open",
     "id": "dogtap-brisbane",
-    "city": "Dogtap Brisbane",
     "country_name": "Australia"
   },
   {
@@ -579,8 +676,20 @@
     "country": "GBR-SCT",
     "status": "open",
     "id": "dogtap-ellon",
-    "city": "Dogtap Ellon",
+    "city": "Ellon",
     "country_name": "Scotland"
+  },
+  {
+    "name": "Dublin Outpost",
+    "country": "IRL",
+    "type": "outpost",
+    "opening": "2019-12-12",
+    "lat": 53.344605650000005,
+    "long": -6.23082120168573,
+    "status": "open",
+    "id": "dublin-outpost",
+    "city": "Dublin",
+    "country_name": "Ireland"
   },
   {
     "name": "Duke of Hammersmith",
@@ -608,6 +717,15 @@
     "type": "bar",
     "city": "Dundee",
     "country_name": "Scotland"
+  },
+  {
+    "name": "Durham",
+    "status": "coming_soon",
+    "country": "GBR-ENG",
+    "id": "durham",
+    "type": "bar",
+    "city": "Durham",
+    "country_name": "England"
   },
   {
     "name": "Ealing",
@@ -662,6 +780,20 @@
     "country": "GBR-SCT",
     "status": "open",
     "id": "edinburgh-lothian-road",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Edinburgh Waverley",
+    "city": "Edinburgh",
+    "status": "open",
+    "country": "GBR-SCT",
+    "opening_date": "2024-10-30",
+    "location": "train station",
+    "lat": 55.95232125,
+    "long": -3.1890094592314604,
+    "address": "BrewDog, Waverley Concourse, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1BB, United Kingdom",
+    "id": "edinburgh-waverley",
     "type": "bar",
     "country_name": "Scotland"
   },
@@ -721,17 +853,18 @@
     "name": "Gatwick Airport",
     "country": "GBR-ENG",
     "location": "airport",
+    "city": "Gatwick",
     "lat": 51.1559449,
     "long": -0.1630408,
     "status": "open",
     "id": "gatwick-airport",
     "type": "bar",
-    "city": "Gatwick Airport",
     "country_name": "England"
   },
   {
     "name": "Glasgow Kelvingrove",
     "id": "glasgow",
+    "city": "Glasgow",
     "visas": [
       "1.0"
     ],
@@ -742,7 +875,6 @@
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
-    "city": "Glasgow Kelvingrove",
     "country_name": "Scotland"
   },
   {
@@ -750,6 +882,7 @@
     "aka": [
       "Doghouse Merchant City"
     ],
+    "city": "Glasgow",
     "visas": [
       "1.0"
     ],
@@ -760,23 +893,7 @@
     "status": "open",
     "id": "glasgow-merchant-city",
     "type": "bar",
-    "city": "Glasgow Merchant City",
     "country_name": "Scotland"
-  },
-  {
-    "name": "G\u00f6teborg",
-    "country": "SWE",
-    "visas": [
-      "1.0"
-    ],
-    "lat": 57.7032368,
-    "long": 11.9587442,
-    "address": "BrewDog, 10b, Kungsgatan, Kungsh\u00f6jd, Inom Vallgraven, Centrum, G\u00f6teborg, G\u00f6teborgs Stad, V\u00e4stra G\u00f6talands l\u00e4n, 411 19, Sverige",
-    "status": "open",
-    "id": "g\u00f6teborg",
-    "type": "bar",
-    "city": "G\u00f6teborg",
-    "country_name": "Sweden"
   },
   {
     "name": "Gr\u00fcnerl\u00f8kka",
@@ -796,11 +913,76 @@
   {
     "name": "Gurugram",
     "country": "IND",
+    "lat": 28.451069,
+    "long": 77.097419,
     "status": "open",
     "id": "gurugram",
     "type": "bar",
     "city": "Gurugram",
     "country_name": "India"
+  },
+  {
+    "name": "G\u00f6teborg",
+    "country": "SWE",
+    "visas": [
+      "1.0"
+    ],
+    "lat": 57.7032368,
+    "long": 11.9587442,
+    "address": "BrewDog, 10b, Kungsgatan, Kungsh\u00f6jd, Inom Vallgraven, Centrum, G\u00f6teborg, G\u00f6teborgs Stad, V\u00e4stra G\u00f6talands l\u00e4n, 411 19, Sverige",
+    "status": "open",
+    "id": "g\u00f6teborg",
+    "type": "bar",
+    "city": "G\u00f6teborg",
+    "country_name": "Sweden"
+  },
+  {
+    "name": "Headingley",
+    "country": "GBR-ENG",
+    "city": "Leeds",
+    "opening_date": "2022-10-29",
+    "closing_date": "2023-02-00",
+    "lat": 53.82027495,
+    "long": -1.5764136721196462,
+    "address": "Brewdog/Red's True BBQ, 6a, Otley Road, Headingley Hill, Headingley, Leeds, West Yorkshire, England, LS6 2AD, United Kingdom",
+    "status": "open",
+    "id": "headingley",
+    "type": "bar",
+    "country_name": "England"
+  },
+  {
+    "name": "Helsinki",
+    "country": "FIN",
+    "visas": [
+      "1.0"
+    ],
+    "status": "closed",
+    "opening_date": "2014-00-00",
+    "closing_date": "2020-00-00",
+    "references": [
+      "Closing date, https://www.stadissa.fi/paikat/1646/brewdog-helsinki."
+    ],
+    "id": "helsinki",
+    "type": "bar",
+    "city": "Helsinki",
+    "country_name": "Finland"
+  },
+  {
+    "name": "Homerton",
+    "country": "GBR-ENG",
+    "city": "London",
+    "status": "closed",
+    "opening_date": "2016-01-02",
+    "closing_date": "2017-05-00",
+    "lat": 51.548223,
+    "long": -0.047789,
+    "references": [
+      "Open date from Instagram, https://www.instagram.com/p/BNhbClEjceD/.",
+      "Closure data from https://camra.org.uk/pubs/plough-homerton-156180."
+    ],
+    "id": "homerton",
+    "type": "bar",
+    "country_name": "England"
   },
   {
     "name": "Hong Kong",
@@ -817,6 +999,7 @@
   {
     "name": "Hop Hub",
     "status": "closed",
+    "city": "Motherwell",
     "closing_date": "2022-08-30",
     "lat": 55.8253598,
     "long": -3.985760604430667,
@@ -824,17 +1007,16 @@
     "country": "GBR-SCT",
     "id": "hop-hub",
     "type": "bar",
-    "city": "Hop Hub",
     "country_name": "Scotland"
   },
   {
     "name": "Hop and Anchor",
     "status": "closed",
+    "city": "Aberdeen",
     "type": "pub",
     "closing_date": "2022-08-30",
     "country": "GBR-SCT",
     "id": "hop-and-anchor",
-    "city": "Hop and Anchor",
     "country_name": "Scotland"
   },
   {
@@ -861,6 +1043,17 @@
     "type": "bar",
     "city": "Hull",
     "country_name": "England"
+  },
+  {
+    "name": "Indianapolis",
+    "country": "USA",
+    "status": "closed",
+    "opening_date": "2019-09-11",
+    "closing_date": "2022-04-19",
+    "id": "indianapolis",
+    "type": "bar",
+    "city": "Indianapolis",
+    "country_name": "United States"
   },
   {
     "name": "Inverurie",
@@ -941,13 +1134,27 @@
   {
     "name": "Leeds North Street",
     "country": "GBR-ENG",
+    "city": "Leeds",
     "visas": [
       "1.0"
     ],
     "status": "open",
     "id": "leeds-north-street",
     "type": "bar",
-    "city": "Leeds North Street",
+    "country_name": "England"
+  },
+  {
+    "name": "Leicester",
+    "status": "closed",
+    "country": "GBR-ENG",
+    "city": "Leicester",
+    "visas": [
+      "1.0"
+    ],
+    "closing_date": "2023-03-00",
+    "opening_date": "2015-04-15",
+    "id": "leicester",
+    "type": "bar",
     "country_name": "England"
   },
   {
@@ -1017,10 +1224,10 @@
   {
     "name": "Midtown Mumbai",
     "country": "IND",
+    "city": "Mumbai",
     "status": "open",
     "id": "midtown-mumbai",
     "type": "bar",
-    "city": "Midtown Mumbai",
     "country_name": "India"
   },
   {
@@ -1047,13 +1254,13 @@
   {
     "name": "Mumbai Bandra",
     "country": "IND",
+    "city": "Mumbai",
     "lat": 19.0682271,
     "long": 72.8317332,
     "address": "Brewdog, PD Hinduja Road (Khar Pali Road), Linking Road Shopping area, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",
     "status": "open",
     "id": "mumbai-bandra",
     "type": "bar",
-    "city": "Mumbai Bandra",
     "country_name": "India"
   },
   {
@@ -1139,6 +1346,8 @@
     "status": "closed",
     "opening_date": "2019-01-04",
     "closing_date": "2022-08-30",
+    "lat": 51.5267058,
+    "long": -0.0890357,
     "references": [
       "Closing date: https://forum.brewdog.com/t/bars-update-aug-22/47317"
     ],
@@ -1152,8 +1361,20 @@
     "type": "outpost",
     "status": "open",
     "id": "outpost-itaewon",
-    "city": "Outpost Itaewon",
+    "city": "Itaewon",
     "country_name": "Korea, Republic of"
+  },
+  {
+    "name": "Overworks Tap Room",
+    "city": "Ellon",
+    "status": "closed",
+    "visas": [
+      "1.0"
+    ],
+    "country": "GBR-SCT",
+    "id": "overworks-tap-room",
+    "type": "bar",
+    "country_name": "Scotland"
   },
   {
     "name": "Oxford",
@@ -1198,21 +1419,21 @@
     "name": "Perth, Australia",
     "id": "perth-australia",
     "country": "AUS",
+    "city": "Perth",
     "status": "open",
     "type": "bar",
-    "city": "Perth, Australia",
     "country_name": "Australia"
   },
   {
     "name": "Perth, Scotland",
     "id": "perth",
+    "city": "Perth",
     "lat": 56.3980111,
     "long": -3.428065,
     "address": "BrewDog, 62, George Street, Bridgend, Perth, Perth and Kinross, Alba / Scotland, PH1 5LA, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
-    "city": "Perth, Scotland",
     "country_name": "Scotland"
   },
   {
@@ -1225,6 +1446,18 @@
     "type": "bar",
     "city": "Peterhead",
     "country_name": "England"
+  },
+  {
+    "name": "Pittsburgh",
+    "status": "closed",
+    "country": "USA",
+    "lat": 40.4603851,
+    "long": -79.9232191,
+    "address": "BrewDog, 6144, Centre Avenue, Shadyside, East Liberty, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States",
+    "id": "pittsburgh",
+    "type": "bar",
+    "city": "Pittsburgh",
+    "country_name": "United States"
   },
   {
     "name": "Ploenchit",
@@ -1284,6 +1517,21 @@
     "type": "bar",
     "city": "Reykjavik",
     "country_name": "Iceland"
+  },
+  {
+    "name": "Roma",
+    "country": "ITA",
+    "status": "closed",
+    "visas": [
+      "1.0"
+    ],
+    "lat": 41.8917617,
+    "long": 12.4929546,
+    "address": "BrewDog Roma, 80, Via delle Terme di Tito, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",
+    "id": "roma",
+    "type": "bar",
+    "city": "Roma",
+    "country_name": "Italy"
   },
   {
     "name": "Roppongi",
@@ -1408,6 +1656,7 @@
   {
     "name": "Short North",
     "country": "USA",
+    "city": "Columbus",
     "visas": [
       "1.0"
     ],
@@ -1417,7 +1666,6 @@
     "status": "open",
     "id": "short-north",
     "type": "bar",
-    "city": "Short North",
     "country_name": "United States"
   },
   {
@@ -1428,6 +1676,8 @@
     "status": "closed",
     "opening_date": "2022-07-01",
     "closing_date": "2022-08-30",
+    "lat": 51.519187,
+    "long": -0.103694,
     "id": "smithfield-market-arms",
     "country_name": "England"
   },
@@ -1445,21 +1695,6 @@
     "id": "soho",
     "type": "bar",
     "country_name": "England"
-  },
-  {
-    "name": "S\u00f6dermalm",
-    "country": "SWE",
-    "visas": [
-      "1.0"
-    ],
-    "lat": 59.309259,
-    "long": 18.0831237,
-    "address": "Brewdog S\u00f6dermalm, Ringv\u00e4gen, Skanstull, S\u00f6dermalm, S\u00f6dermalms stadsdelsomr\u00e5de, Stockholm, Stockholms kommun, Stockholms l\u00e4n, 106 68, Sverige",
-    "status": "open",
-    "id": "s\u00f6dermalm",
-    "type": "bar",
-    "city": "S\u00f6dermalm",
-    "country_name": "Sweden"
   },
   {
     "name": "South Eveleigh",
@@ -1527,6 +1762,83 @@
     "type": "bar",
     "city": "Stirling",
     "country_name": "Scotland"
+  },
+  {
+    "name": "Swansea",
+    "country": "GBR-WLS",
+    "status": "closed",
+    "id": "swansea",
+    "type": "bar",
+    "city": "Swansea",
+    "country_name": "Wales [Cymru GB-CYM]"
+  },
+  {
+    "name": "S\u00e3o Paulo",
+    "country": "BRA",
+    "visas": [
+      "1.0"
+    ],
+    "lat": -23.5612831,
+    "long": -46.6939527,
+    "address": "BrewDog Bar, 41, Rua Corop\u00e9, Pinheiros, Bairro de Pinheiros, S\u00e3o Paulo, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 05426-010, Brasil",
+    "status": "open",
+    "id": "s\u00e3o-paulo",
+    "type": "bar",
+    "city": "S\u00e3o Paulo",
+    "country_name": "Brazil"
+  },
+  {
+    "name": "S\u00f6dermalm",
+    "country": "SWE",
+    "visas": [
+      "1.0"
+    ],
+    "lat": 59.309259,
+    "long": 18.0831237,
+    "address": "Brewdog S\u00f6dermalm, Ringv\u00e4gen, Skanstull, S\u00f6dermalm, S\u00f6dermalms stadsdelsomr\u00e5de, Stockholm, Stockholms kommun, Stockholms l\u00e4n, 106 68, Sverige",
+    "status": "open",
+    "id": "s\u00f6dermalm",
+    "type": "bar",
+    "city": "S\u00f6dermalm",
+    "country_name": "Sweden"
+  },
+  {
+    "name": "Tallinn",
+    "country": "EST",
+    "visas": [
+      "1.0"
+    ],
+    "status": "closed",
+    "opening_date": "2017-04-00",
+    "closing_date": "2024-08-30",
+    "references": [
+      "Closing date: https://naujienos.pricer.lt/world-famous-beer-hall-in-tallinn-to-close/",
+      "Opening date: https://beertoday.co.uk/2017/04/20/brewdog-bar-tallinn-estonia-0417/"
+    ],
+    "id": "tallinn",
+    "type": "bar",
+    "city": "Tallinn",
+    "country_name": "Estonia"
+  },
+  {
+    "name": "Tampere",
+    "country": "FIN",
+    "status": "closed",
+    "opening_date": "2018-00-00",
+    "closing_date": "2020-00-00",
+    "id": "tampere",
+    "type": "bar",
+    "city": "Tampere",
+    "country_name": "Finland"
+  },
+  {
+    "name": "The Tankard",
+    "country": "GBR-ENG",
+    "city": "London",
+    "type": "pub",
+    "status": "closed",
+    "id": "the-tankard",
+    "country_name": "England"
   },
   {
     "name": "Tower Bridge Arms",
@@ -1632,301 +1944,6 @@
     "id": "york",
     "type": "bar",
     "city": "York",
-    "country_name": "England"
-  },
-  {
-    "name": "Roma",
-    "country": "ITA",
-    "status": "closed",
-    "visas": [
-      "1.0"
-    ],
-    "lat": 41.8917617,
-    "long": 12.4929546,
-    "address": "BrewDog Roma, 80, Via delle Terme di Tito, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",
-    "id": "roma",
-    "type": "bar",
-    "city": "Roma",
-    "country_name": "Italy"
-  },
-  {
-    "name": "Bologna",
-    "country": "ITA",
-    "status": "closed",
-    "visas": [
-      "1.0"
-    ],
-    "lat": 44.4965237,
-    "long": 11.3297482,
-    "address": "BrewDog, 2f, Via San Valentino, Saragozza, Porto-Saragozza, Bologna, Emilia-Romagna, 40122, Italia",
-    "id": "bologna",
-    "type": "bar",
-    "city": "Bologna",
-    "country_name": "Italy"
-  },
-  {
-    "name": "Dublin Outpost",
-    "country": "IRL",
-    "type": "outpost",
-    "opening": "2019-12-12",
-    "lat": 53.344605650000005,
-    "long": -6.23082120168573,
-    "status": "open",
-    "id": "dublin-outpost",
-    "city": "Dublin Outpost",
-    "country_name": "Ireland"
-  },
-  {
-    "name": "Swansea",
-    "country": "GBR-WLS",
-    "status": "closed",
-    "id": "swansea",
-    "type": "bar",
-    "city": "Swansea",
-    "country_name": "Wales [Cymru GB-CYM]"
-  },
-  {
-    "name": "Homerton",
-    "country": "GBR-ENG",
-    "city": "London",
-    "status": "closed",
-    "opening_date": "2016-01-02",
-    "closing_date": "2017-05-00",
-    "references": [
-      "Open date from Instagram, https://www.instagram.com/p/BNhbClEjceD/.",
-      "Closure data from https://camra.org.uk/pubs/plough-homerton-156180."
-    ],
-    "id": "homerton",
-    "type": "bar",
-    "country_name": "England"
-  },
-  {
-    "name": "Belfast Grand Central",
-    "status": "coming_soon",
-    "country": "GBR-NIR",
-    "id": "belfast-grand-central",
-    "type": "bar",
-    "city": "Belfast Grand Central",
-    "country_name": "Northern Ireland"
-  },
-  {
-    "name": "Chandigarh",
-    "status": "coming_soon",
-    "country": "IND",
-    "id": "chandigarh",
-    "type": "bar",
-    "city": "Chandigarh",
-    "country_name": "India"
-  },
-  {
-    "name": "Edinburgh Waverley",
-    "city": "Edinburgh",
-    "status": "open",
-    "country": "GBR-SCT",
-    "opening_date": "2024-10-30",
-    "location": "train station",
-    "lat": 55.95232125,
-    "long": -3.1890094592314604,
-    "address": "BrewDog, Waverley Concourse, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1BB, United Kingdom",
-    "id": "edinburgh-waverley",
-    "type": "bar",
-    "country_name": "Scotland"
-  },
-  {
-    "name": "Leicester",
-    "status": "closed",
-    "country": "GBR-ENG",
-    "city": "Leicester",
-    "visas": [
-      "1.0"
-    ],
-    "closing_date": "2023-03-00",
-    "opening_date": "2015-04-15",
-    "id": "leicester",
-    "type": "bar",
-    "country_name": "England"
-  },
-  {
-    "name": "Clapham Junction",
-    "status": "closed",
-    "country": "GBR-ENG",
-    "city": "London",
-    "visas": [
-      "1.0"
-    ],
-    "opening_date": "2014-08-14",
-    "closing_date": "2023-03-22",
-    "lat": 51.4608394,
-    "long": -0.16302616606540343,
-    "address": "Brewdog, 11-13, Battersea Rise, Clapham Junction, London Borough of Wandsworth, London, Greater London, England, SW11 1HG, United Kingdom",
-    "id": "clapham-junction",
-    "type": "bar",
-    "country_name": "England"
-  },
-  {
-    "name": "Pittsburgh",
-    "status": "closed",
-    "country": "USA",
-    "lat": 40.4603851,
-    "long": -79.9232191,
-    "address": "BrewDog, 6144, Centre Avenue, Shadyside, East Liberty, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States",
-    "id": "pittsburgh",
-    "type": "bar",
-    "city": "Pittsburgh",
-    "country_name": "United States"
-  },
-  {
-    "name": "Ch\u00e2telet",
-    "status": "never_opened",
-    "country": "FRA",
-    "city": "Paris",
-    "id": "ch\u00e2telet",
-    "type": "bar",
-    "country_name": "France"
-  },
-  {
-    "name": "Cork",
-    "status": "closed",
-    "country": "IRL",
-    "opening_date": "2022-07-21",
-    "closing_date": "2023-05-01",
-    "references": [
-      "closing date, https://www.corkbeo.ie/news/local-news/corks-brewdog-closes-suddenly-after-26820707"
-    ],
-    "lat": 51.8976641,
-    "long": -8.4793153,
-    "address": "BrewDog Cork, 33-34, Washington Street, The Marsh, Centre B ED, Cork, County Cork, Munster, T12 XV61, \u00c9ire / Ireland",
-    "id": "cork",
-    "type": "bar",
-    "city": "Cork",
-    "country_name": "Ireland"
-  },
-  {
-    "name": "Doghouse Manchester",
-    "country": "GBR-ENG",
-    "type": "doghouse",
-    "city": "Manchester",
-    "lat": 53.4815873,
-    "long": -2.2402715,
-    "address": "BrewDog DogHouse Hotel, 18, Fountain Street, Central Retail District, City Centre, Manchester, Greater Manchester, England, M2 2AA, United Kingdom",
-    "status": "open",
-    "id": "doghouse-manchester",
-    "country_name": "England"
-  },
-  {
-    "name": "Overworks Tap Room",
-    "city": "Ellon",
-    "status": "closed",
-    "visas": [
-      "1.0"
-    ],
-    "country": "GBR-SCT",
-    "id": "overworks-tap-room",
-    "type": "bar",
-    "country_name": "Scotland"
-  },
-  {
-    "name": "Helsinki",
-    "country": "FIN",
-    "visas": [
-      "1.0"
-    ],
-    "status": "closed",
-    "opening_date": "2014-00-00",
-    "closing_date": "2020-00-00",
-    "references": [
-      "Closing date, https://www.stadissa.fi/paikat/1646/brewdog-helsinki."
-    ],
-    "id": "helsinki",
-    "type": "bar",
-    "city": "Helsinki",
-    "country_name": "Finland"
-  },
-  {
-    "name": "Tampere",
-    "country": "FIN",
-    "status": "closed",
-    "opening_date": "2018-00-00",
-    "closing_date": "2020-00-00",
-    "id": "tampere",
-    "type": "bar",
-    "city": "Tampere",
-    "country_name": "Finland"
-  },
-  {
-    "name": "S\u00e3o Paulo",
-    "country": "BRA",
-    "visas": [
-      "1.0"
-    ],
-    "lat": -23.5612831,
-    "long": -46.6939527,
-    "address": "BrewDog Bar, 41, Rua Corop\u00e9, Pinheiros, Bairro de Pinheiros, S\u00e3o Paulo, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 05426-010, Brasil",
-    "status": "open",
-    "id": "s\u00e3o-paulo",
-    "type": "bar",
-    "city": "S\u00e3o Paulo",
-    "country_name": "Brazil"
-  },
-  {
-    "name": "Tallinn",
-    "country": "EST",
-    "visas": [
-      "1.0"
-    ],
-    "status": "closed",
-    "opening_date": "2017-04-00",
-    "closing_date": "2024-08-30",
-    "references": [
-      "Closing date: https://naujienos.pricer.lt/world-famous-beer-hall-in-tallinn-to-close/",
-      "Opening date: https://beertoday.co.uk/2017/04/20/brewdog-bar-tallinn-estonia-0417/"
-    ],
-    "id": "tallinn",
-    "type": "bar",
-    "city": "Tallinn",
-    "country_name": "Estonia"
-  },
-  {
-    "name": "The Tankard",
-    "country": "GBR-ENG",
-    "city": "London",
-    "type": "pub",
-    "status": "closed",
-    "id": "the-tankard",
-    "country_name": "England"
-  },
-  {
-    "name": "Durham",
-    "status": "coming_soon",
-    "country": "GBR-ENG",
-    "id": "durham",
-    "type": "bar",
-    "city": "Durham",
-    "country_name": "England"
-  },
-  {
-    "name": "Indianapolis",
-    "country": "USA",
-    "status": "closed",
-    "opening_date": "2019-09-11",
-    "closing_date": "2022-04-19",
-    "id": "indianapolis",
-    "type": "bar",
-    "city": "Indianapolis",
-    "country_name": "United States"
-  },
-  {
-    "name": "Headingley",
-    "country": "GBR-ENG",
-    "city": "Leeds",
-    "opening_date": "2022-10-29",
-    "closing_date": "2023-02-00",
-    "lat": 53.82027495,
-    "long": -1.5764136721196462,
-    "address": "Brewdog/Red's True BBQ, 6a, Otley Road, Headingley Hill, Headingley, Leeds, West Yorkshire, England, LS6 2AD, United Kingdom",
-    "status": "open",
-    "id": "headingley",
-    "type": "bar",
     "country_name": "England"
   }
 ]
