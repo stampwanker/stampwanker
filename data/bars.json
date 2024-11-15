@@ -472,6 +472,7 @@
   {
     "name": "Cincinnati",
     "country": "USA",
+    "opening_date": "2019-11-14",
     "lat": 39.10870145,
     "long": -84.50909962578417,
     "address": "Brewdog Cincinnati, 316, Reading Road, Pendleton, Cincinnati, Hamilton County, Ohio, 45202, United States",
@@ -588,6 +589,8 @@
     "city": "Columbus",
     "country": "USA",
     "type": "doghouse",
+    "lat": 39.847095,
+    "long": -82.825525,
     "status": "open",
     "id": "doghouse-columbus-hotel",
     "country_name": "United States"
@@ -596,6 +599,8 @@
     "name": "Doghouse Edinburgh Bar & Terrace",
     "city": "Edinburgh",
     "type": "bar",
+    "lat": 55.951296,
+    "long": -3.182814,
     "country": "GBR-SCT",
     "status": "open",
     "id": "doghouse-edinburgh-bar-&-terrace",
@@ -644,6 +649,7 @@
     "country": "AUS",
     "type": "dogtap",
     "city": "Brisbane",
+    "opening_date": "2019-11-20",
     "lat": -27.4484924,
     "long": 153.0998283,
     "address": "BrewDog DogTap, 77, Metroplex Avenue, Metroplex on Gateway, Murarrie, Brisbane City, Queensland, 4172, Australia",
@@ -659,6 +665,8 @@
     "visas": [
       "1.0"
     ],
+    "lat": 39.847095,
+    "long": -82.825525,
     "status": "open",
     "id": "dogtap-columbus",
     "country_name": "United States"
@@ -731,6 +739,7 @@
     "name": "Ealing",
     "city": "London",
     "country": "GBR-ENG",
+    "opening_date": "2021-05-27",
     "lat": 51.5134063,
     "long": -0.3057929,
     "address": "BrewDog, Market Street, Dickens Yard, London Borough of Ealing, London, Greater London, England, W5 2TD, United Kingdom",
@@ -800,6 +809,7 @@
   {
     "name": "Exeter",
     "country": "GBR-ENG",
+    "opening_date": "2021-05-20",
     "lat": 50.72429245,
     "long": -3.5321861308460645,
     "address": "Brewdog, 12, Queen Street, St Thomas, Exeter, Devon, England, EX4 3HP, United Kingdom",
@@ -1035,9 +1045,13 @@
   {
     "name": "Hull",
     "country": "GBR-ENG",
+    "opening_date": "2022-04-07",
     "lat": 53.74197075,
     "long": -0.3386838986706515,
     "address": "BrewDog, 30G, Princes Dock Street, Old Town, Hull, Kingston upon Hull, England, HU1 2PQ, United Kingdom",
+    "references": [
+      "Opening Date, https://www.facebook.com/events/696531758464492"
+    ],
     "status": "open",
     "id": "hull",
     "type": "bar",
@@ -1058,6 +1072,7 @@
   {
     "name": "Inverurie",
     "country": "GBR-SCT",
+    "opening_date": "2019-05-15",
     "lat": 57.2841068,
     "long": -2.3738167,
     "address": "Brewdog Inverurie, 22, Market Place, Port Elphinstone, Inverurie, Aberdeenshire, Alba / Scotland, AB51 3XN, United Kingdom",
@@ -1072,6 +1087,7 @@
     "country": "NLD",
     "lat": 52.0695245,
     "long": 4.2209237,
+    "opening_date": "2024-06-20",
     "status": "open",
     "id": "kijkduin",
     "type": "bar",
@@ -1108,9 +1124,13 @@
     "name": "Le Marais",
     "country": "FRA",
     "city": "Paris",
+    "opening_date": "2019-03-28",
     "lat": 48.8588994,
     "long": 2.3621024,
     "address": "Brewdog, 1, Place de Thorigny, Quartier des Archives, Paris 3e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75003, France",
+    "references": [
+      "Opening Date, https://www.facebook.com/events/1509963065807080"
+    ],
     "status": "open",
     "id": "le-marais",
     "type": "bar",
@@ -1135,8 +1155,14 @@
     "name": "Leeds North Street",
     "country": "GBR-ENG",
     "city": "Leeds",
+    "opening_date": "2015-07-31",
     "visas": [
       "1.0"
+    ],
+    "lat": 53.801094,
+    "long": -1.538821,
+    "references": [
+      "Opening Date, https://www.facebook.com/events/1468194026831923"
     ],
     "status": "open",
     "id": "leeds-north-street",
@@ -1163,9 +1189,13 @@
     "visas": [
       "1.0"
     ],
+    "opening_date": "2014-11-11",
     "lat": 53.4017596,
     "long": -2.9772471,
     "address": "BrewDog, 8, Colquitt Street, Ropewalks, Toxteth, Liverpool, Liverpool City Region, England, L1 4DE, United Kingdom",
+    "references": [
+      "Opening Date, facebook post."
+    ],
     "status": "open",
     "id": "liverpool",
     "type": "bar",
@@ -1420,6 +1450,8 @@
     "id": "perth-australia",
     "country": "AUS",
     "city": "Perth",
+    "lat": -31.9483042,
+    "long": 115.8472714,
     "status": "open",
     "type": "bar",
     "country_name": "Australia"
@@ -1462,6 +1494,8 @@
   {
     "name": "Ploenchit",
     "country": "THA",
+    "lat": 13.743395,
+    "long": 100.54614,
     "status": "open",
     "id": "ploenchit",
     "type": "bar",
@@ -1473,6 +1507,7 @@
     "country": "GBR-ENG",
     "lat": 50.3706714,
     "long": -4.1372805,
+    "opening_date": "2021-05-21",
     "address": "Brewdog, Exeter Street, Barbican, Plymouth, England, PL4 0FE, United Kingdom",
     "status": "open",
     "id": "plymouth",
@@ -1539,6 +1574,8 @@
     "visas": [
       "1.0"
     ],
+    "lat": 35.662088,
+    "long": 139.733442,
     "status": "open",
     "id": "roppongi",
     "type": "bar",
@@ -1922,6 +1959,7 @@
   {
     "name": "Wiesbaden",
     "country": "DEU",
+    "opening_date": "2021-07-15",
     "lat": 50.0821783,
     "long": 8.2408944,
     "address": "BrewDog Wiesbaden, 20, Marktstra\u00dfe, Mitte, Wiesbaden, Hessen, 65183, Deutschland",
@@ -1934,12 +1972,16 @@
   {
     "name": "York",
     "country": "GBR-ENG",
+    "opening_date": "2016-12-08",
     "visas": [
       "1.0"
     ],
     "lat": 53.9564099,
     "long": -1.0903855,
     "address": "BrewDog, 130-134, Micklegate, Bishophill, York, York and North Yorkshire, England, YO1 6JX, United Kingdom",
+    "references": [
+      "Opening Date, https://www.facebook.com/events/374393092906811"
+    ],
     "status": "open",
     "id": "york",
     "type": "bar",
