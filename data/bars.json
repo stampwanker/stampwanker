@@ -1266,6 +1266,7 @@
     "country": "GBR-ENG",
     "type": "outpost",
     "city": "Manchester",
+    "opening_date": "2019-06-20",
     "lat": 53.4677435,
     "long": -2.23523,
     "address": "Brewdog Outpost Manchester, 144, Oxford Road, Brunswick, Chorlton-on-Medlock, Manchester, Greater Manchester, England, M13 9GP, United Kingdom",
@@ -1457,12 +1458,16 @@
   {
     "name": "Oxford",
     "country": "GBR-ENG",
+    "opening_date": "2017-09-28",
     "visas": [
       "1.0"
     ],
     "lat": 51.748072300000004,
     "long": -1.2372235021983062,
     "address": "Brewdog, 119, Cowley Road, East Oxford, Oxford, Oxfordshire, England, OX4 1DD, United Kingdom",
+    "references": [
+      "Opening date, https://www.facebook.com/events/120626565265994/?active_tab=discussion&locale=en_GB"
+    ],
     "status": "open",
     "id": "oxford",
     "type": "bar",
@@ -1484,6 +1489,7 @@
   {
     "name": "Pentridge",
     "country": "AUS",
+    "opening_date": "2022-11-24",
     "lat": -37.736826,
     "long": 144.968318,
     "address": "BrewDog Pentridge, 1, Champ Street, Coburg, Melbourne, City of Merri-bek, Victoria, 3058, Australia",
