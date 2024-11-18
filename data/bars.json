@@ -2,7 +2,8 @@
   {
     "name": "Aberdeen",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "opening_date": "2010-10-01",
     "lat": 57.149457749999996,
@@ -20,7 +21,8 @@
     "city": "Aberdeen",
     "id": "castlegate",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "lat": 57.14756,
     "long": -2.094478,
@@ -34,6 +36,9 @@
     "city": "Aberdeen",
     "id": "aberdeen-kennels",
     "type": "doghouse",
+    "visas": [
+      "3.0"
+    ],
     "lat": 57.147497,
     "long": -2.094706,
     "country": "GBR-SCT",
@@ -44,6 +49,9 @@
     "name": "Aberdeen Union Square",
     "city": "Aberdeen",
     "id": "union-square",
+    "visas": [
+      "3.0"
+    ],
     "lat": 57.1432179,
     "long": -2.0970865,
     "address": "BrewDog, Guild Street, City Centre, Aberdeen City, Alba / Scotland, AB11 5RG, United Kingdom",
@@ -179,12 +187,16 @@
     "name": "Berlin Mitte",
     "country": "DEU",
     "city": "Berlin",
+    "opening_date": "2016-11-10",
     "visas": [
       "1.0"
     ],
     "lat": 52.5328688,
     "long": 13.3956502,
     "address": "Brewdog Mitte, 29, Ackerstra\u00dfe, Mitte, Berlin, 10115, Deutschland",
+    "references": [
+      "Opening Date, https://www.facebook.com/events/1588182331489080"
+    ],
     "status": "open",
     "id": "berlin-mitte",
     "type": "bar",
@@ -236,6 +248,7 @@
   {
     "name": "Bournemouth",
     "country": "GBR-ENG",
+    "opening_date": "2022-02-24",
     "lat": 50.7191731,
     "long": -1.8797387,
     "address": "BrewDog Bournemouth, Exeter Crescent, West Cliff, Bournemouth, Bournemouth, Christchurch and Poole, England, BH2 5DD, United Kingdom",
@@ -248,10 +261,10 @@
   {
     "name": "Bradford",
     "country": "GBR-ENG",
+    "opening_date": "2021-11-18",
     "lat": 53.7913899,
     "long": -1.7579432,
     "address": "BrewDog, 11, Great Horton Road, Great Horton, Bradford, West Yorkshire, England, BD7 1AJ, United Kingdom",
-    "opening_date": "2021-11-18",
     "status": "open",
     "id": "bradford",
     "type": "bar",
@@ -261,9 +274,13 @@
   {
     "name": "Brighton",
     "country": "GBR-ENG",
+    "opening_date": "2015-08-27",
     "lat": 50.82454165,
     "long": -0.1353913025972917,
     "address": "Brewdog, 52-54, Grand Parade, Round Hill, Brighton, Brighton and Hove, England, BN2 9QA, United Kingdom",
+    "references": [
+      "Opening date, https://www.facebook.com/events/1620374728229140"
+    ],
     "status": "open",
     "id": "brighton",
     "type": "bar",
@@ -302,6 +319,7 @@
     "name": "Bristol Harbourside",
     "city": "Bristol",
     "country": "GBR-ENG",
+    "opening_date": "2022-07-21",
     "lat": 51.44972225,
     "long": -2.602288153154107,
     "address": "Brewdog, Millennium Promenade, Canon's Marsh, City Centre, Bristol, City of Bristol, West of England, England, BS1 5LW, United Kingdom",
@@ -326,12 +344,16 @@
   {
     "name": "Brussels",
     "country": "BEL",
+    "opening_date": "2015-09-19",
     "visas": [
       "1.0"
     ],
     "lat": 50.8460189,
     "long": 4.3570846,
     "address": "BrewDog Brussels, Putterie - Putterij, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb / Belgique / Belgien",
+    "references": [
+      "Opening Date, unclear if there was an efp night but https://www.morningadvertiser.co.uk/Article/2015/09/17/BrewDog-goes-to-Brussels."
+    ],
     "status": "open",
     "id": "brussels",
     "type": "bar",
@@ -341,6 +363,7 @@
   {
     "name": "Cambridge",
     "country": "GBR-ENG",
+    "opening_date": "2019-09-29",
     "lat": 52.20402,
     "long": 0.1186828,
     "address": "Brewdog, 15, Bene't Street, Newnham, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 3QN, United Kingdom",
@@ -417,9 +440,13 @@
   {
     "name": "Carlisle",
     "country": "GBR-ENG",
+    "opening_date": "2019-01-25",
     "lat": 54.8907497,
     "long": -2.9309043,
     "address": "Brewdog, Botchergate, Currock, Carlisle, Cumberland, England, CA1 1QS, United Kingdom",
+    "references": [
+      "Opening Date, unclear if there was an efp night, from forums."
+    ],
     "status": "open",
     "id": "carlisle",
     "type": "bar",
@@ -575,6 +602,7 @@
   {
     "name": "Denver",
     "country": "USA",
+    "opening_date": "2024-04-11",
     "lat": 39.7734696,
     "long": -104.972247,
     "address": "3950 Wynkoop St, Denver, CO 80216, USA",
@@ -610,6 +638,9 @@
     "name": "Doghouse Edinburgh Hotel",
     "city": "Edinburgh",
     "type": "doghouse",
+    "visas": [
+      "3.0"
+    ],
     "lat": 55.951283399999994,
     "long": -3.1828159580419566,
     "address": "BrewDog Edinburgh Doghouse, 5, New Street, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH8 8BH, United Kingdom",
@@ -676,7 +707,8 @@
     "aka": "Dogtap",
     "type": "dogtap",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "lat": 57.36949865,
     "long": -2.0506896373604544,
@@ -713,7 +745,8 @@
   {
     "name": "Dundee",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "opening_date": "2014-06-14",
     "lat": 56.4632348,
@@ -751,6 +784,9 @@
   {
     "name": "Edinburgh Airport",
     "city": "Edinburgh",
+    "visas": [
+      "3.0"
+    ],
     "lat": 55.9489667,
     "long": -3.3617104,
     "address": "Brewdog, Jubilee Road, City of Edinburgh, Alba / Scotland, EH12 9DP, United Kingdom",
@@ -765,7 +801,8 @@
     "id": "edinburgh",
     "city": "Edinburgh",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "opening_date": "2011-00-00",
     "lat": 55.9483708,
@@ -780,7 +817,8 @@
     "name": "Edinburgh Lothian Road",
     "city": "Edinburgh",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "opening_date": "2018-01-26",
     "lat": 55.9474969,
@@ -876,7 +914,8 @@
     "id": "glasgow",
     "city": "Glasgow",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "opening_date": "2011-07-00",
     "lat": 55.8682059,
@@ -894,7 +933,8 @@
     ],
     "city": "Glasgow",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "lat": 55.8593516,
     "long": -4.2480192,
@@ -1010,6 +1050,7 @@
     "name": "Hop Hub",
     "status": "closed",
     "city": "Motherwell",
+    "opening_date": "2019-12-14",
     "closing_date": "2022-08-30",
     "lat": 55.8253598,
     "long": -3.985760604430667,
@@ -1073,6 +1114,9 @@
     "name": "Inverurie",
     "country": "GBR-SCT",
     "opening_date": "2019-05-15",
+    "visas": [
+      "3.0"
+    ],
     "lat": 57.2841068,
     "long": -2.3738167,
     "address": "Brewdog Inverurie, 22, Market Place, Port Elphinstone, Inverurie, Aberdeenshire, Alba / Scotland, AB51 3XN, United Kingdom",
@@ -1398,8 +1442,12 @@
     "name": "Overworks Tap Room",
     "city": "Ellon",
     "status": "closed",
+    "opening_date": "2018-04-13",
     "visas": [
       "1.0"
+    ],
+    "references": [
+      "Opening Date, efp blog."
     ],
     "country": "GBR-SCT",
     "id": "overworks-tap-room",
@@ -1460,6 +1508,9 @@
     "name": "Perth, Scotland",
     "id": "perth",
     "city": "Perth",
+    "visas": [
+      "3.0"
+    ],
     "lat": 56.3980111,
     "long": -3.428065,
     "address": "BrewDog, 62, George Street, Bridgend, Perth, Perth and Kinross, Alba / Scotland, PH1 5LA, United Kingdom",
@@ -1762,6 +1813,9 @@
   },
   {
     "name": "St Andrews",
+    "visas": [
+      "3.0"
+    ],
     "lat": 56.3391725,
     "long": -2.7981352,
     "address": "Brewdog, 159, South Street, St Andrews, Fife, Alba / Scotland, KY16 9UP, United Kingdom",
@@ -1788,7 +1842,8 @@
   {
     "name": "Stirling",
     "visas": [
-      "1.0"
+      "1.0",
+      "3.0"
     ],
     "lat": 56.1188487,
     "long": -3.9389383,

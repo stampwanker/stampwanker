@@ -1,3 +1,5 @@
+{{ define "title" }}{{ humanize .Title | title }}{{ end }}
+
 {{ define "main" }}
 {{ .Content }}
   <h1>{{ humanize .Title | title }}</h1>

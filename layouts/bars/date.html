@@ -1,3 +1,5 @@
+{{ define "title"}}By Opening Date{{ end }}
+
 {{ define "main" }}
 {{ .Content }}
 {{- $year := "0000"  -}}
@@ -10,6 +12,7 @@
 {{- end -}}
 <a href="/bars/{{ .id }}/">{{ .name }}</a>
 &nbsp;{{- if .closing_date -}} (closed {{ partial "date" .closing_date }})
+{{- else if eq .status "closed" -}}(closed)
 {{- end -}}
 <br/>
 {{ end }}

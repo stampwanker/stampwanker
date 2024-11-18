@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ .Content }}
+<ol>
+{{- range sort (where .Site.Data.bars ".lat" "eq" nil) ".name" -}}
+<li><a href="/bars/{{ .id }}/">{{ .name }}</a> {{ .status }}</li>
+{{- end -}}
+</ol>
+{{ end }}
