@@ -1,19 +1,23 @@
 {{ define "title"}}By Opening Date{{ end }}
 
 {{ define "main" }}
+<table>
 {{ .Content }}
 {{- $year := "0000"  -}}
 {{- range sort (where .Site.Data.bars ".opening_date" "like" "[0-9]{4}") ".opening_date" -}}
 {{- $cyear := (substr .opening_date 0 4) -}}
 {{- if ne $year $cyear -}}
 {{- $year = $cyear }}
-
-<h2>{{ $year }}</h2>
+<tr><td colspan="2"><h2>{{ $year }}</h2></td>
+   </tr>
 {{- end -}}
-<a href="/bars/{{ .id }}/">{{ .name }}</a>
+<tr><td>{{ partial "day-month-fixed" .opening_date }}</td>
+       <td><a href="/bars/{{ .id }}/">{{ .name }}</a>
+
 &nbsp;{{- if .closing_date -}} (closed {{ partial "date" .closing_date }})
 {{- else if eq .status "closed" -}}(closed)
-{{- end -}}
-<br/>
+{{- end -}}</td>
+   </tr>
 {{ end }}
+</table>
 {{ end }}

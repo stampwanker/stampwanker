@@ -1,0 +1,9 @@
+{{- if . -}}
+  {{- if strings.HasSuffix . "-00-00" -}}
+    &mdash; &mdash;
+  {{- else if strings.HasSuffix . "-00" -}}
+   &mdash;  {{ strings.Replace . "-00" "-01" | time.Format "01" -}}
+  {{- else -}}
+    {{- . | time.Format "02/01" -}}
+  {{- end -}}
+{{- end -}}
