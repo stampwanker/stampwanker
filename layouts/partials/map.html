@@ -20,7 +20,7 @@
   {{-       if .lat -}}
   <gmp-advanced-marker
      position="{{ .lat }},{{ .long }}"
-     title="{{ .name }}" {{- if eq .status "closed" -}}class="gmp-marker-closed"{{- end -}}></gmp-advanced-marker>
+     title="{{ .name }}"{{- if eq .status "closed" }} class="gmp-marker-closed"{{- end -}}></gmp-advanced-marker>
   {{-       end -}}
   {{-     end -}}
   {{-   end -}}
