@@ -804,10 +804,13 @@
       "1.0",
       "3.0"
     ],
-    "opening_date": "2011-00-00",
+    "opening_date": "2011-03-15",
     "lat": 55.9483708,
     "long": -3.189683,
     "address": "Brew Dog, 143, Cowgate, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1JS, United Kingdom",
+    "references": [
+      "Opening Date, https://thebeercast.com/2011/03/brewdog-edinburgh-opens.html"
+    ],
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
