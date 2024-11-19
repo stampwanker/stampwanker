@@ -20,6 +20,7 @@
     "name": "Aberdeen Castlegate",
     "city": "Aberdeen",
     "id": "castlegate",
+    "opening_date": "2015-12-11",
     "visas": [
       "1.0",
       "3.0"
@@ -49,6 +50,7 @@
     "name": "Aberdeen Union Square",
     "city": "Aberdeen",
     "id": "union-square",
+    "opening_date": "2018-11-15",
     "visas": [
       "3.0"
     ],
@@ -74,6 +76,7 @@
   {
     "name": "Amsterdam Centraal",
     "country": "NLD",
+    "opening_date": "2023-08-12",
     "lat": 52.3798313,
     "long": 4.9010123,
     "status": "open",
@@ -120,12 +123,16 @@
   {
     "name": "Barcelona",
     "country": "ESP",
+    "opening_date": "2015-02-11",
     "visas": [
       "1.0"
     ],
     "lat": 41.3857301,
     "long": 2.1581661,
     "address": "Brewdog, Carrer de Casanova, l'Antiga Esquerra de l'Eixample, Eixample, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08011, Espa\u00f1a",
+    "references": [
+      "Opening Date, https://www.instagram.com/p/y-QwkVDqeC/?hl=en"
+    ],
     "status": "open",
     "id": "barcelona",
     "type": "bar",
@@ -291,6 +298,7 @@
     "name": "Brisbane Fortitude Valley",
     "country": "AUS",
     "city": "Brisbane",
+    "opening_date": "2022-11-10",
     "lat": -27.456814,
     "long": 153.0326635,
     "address": "BrewDog, Brunswick Street, Fortitude Valley, Greater Brisbane, Queensland, 4006, Australia",
@@ -425,6 +433,7 @@
   {
     "name": "Cardiff",
     "country": "GBR-WLS",
+    "opening_date": "2014-00-00",
     "visas": [
       "1.0"
     ],
@@ -995,10 +1004,10 @@
     "city": "Leeds",
     "opening_date": "2022-10-29",
     "closing_date": "2023-02-00",
+    "status": "closed",
     "lat": 53.82027495,
     "long": -1.5764136721196462,
     "address": "Brewdog/Red's True BBQ, 6a, Otley Road, Headingley Hill, Headingley, Leeds, West Yorkshire, England, LS6 2AD, United Kingdom",
-    "status": "open",
     "id": "headingley",
     "type": "bar",
     "country_name": "England"
@@ -1992,6 +2001,19 @@
     "id": "wandsworth",
     "type": "bar",
     "country_name": "England"
+  },
+  {
+    "name": "Warszawa",
+    "country": "POL",
+    "status": "closed",
+    "opening_date": "2016-05-05",
+    "references": [
+      "Opening Date, https://www.instagram.com/p/BEu_D87Hgh0/?hl=en, unclear if they had an efp night."
+    ],
+    "id": "warszawa",
+    "type": "bar",
+    "city": "Warszawa",
+    "country_name": "Poland"
   },
   {
     "name": "Waterloo",
