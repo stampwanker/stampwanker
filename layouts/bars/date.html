@@ -1,10 +1,13 @@
 {{ define "title"}}By Opening Date{{ end }}
 
 {{ define "main" }}
-<table>
 {{ .Content }}
+
+<p>
+There are {{ len (where .Site.Data.bars ".opening_date" "eq" nil ) }} bars without opening dates but {{  len (where .Site.Data.bars ".opening_date" "ne" nil ) }} with so we're not doing too bad. </p>
+<table>
 {{- $year := "0000"  -}}
-{{- range sort (where .Site.Data.bars ".opening_date" "like" "[0-9]{4}") ".opening_date" -}}
+{{- range sort (where .Site.Data.bars ".opening_date" "ne" nil) ".opening_date" -}}
 {{- $cyear := (substr .opening_date 0 4) -}}
 {{- if ne $year $cyear -}}
 {{- $year = $cyear }}
@@ -12,9 +15,8 @@
    </tr>
 {{- end -}}
 <tr><td>{{ partial "day-month-fixed" .opening_date }}</td>
-       <td><a href="/bars/{{ .id }}/">{{ .name }}</a>
-
-&nbsp;{{- if .closing_date -}} (closed {{ partial "date" .closing_date }})
+       <td><a href="/bars/{{ .id }}/">{{ .name }}</a>&nbsp;
+{{- if .closing_date -}} (closed {{ partial "date" .closing_date }})
 {{- else if eq .status "closed" -}}(closed)
 {{- end -}}</td>
    </tr>

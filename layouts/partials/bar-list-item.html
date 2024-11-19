@@ -1,4 +1,4 @@
-  <li><a href="/bars/{{ .id | urlize }}">{{ .name }}</a>
+<li class="bar-{{ .status }}"><a href="/bars/{{ .id | urlize }}">{{ .name }}</a>
       {{ if ne .status "open" }} 
 	  {{ title .status | humanize }} 
       {{ end }}

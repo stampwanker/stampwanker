@@ -1,6 +1,7 @@
-  {{ $sum_lat := 0.0 }}
-  {{ $sum_long := 0.0 }}
-  {{ $count := 0 }}
+<p>
+  {{- $sum_lat := 0.0 }}
+  {{- $sum_long := 0.0 }}
+  {{- $count := 0 }}
   {{- range . -}}
   {{- if .Params.lat -}}
   {{- $sum_lat = add $sum_lat (float .Params.lat) -}}
@@ -28,3 +29,4 @@
     </gmp-map>
   <script src="https://maps.googleapis.com/maps/api/js?key={{ getenv "HUGO_GOOGLE_MAPS_KEY" }}&libraries=maps,marker&v=beta&loading=async&callback=initMap" defer></script>
   <script src="/map-style.js"></script>
+</p>
