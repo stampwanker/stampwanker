@@ -167,7 +167,7 @@
   },
   {
     "name": "Belfast Grand Central",
-    "status": "coming_soon",
+    "status": "open",
     "city": "Belfast",
     "opening_date": "2024-11-20",
     "country": "GBR-NIR",
@@ -251,6 +251,17 @@
     "type": "bar",
     "city": "Bologna",
     "country_name": "Italy"
+  },
+  {
+    "name": "Bottledog King's Cross",
+    "status": "closed",
+    "country": "GBR-ENG",
+    "city": "London",
+    "type": "bottledog",
+    "opening_date": "2014-04-00",
+    "closing_date": "2017-01-00",
+    "id": "bottledog-king's-cross",
+    "country_name": "England"
   },
   {
     "name": "Bournemouth",
@@ -929,7 +940,7 @@
       "1.0",
       "3.0"
     ],
-    "opening_date": "2011-07-00",
+    "opening_date": "2011-07-23",
     "lat": 55.8682059,
     "long": -4.2921693,
     "address": "BrewDog, 1397, Argyle Street, Stobcross, Kelvinhaugh, Glasgow, Glasgow City, Alba / Scotland, G3 8AN, United Kingdom",
