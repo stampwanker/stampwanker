@@ -35,6 +35,7 @@
   {
     "name": "Aberdeen Kennels",
     "city": "Aberdeen",
+    "opening_date": "2019-11-19",
     "id": "aberdeen-kennels",
     "type": "doghouse",
     "visas": [
@@ -579,6 +580,7 @@
     "city": "Columbus",
     "country": "USA",
     "location": "airport",
+    "opening_date": "2024-05-15",
     "lat": 39.998056,
     "long": -82.891944,
     "references": [
@@ -743,7 +745,7 @@
     "name": "Dublin Outpost",
     "country": "IRL",
     "type": "outpost",
-    "opening": "2019-12-12",
+    "opening_date": "2019-12-12",
     "lat": 53.344605650000005,
     "long": -6.23082120168573,
     "status": "open",
@@ -1323,7 +1325,12 @@
     "name": "Midtown Mumbai",
     "country": "IND",
     "city": "Mumbai",
-    "status": "open",
+    "status": "closed",
+    "opening_date": "2022-03-12",
+    "closing_date": "2024-11-19",
+    "references": [
+      "Closing date, https://www.ft.com/content/c8fd4deb-4e39-4aec-9a3b-361f5b63ae21"
+    ],
     "id": "midtown-mumbai",
     "type": "bar",
     "country_name": "India"
@@ -1353,10 +1360,15 @@
     "name": "Mumbai Bandra",
     "country": "IND",
     "city": "Mumbai",
+    "status": "closed",
+    "opening_date": "2022-03-24",
+    "closing_date": "2024-11-19",
     "lat": 19.0682271,
     "long": 72.8317332,
     "address": "Brewdog, PD Hinduja Road (Khar Pali Road), Linking Road Shopping area, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",
-    "status": "open",
+    "references": [
+      "Closing date, https://www.ft.com/content/c8fd4deb-4e39-4aec-9a3b-361f5b63ae21"
+    ],
     "id": "mumbai-bandra",
     "type": "bar",
     "country_name": "India"
