@@ -1,6 +1,9 @@
 [
   {
     "name": "Aberdeen",
+    "aka": [
+      "The Flagship"
+    ],
     "visas": [
       "1.0",
       "3.0"
@@ -255,13 +258,16 @@
   },
   {
     "name": "Bottledog King's Cross",
+    "id": "bottledog-kgx",
+    "aka": [
+      "Bottledog Gray's Inn Road"
+    ],
     "status": "closed",
     "country": "GBR-ENG",
     "city": "London",
     "type": "bottledog",
     "opening_date": "2014-04-00",
     "closing_date": "2017-01-00",
-    "id": "bottledog-king's-cross",
     "country_name": "England"
   },
   {
@@ -1514,7 +1520,11 @@
     "country": "GBR-ENG",
     "lat": 51.5190539,
     "long": -0.1705643,
+    "opening_date": "2019-03-13",
     "address": "Brewdog Paddington, Unit 1, Harbet Road, Paddington, London, Greater London, England, W2 1JX, United Kingdom",
+    "references": [
+      "Opening Date,https://www.facebook.com/profile/100063967326973 assuming there was an efp night."
+    ],
     "status": "open",
     "id": "paddington",
     "type": "bar",

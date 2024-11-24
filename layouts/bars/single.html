@@ -5,6 +5,12 @@
 <h1>{{ .name }}</h1>
 
 <table>
+{{ if .aka -}}
+    <tr>
+	<td>AKA</td>
+	<td>{{ delimit .aka ", " }}</td>
+    </tr>
+{{- end }}
     <tr>
 	<td>Status</td>
 	<td><a href="/status/{{ .status }}/">{{ title .status }}</a></td>
