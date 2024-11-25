@@ -1,8 +1,9 @@
 {{ define "title"}}{{ .Params.name }}{{ end }}
 
 {{ define "main" }}
+<h1>{{ .Params.name }}</h1>
+{{ partial "map" (slice .) }}
 {{- with .Params }}
-<h1>{{ .name }}</h1>
 
 <table>
 {{ if .aka -}}
