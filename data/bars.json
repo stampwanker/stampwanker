@@ -1453,7 +1453,7 @@
     "country_name": "France"
   },
   {
-    "name": "Northcote",
+    "name": "Northcote Arms",
     "status": "closed",
     "type": "pub",
     "country": "GBR-ENG",
@@ -1463,7 +1463,7 @@
     "references": [
       "Closing Date, brewdog forum post."
     ],
-    "id": "northcote",
+    "id": "northcote-arms",
     "country_name": "England"
   },
   {
