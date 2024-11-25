@@ -269,7 +269,7 @@
     "lat": 55.9571393,
     "long": -3.1989582,
     "id": "bottledog-edinburgh",
-    "city": "Bottledog Edinburgh",
+    "city": "Edinburgh",
     "country_name": "Scotland"
   },
   {
@@ -1541,6 +1541,7 @@
   {
     "name": "Paddington",
     "country": "GBR-ENG",
+    "city": "London",
     "lat": 51.5190539,
     "long": -0.1705643,
     "opening_date": "2019-03-13",
@@ -1551,7 +1552,6 @@
     "status": "open",
     "id": "paddington",
     "type": "bar",
-    "city": "Paddington",
     "country_name": "England"
   },
   {
