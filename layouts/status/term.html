@@ -8,7 +8,10 @@
   <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
       {{- if ne .Params.type "bar" }} {{ title .Params.type -}} 
       {{- end }}
-      {{ partial "date" .Params.opening_date }} - {{ partial "date" .Params.closing_date -}}</li>
+      {{ if .Params.opening_date -}}
+      {{ partial "date" .Params.opening_date }} &ndash; {{ partial "date" .Params.closing_date -}}
+      {{- end }}
+  </li>
   {{- end -}}
   </ul>
 {{ end }}

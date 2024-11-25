@@ -34,11 +34,11 @@
 {{- end }}
     <tr>
 	<td>City</td>
-	<td>{{ title .city }}</td>
+	<td><a href="/city_country/{{ .city_country | urlize }}/">{{ title .city }}</a> {{ partial "bar-count" ( slice ".Params.city_country" .city_country) }}</td>
     </tr>
     <tr>
 	<td>Country</td>
-	<td><a href="/country_name/{{ .country_name | urlize}}/">{{ title .country_name }}</a></td>
+	<td><a href="/country_name/{{ .country_name | urlize}}/">{{ title .country_name }}</a> {{ partial "bar-count" ( slice ".Params.country_name" .country_name) }}</td>
     </tr>
 </table>
 {{ if .trivia }}

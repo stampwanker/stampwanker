@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ partial "map" .Pages }}
+  <ul>
+  {{ range .Pages }}
+  {{ partial "bar-list-item" .Params }}
+  {{- end -}}
+  </ul>
+
+{{ end }}
