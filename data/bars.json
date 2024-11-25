@@ -23,13 +23,16 @@
     "name": "Aberdeen Castlegate",
     "city": "Aberdeen",
     "id": "castlegate",
-    "opening_date": "2015-12-11",
+    "opening_date": "2015-12-10",
     "visas": [
       "1.0",
       "3.0"
     ],
     "lat": 57.14756,
     "long": -2.094478,
+    "references": [
+      "Opening date, efp blog."
+    ],
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
@@ -257,6 +260,19 @@
     "country_name": "Italy"
   },
   {
+    "name": "Bottledog Edinburgh",
+    "type": "bottledog",
+    "country": "GBR-SCT",
+    "status": "closed",
+    "opening_date": "2015-10-08",
+    "address": "25a Dundas St, Edinburgh, EH3 6QQ, United Kingdom",
+    "lat": 55.9571393,
+    "long": -3.1989582,
+    "id": "bottledog-edinburgh",
+    "city": "Bottledog Edinburgh",
+    "country_name": "Scotland"
+  },
+  {
     "name": "Bottledog King's Cross",
     "id": "bottledog-kgx",
     "aka": [
@@ -332,6 +348,9 @@
     "id": "bristol",
     "visas": [
       "1.0"
+    ],
+    "aka": [
+      "Bristol"
     ],
     "opening_date": "2012-10-27",
     "lat": 51.45358455,
@@ -1070,7 +1089,11 @@
     "country": "CHN",
     "lat": 22.28238,
     "long": 114.15483,
+    "opening_date": "2023-10-20",
     "address": "BrewDog, 8, \u64fa\u82b1\u8857 Lyndhurst Terrace, SoHo, \u4e2d\u74b0 Central, \u4e2d\u897f\u5340 Central and Western District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+    "references": [
+      "Opening Date, the EFP night was nearly a month after soft launch so I've gone for the soft launch mentioned on the forum."
+    ],
     "status": "open",
     "id": "hong-kong",
     "type": "bar",
@@ -1596,6 +1619,7 @@
   {
     "name": "Ploenchit",
     "country": "THA",
+    "opening_date": "2024-06-21",
     "lat": 13.743395,
     "long": 100.54614,
     "status": "open",
@@ -1699,6 +1723,7 @@
   {
     "name": "Rotterdam Witte De Withstraat",
     "city": "Rotterdam",
+    "opening_date": "2024-02-02",
     "country": "NLD",
     "lat": 51.9153699,
     "long": 4.4756906,
@@ -1726,6 +1751,7 @@
     "visas": [
       "1.0"
     ],
+    "opening_date": "2018-02-00",
     "lat": 51.5133622,
     "long": -0.12862690929805623,
     "address": "Brewdog, 142, Shaftesbury Avenue, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, England, WC2H 8HJ, United Kingdom",
@@ -1781,6 +1807,7 @@
     "name": "Shoreditch",
     "city": "London",
     "country": "GBR-ENG",
+    "opening_date": "2012-10-20",
     "visas": [
       "1.0"
     ],
@@ -1827,9 +1854,13 @@
     "visas": [
       "1.0"
     ],
+    "opening_date": "2015-11-04",
     "lat": 51.515085549999995,
     "long": -0.13713386030238833,
     "address": "BrewDog Soho, 21-22, Poland Street, Soho, London, Greater London, England, W1F 8QQ, United Kingdom",
+    "references": [
+      "Opening date, EFP Blog."
+    ],
     "status": "open",
     "id": "soho",
     "type": "bar",
@@ -1840,6 +1871,7 @@
     "country": "AUS",
     "lat": -33.8942462,
     "long": 151.1964004,
+    "opening_date": "2022-12-01",
     "address": "BrewDog, Innovation Plaza, South Eveleigh, Eveleigh, Sydney, Council of the City of Sydney, New South Wales, 2015, Australia",
     "status": "open",
     "id": "south-eveleigh",
@@ -1869,6 +1901,7 @@
     ],
     "lat": 56.3391725,
     "long": -2.7981352,
+    "opening_date": "2019-08-01",
     "address": "Brewdog, 159, South Street, St Andrews, Fife, Alba / Scotland, KY16 9UP, United Kingdom",
     "country": "GBR-SCT",
     "status": "open",
@@ -2005,6 +2038,9 @@
     ],
     "lat": 51.5099031,
     "long": -0.0807577,
+    "trivia": [
+      "The opening was marked by brewing a beer who's ingredients were chosen by dogs."
+    ],
     "status": "open",
     "id": "tower-hill-outpost",
     "country_name": "England"
@@ -2106,5 +2142,26 @@
     "type": "bar",
     "city": "York",
     "country_name": "England"
+  },
+  {
+    "name": "Budapest",
+    "status": "closed",
+    "opening_date": "2018-11-16",
+    "country": "HUN",
+    "closing_date": "2020-00-00",
+    "id": "budapest",
+    "type": "bar",
+    "city": "Budapest",
+    "country_name": "Hungary"
+  },
+  {
+    "name": "Turku",
+    "status": "closed",
+    "country": "FIN",
+    "opening_date": "2015-11-12",
+    "id": "turku",
+    "type": "bar",
+    "city": "Turku",
+    "country_name": "Finland"
   }
 ]
