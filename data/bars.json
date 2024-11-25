@@ -248,12 +248,17 @@
     "name": "Bologna",
     "country": "ITA",
     "status": "closed",
+    "opening_date": "2014-00-00",
+    "closing_date": "2024-09-24",
     "visas": [
       "1.0"
     ],
     "lat": 44.4965237,
     "long": 11.3297482,
     "address": "BrewDog, 2f, Via San Valentino, Saragozza, Porto-Saragozza, Bologna, Emilia-Romagna, 40122, Italia",
+    "references": [
+      "Closing Date, brewdog forum post."
+    ],
     "id": "bologna",
     "type": "bar",
     "city": "Bologna",
@@ -922,12 +927,16 @@
     "name": "Firenze",
     "country": "ITA",
     "status": "closed",
+    "city": "Florence",
+    "opening_date": "2014-06-26",
     "visas": [
       "1.0"
     ],
+    "references": [
+      "Opening Date, EFP Blog."
+    ],
     "id": "firenze",
     "type": "bar",
-    "city": "Firenze",
     "country_name": "Italy"
   },
   {
@@ -1708,15 +1717,17 @@
     "name": "Roma",
     "country": "ITA",
     "status": "closed",
+    "closing_date": "2021-05-04",
+    "opening_date": "2015-12-00",
     "visas": [
       "1.0"
     ],
+    "city": "Rome",
     "lat": 41.8917617,
     "long": 12.4929546,
     "address": "BrewDog Roma, 80, Via delle Terme di Tito, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",
     "id": "roma",
     "type": "bar",
-    "city": "Roma",
     "country_name": "Italy"
   },
   {
