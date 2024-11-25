@@ -82,6 +82,7 @@
   },
   {
     "name": "Amsterdam Centraal",
+    "city": "Amsterdam",
     "country": "NLD",
     "opening_date": "2023-08-12",
     "lat": 52.3798313,
@@ -89,7 +90,6 @@
     "status": "open",
     "id": "amsterdam-centraal",
     "type": "bar",
-    "city": "Amsterdam Centraal",
     "country_name": "Netherlands"
   },
   {
@@ -404,6 +404,17 @@
     "type": "bar",
     "city": "Brussels",
     "country_name": "Belgium"
+  },
+  {
+    "name": "Budapest",
+    "status": "closed",
+    "opening_date": "2018-11-16",
+    "country": "HUN",
+    "closing_date": "2020-00-00",
+    "id": "budapest",
+    "type": "bar",
+    "city": "Budapest",
+    "country_name": "Hungary"
   },
   {
     "name": "Cambridge",
@@ -1442,6 +1453,20 @@
     "country_name": "France"
   },
   {
+    "name": "Northcote",
+    "status": "closed",
+    "type": "pub",
+    "country": "GBR-ENG",
+    "city": "London",
+    "opening_date": "2021-04-00",
+    "closing_date": "2024-04-13",
+    "references": [
+      "Closing Date, brewdog forum post."
+    ],
+    "id": "northcote",
+    "country_name": "England"
+  },
+  {
     "name": "Norwich",
     "country": "GBR-ENG",
     "visas": [
@@ -2046,6 +2071,16 @@
     "country_name": "England"
   },
   {
+    "name": "Turku",
+    "status": "closed",
+    "country": "FIN",
+    "opening_date": "2015-11-12",
+    "id": "turku",
+    "type": "bar",
+    "city": "Turku",
+    "country_name": "Finland"
+  },
+  {
     "name": "Upminster",
     "country": "GBR-ENG",
     "opening_date": "2022-11-10",
@@ -2142,26 +2177,5 @@
     "type": "bar",
     "city": "York",
     "country_name": "England"
-  },
-  {
-    "name": "Budapest",
-    "status": "closed",
-    "opening_date": "2018-11-16",
-    "country": "HUN",
-    "closing_date": "2020-00-00",
-    "id": "budapest",
-    "type": "bar",
-    "city": "Budapest",
-    "country_name": "Hungary"
-  },
-  {
-    "name": "Turku",
-    "status": "closed",
-    "country": "FIN",
-    "opening_date": "2015-11-12",
-    "id": "turku",
-    "type": "bar",
-    "city": "Turku",
-    "country_name": "Finland"
   }
 ]
