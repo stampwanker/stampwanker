@@ -946,6 +946,7 @@
     "long": 8.6694914,
     "address": "Brewdog, 51, Kaiserstra\u00dfe, Bahnhofsviertel, Innenstadt 1, Frankfurt am Main, Hessen, 60329, Deutschland",
     "opening_date": "2021-10-28",
+    "closing_date": "2024-12-21",
     "status": "open",
     "id": "frankfurt",
     "type": "bar",
@@ -1261,9 +1262,8 @@
     "visas": [
       "1.0"
     ],
-    "lat": 53.82027495,
-    "long": -1.5764136721196462,
-    "address": "Brewdog/Red's True BBQ, 6a, Otley Road, Headingley Hill, Headingley, Leeds, West Yorkshire, England, LS6 2AD, United Kingdom",
+    "lat": 53.7954815,
+    "long": -1.5398508,
     "id": "leeds",
     "type": "bar",
     "city": "Leeds",
@@ -1828,12 +1828,16 @@
     "name": "Shepherd's Bush",
     "city": "London",
     "country": "GBR-ENG",
+    "opening_date": "2013-12-02",
     "visas": [
       "1.0"
     ],
     "lat": 51.5029215,
     "long": -0.22388932746910667,
     "address": "BrewDog Shepherds Bush, 15-19, Goldhawk Road, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, England, W12 8QQ, United Kingdom",
+    "references": [
+      "Opening Date, https://www.restaurantonline.co.uk/Article/2013/12/02/BrewDog-craft-beer-bar-Shepherd-s-Bush-London/"
+    ],
     "status": "open",
     "id": "shepherd's-bush",
     "type": "bar",
