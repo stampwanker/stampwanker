@@ -1631,6 +1631,8 @@
     "name": "Peterhead",
     "closing_date": "2022-08-30",
     "opening_date": "2019-03-00",
+    "lat": 57.505068,
+    "long": -1.780912,
     "country": "GBR-SCT",
     "status": "closed",
     "id": "peterhead",
