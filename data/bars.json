@@ -1629,14 +1629,14 @@
   },
   {
     "name": "Peterhead",
-    "country": "GBR-ENG",
-    "status": "closed",
     "closing_date": "2022-08-30",
     "opening_date": "2019-03-00",
+    "country": "GBR-SCT",
+    "status": "closed",
     "id": "peterhead",
     "type": "bar",
     "city": "Peterhead",
-    "country_name": "England"
+    "country_name": "Scotland"
   },
   {
     "name": "Pittsburgh",
