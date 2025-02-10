@@ -784,6 +784,15 @@
     "country_name": "Scotland"
   },
   {
+    "name": "Dubai Bluewaters",
+    "country": "ARE",
+    "city": "Dubai",
+    "status": "coming_soon",
+    "id": "dubai-bluewaters",
+    "type": "bar",
+    "country_name": "United Arab Emirates"
+  },
+  {
     "name": "Dublin Outpost",
     "country": "IRL",
     "type": "outpost",
@@ -794,6 +803,22 @@
     "id": "dublin-outpost",
     "city": "Dublin",
     "country_name": "Ireland"
+  },
+  {
+    "name": "Duke of Battersea",
+    "status": "closed",
+    "city": "London",
+    "country": "GBR-ENG",
+    "type": "pub",
+    "address": "74-76 Battersea Bridge Road, London SW11 3AG",
+    "lat": 51.478252,
+    "long": -0.170143,
+    "closing_date": "2024-01-17",
+    "references": [
+      "closing date, https://www.instagram.com/batterseabeat/p/C2MdnGaom8m/"
+    ],
+    "id": "duke-of-battersea",
+    "country_name": "England"
   },
   {
     "name": "Duke of Hammersmith",
@@ -1391,7 +1416,7 @@
   {
     "name": "Milan",
     "country": "ITA",
-    "status": "coming_soon",
+    "status": "never_opened",
     "id": "milan",
     "type": "bar",
     "city": "Milan",
