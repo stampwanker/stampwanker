@@ -530,8 +530,9 @@
   },
   {
     "name": "Chandigarh",
-    "status": "coming_soon",
     "country": "IND",
+    "opening_date": "2025-02-27",
+    "status": "open",
     "id": "chandigarh",
     "type": "bar",
     "city": "Chandigarh",
