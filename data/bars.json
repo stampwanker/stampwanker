@@ -2040,6 +2040,7 @@
   {
     "name": "S\u00f6dermalm",
     "country": "SWE",
+    "city": "Stockholm",
     "visas": [
       "1.0"
     ],
@@ -2049,7 +2050,6 @@
     "status": "open",
     "id": "s\u00f6dermalm",
     "type": "bar",
-    "city": "S\u00f6dermalm",
     "country_name": "Sweden"
   },
   {
