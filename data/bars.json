@@ -1046,6 +1046,7 @@
   {
     "name": "Gr\u00fcnerl\u00f8kka",
     "country": "NOR",
+    "city": "Oslo",
     "visas": [
       "1.0"
     ],
@@ -1055,7 +1056,6 @@
     "status": "open",
     "id": "gr\u00fcnerl\u00f8kka",
     "type": "bar",
-    "city": "Gr\u00fcnerl\u00f8kka",
     "country_name": "Norway"
   },
   {
