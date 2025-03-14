@@ -1045,7 +1045,7 @@
   },
   {
     "name": "Gr\u00fcnerl\u00f8kka",
-    "country": "SWE",
+    "country": "NOR",
     "visas": [
       "1.0"
     ],
@@ -1056,7 +1056,7 @@
     "id": "gr\u00fcnerl\u00f8kka",
     "type": "bar",
     "city": "Gr\u00fcnerl\u00f8kka",
-    "country_name": "Sweden"
+    "country_name": "Norway"
   },
   {
     "name": "Gurugram",
