@@ -26,7 +26,7 @@
 {{ partial "partials/bar-list.html" (where .Site.Data.bars ".country" "GBR-NIR") -}}
 
 <h2>Rest of World</h2>
-{{- $british_countries := slice "England" "Ireland" "Scotland" "Wales" "Northern Ireland" -}}
+{{- $british_countries := slice "England" "Ireland" "Scotland" "Wales [Cymru GB-CYM]" "Northern Ireland" -}}
 {{- $countries := slice -}}
 {{- range .Site.Data.bars -}}
 {{-   $countries = $countries | append .country_name -}}
