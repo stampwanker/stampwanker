@@ -1601,9 +1601,10 @@
   },
   {
     "name": "Outpost Itaewon",
+    "status": "closed",
+    "opening_date": "2018-08-10",
     "country": "KOR",
     "type": "outpost",
-    "status": "open",
     "id": "outpost-itaewon",
     "city": "Itaewon",
     "country_name": "Korea, Republic of"
