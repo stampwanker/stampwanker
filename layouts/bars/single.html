@@ -45,7 +45,7 @@
 <h2>Trivia</h2>
 <ul class="trivia">
 {{- range .trivia }}
-   <li>{{ . }}</li>
+   <li>{{ . | markdownify }}</li>
 {{- end -}}
 </ul>
 {{- end -}}

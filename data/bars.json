@@ -696,7 +696,7 @@
     "long": -3.182814,
     "country": "GBR-SCT",
     "status": "open",
-    "id": "doghouse-edinburgh-bar-&-terrace",
+    "id": "doghouse-edinburgh-bar-and-terrace",
     "country_name": "Scotland"
   },
   {
@@ -872,17 +872,41 @@
     "country_name": "England"
   },
   {
-    "name": "Edinburgh Airport",
+    "name": "Edinburgh Airport (Big Dog)",
     "city": "Edinburgh",
     "visas": [
       "3.0"
     ],
+    "opening_date": "2024-12-12",
+    "id": "edinburgh-airport2",
     "lat": 55.9489667,
     "long": -3.3617104,
     "address": "Brewdog, Jubilee Road, City of Edinburgh, Alba / Scotland, EH12 9DP, United Kingdom",
+    "trivia": [
+      "This location has a new badge and pin compared to [Edinbrugh Airport Little Dog](/bars/edinburgh-airport)."
+    ],
     "country": "GBR-SCT",
     "status": "open",
+    "type": "bar",
+    "country_name": "Scotland"
+  },
+  {
+    "name": "Edinburgh Airport (Little Dog)",
+    "city": "Edinburgh",
     "id": "edinburgh-airport",
+    "visas": [
+      "3.0"
+    ],
+    "closing_date": "2024-12-01",
+    "opening_date": "2019-00-00",
+    "status": "Relocated",
+    "lat": 55.9489667,
+    "long": -3.3617104,
+    "address": "Brewdog, Jubilee Road, City of Edinburgh, Alba / Scotland, EH12 9DP, United Kingdom",
+    "trivia": [
+      "This location was closed just before [Edinbrugh Airport Big Dog](/bars/edinburgh-airport2) opened."
+    ],
+    "country": "GBR-SCT",
     "type": "bar",
     "country_name": "Scotland"
   },
@@ -2247,6 +2271,26 @@
     "id": "york",
     "type": "bar",
     "city": "York",
+    "country_name": "England"
+  },
+  {
+    "name": "Hawkes Cidery & Taproom",
+    "type": "cidery",
+    "country": "GBR-ENG",
+    "address": "86-92 Druid St, London, England, SE1 2HQ, United Kingdon",
+    "lat": 51.4993771,
+    "long": -0.0747406,
+    "opening_date": "2017-05-00",
+    "closing_date": "2023-08-00",
+    "city": "London",
+    "references": [
+      "Opening and closing date: https://camra.org.uk/pubs/hawkes-cidery-taproom-london-159699"
+    ],
+    "trivia": [
+      "This location had a Visa stamp."
+    ],
+    "status": "closed",
+    "id": "hawkes-cidery-and-taproom",
     "country_name": "England"
   }
 ]
