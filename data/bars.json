@@ -157,7 +157,6 @@
   },
   {
     "name": "Basingstoke",
-    "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2022-03-07",
     "lat": 51.2651426,
@@ -166,6 +165,7 @@
     "status": "open",
     "id": "basingstoke",
     "type": "bar",
+    "city": "Basingstoke",
     "official_site": "http://www.brewdog.com/uk/basingstoke",
     "country_name": "England"
   },
