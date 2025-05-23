@@ -17,6 +17,7 @@
     "id": "aberdeen",
     "type": "bar",
     "city": "Aberdeen",
+    "official_site": "http://www.brewdog.com/uk/aberdeen",
     "country_name": "Scotland"
   },
   {
@@ -36,6 +37,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/castlegate",
     "country_name": "Scotland"
   },
   {
@@ -51,6 +53,7 @@
     "long": -2.094706,
     "country": "GBR-SCT",
     "status": "open",
+    "official_site": "http://www.brewdog.com/uk/aberdeen-kennels",
     "country_name": "Scotland"
   },
   {
@@ -67,6 +70,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/union-square",
     "country_name": "Scotland"
   },
   {
@@ -78,6 +82,7 @@
     "id": "amritsar",
     "type": "bar",
     "city": "Amritsar",
+    "official_site": "http://www.brewdog.com/uk/amritsar",
     "country_name": "India"
   },
   {
@@ -90,6 +95,7 @@
     "status": "open",
     "id": "amsterdam-centraal",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/amsterdam-centraal",
     "country_name": "Netherlands"
   },
   {
@@ -113,6 +119,7 @@
     "address": "Dog Eat Dog, 29-31, Essex Road, Angel, Islington, London Borough of Islington, London, Greater London, England, N1 2SA, United Kingdom",
     "id": "angel",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/angel",
     "country_name": "England"
   },
   {
@@ -125,6 +132,7 @@
     "long": -84.3649011,
     "status": "open",
     "id": "atlanta-outpost",
+    "official_site": "http://www.brewdog.com/uk/atlanta-outpost",
     "country_name": "United States"
   },
   {
@@ -144,6 +152,7 @@
     "id": "barcelona",
     "type": "bar",
     "city": "Barcelona",
+    "official_site": "http://www.brewdog.com/uk/barcelona",
     "country_name": "Spain"
   },
   {
@@ -157,6 +166,7 @@
     "status": "open",
     "id": "basingstoke",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/basingstoke",
     "country_name": "England"
   },
   {
@@ -170,6 +180,7 @@
     "id": "bath",
     "type": "bar",
     "city": "Bath",
+    "official_site": "http://www.brewdog.com/uk/bath",
     "country_name": "England"
   },
   {
@@ -182,6 +193,7 @@
     "long": -5.939604,
     "id": "belfast-grand-central",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/belfast-grand-central",
     "country_name": "Northern Ireland"
   },
   {
@@ -195,6 +207,7 @@
     "status": "open",
     "id": "berlin-friedrichshain",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/berlin-friedrichshain",
     "country_name": "Germany"
   },
   {
@@ -214,6 +227,7 @@
     "status": "open",
     "id": "berlin-mitte",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/berlin-mitte",
     "country_name": "Germany"
   },
   {
@@ -226,6 +240,7 @@
     "long": -0.071017,
     "status": "open",
     "id": "birdcage",
+    "official_site": "http://www.brewdog.com/uk/birdcage",
     "country_name": "England"
   },
   {
@@ -242,6 +257,7 @@
     "id": "birmingham",
     "type": "bar",
     "city": "Birmingham",
+    "official_site": "http://www.brewdog.com/uk/birmingham",
     "country_name": "England"
   },
   {
@@ -262,6 +278,7 @@
     "id": "bologna",
     "type": "bar",
     "city": "Bologna",
+    "official_site": "http://www.brewdog.com/uk/bologna",
     "country_name": "Italy"
   },
   {
@@ -275,6 +292,7 @@
     "long": -3.1989582,
     "id": "bottledog-edinburgh",
     "city": "Edinburgh",
+    "official_site": "http://www.brewdog.com/uk/bottledog-edinburgh",
     "country_name": "Scotland"
   },
   {
@@ -289,6 +307,7 @@
     "type": "bottledog",
     "opening_date": "2014-04-00",
     "closing_date": "2017-01-00",
+    "official_site": "http://www.brewdog.com/uk/bottledog-kgx",
     "country_name": "England"
   },
   {
@@ -302,6 +321,7 @@
     "id": "bournemouth",
     "type": "bar",
     "city": "Bournemouth",
+    "official_site": "http://www.brewdog.com/uk/bournemouth",
     "country_name": "England"
   },
   {
@@ -316,6 +336,7 @@
     "id": "bradford",
     "type": "bar",
     "city": "Bradford",
+    "official_site": "http://www.brewdog.com/uk/bradford",
     "country_name": "England"
   },
   {
@@ -332,6 +353,7 @@
     "id": "brighton",
     "type": "bar",
     "city": "Brighton",
+    "official_site": "http://www.brewdog.com/uk/brighton",
     "country_name": "England"
   },
   {
@@ -345,6 +367,7 @@
     "status": "open",
     "id": "brisbane-fortitude-valley",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/brisbane-fortitude-valley",
     "country_name": "Australia"
   },
   {
@@ -364,6 +387,7 @@
     "address": "BrewDog, 58, Baldwin Street, Old City, City Centre, Bristol, City of Bristol, West of England, England, BS1 1QW, United Kingdom",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/bristol",
     "country_name": "England"
   },
   {
@@ -377,6 +401,7 @@
     "status": "open",
     "id": "bristol-harbourside",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/bristol-harbourside",
     "country_name": "England"
   },
   {
@@ -390,6 +415,7 @@
     "long": -0.11317,
     "id": "brixton",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/brixton",
     "country_name": "England"
   },
   {
@@ -409,6 +435,7 @@
     "id": "brussels",
     "type": "bar",
     "city": "Brussels",
+    "official_site": "http://www.brewdog.com/uk/brussels",
     "country_name": "Belgium"
   },
   {
@@ -420,6 +447,7 @@
     "id": "budapest",
     "type": "bar",
     "city": "Budapest",
+    "official_site": "http://www.brewdog.com/uk/budapest",
     "country_name": "Hungary"
   },
   {
@@ -433,6 +461,7 @@
     "id": "cambridge",
     "type": "bar",
     "city": "Cambridge",
+    "official_site": "http://www.brewdog.com/uk/cambridge",
     "country_name": "England"
   },
   {
@@ -456,6 +485,7 @@
     "status": "open",
     "id": "camden",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/camden",
     "country_name": "England"
   },
   {
@@ -469,6 +499,7 @@
     "long": -0.1383177,
     "address": "Camden Road Arms, 102-106, Camden Road, Kentish Town, London Borough of Camden, London, Greater London, England, NW1 9EA, United Kingdom",
     "status": "open",
+    "official_site": "http://www.brewdog.com/uk/camden-road",
     "country_name": "England"
   },
   {
@@ -482,6 +513,7 @@
     "status": "open",
     "id": "canary-wharf",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/canary-wharf",
     "country_name": "England"
   },
   {
@@ -498,6 +530,7 @@
     "id": "cardiff",
     "type": "bar",
     "city": "Cardiff",
+    "official_site": "http://www.brewdog.com/uk/cardiff",
     "country_name": "Wales [Cymru GB-CYM]"
   },
   {
@@ -514,6 +547,7 @@
     "id": "carlisle",
     "type": "bar",
     "city": "Carlisle",
+    "official_site": "http://www.brewdog.com/uk/carlisle",
     "country_name": "England"
   },
   {
@@ -526,6 +560,7 @@
     "status": "open",
     "id": "chancery-lane",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/chancery-lane",
     "country_name": "England"
   },
   {
@@ -536,6 +571,7 @@
     "id": "chandigarh",
     "type": "bar",
     "city": "Chandigarh",
+    "official_site": "http://www.brewdog.com/uk/chandigarh",
     "country_name": "India"
   },
   {
@@ -549,6 +585,7 @@
     "id": "cheltenham",
     "type": "bar",
     "city": "Cheltenham",
+    "official_site": "http://www.brewdog.com/uk/cheltenham",
     "country_name": "England"
   },
   {
@@ -558,6 +595,7 @@
     "city": "Paris",
     "id": "ch\u00e2telet",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/ch\u00e2telet",
     "country_name": "France"
   },
   {
@@ -571,6 +609,7 @@
     "id": "cincinnati",
     "type": "bar",
     "city": "Cincinnati",
+    "official_site": "http://www.brewdog.com/uk/cincinnati",
     "country_name": "United States"
   },
   {
@@ -588,6 +627,7 @@
     "address": "Brewdog, 11-13, Battersea Rise, Clapham Junction, London Borough of Wandsworth, London, Greater London, England, SW11 1HG, United Kingdom",
     "id": "clapham-junction",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/clapham-junction",
     "country_name": "England"
   },
   {
@@ -604,6 +644,7 @@
     "status": "open",
     "id": "clerkenwell",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/clerkenwell",
     "country_name": "England"
   },
   {
@@ -616,6 +657,7 @@
     "status": "open",
     "id": "cleveland-outpost",
     "city": "Cleveland",
+    "official_site": "http://www.brewdog.com/uk/cleveland-outpost",
     "country_name": "United States"
   },
   {
@@ -632,6 +674,7 @@
     "status": "open",
     "id": "columbus-airport",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/columbus-airport",
     "country_name": "United States"
   },
   {
@@ -649,6 +692,7 @@
     "id": "cork",
     "type": "bar",
     "city": "Cork",
+    "official_site": "http://www.brewdog.com/uk/cork",
     "country_name": "Ireland"
   },
   {
@@ -662,6 +706,7 @@
     "long": -0.07519,
     "id": "dalston",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/dalston",
     "country_name": "England"
   },
   {
@@ -675,6 +720,7 @@
     "id": "denver",
     "type": "bar",
     "city": "Denver",
+    "official_site": "http://www.brewdog.com/uk/denver",
     "country_name": "United States"
   },
   {
@@ -686,6 +732,7 @@
     "long": -82.825525,
     "status": "open",
     "id": "doghouse-columbus-hotel",
+    "official_site": "http://www.brewdog.com/uk/doghouse-columbus-hotel",
     "country_name": "United States"
   },
   {
@@ -697,6 +744,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "id": "doghouse-edinburgh-bar-and-terrace",
+    "official_site": "http://www.brewdog.com/uk/doghouse-edinburgh-bar-and-terrace",
     "country_name": "Scotland"
   },
   {
@@ -713,6 +761,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "id": "doghouse-edinburgh-hotel",
+    "official_site": "http://www.brewdog.com/uk/doghouse-edinburgh-hotel",
     "country_name": "Scotland"
   },
   {
@@ -725,6 +774,7 @@
     "address": "BrewDog DogHouse Hotel, 18, Fountain Street, Central Retail District, City Centre, Manchester, Greater Manchester, England, M2 2AA, United Kingdom",
     "status": "open",
     "id": "doghouse-manchester",
+    "official_site": "http://www.brewdog.com/uk/doghouse-manchester",
     "country_name": "England"
   },
   {
@@ -738,6 +788,7 @@
     "address": "BrewDog DogTap Berlin, 23, Im Marienpark, Marienpark, Mariendorf, Tempelhof-Sch\u00f6neberg, Berlin, 12107, Deutschland",
     "status": "open",
     "id": "dogtap-berlin",
+    "official_site": "http://www.brewdog.com/uk/dogtap-berlin",
     "country_name": "Germany"
   },
   {
@@ -751,6 +802,7 @@
     "address": "BrewDog DogTap, 77, Metroplex Avenue, Metroplex on Gateway, Murarrie, Brisbane City, Queensland, 4172, Australia",
     "status": "open",
     "id": "dogtap-brisbane",
+    "official_site": "http://www.brewdog.com/uk/dogtap-brisbane",
     "country_name": "Australia"
   },
   {
@@ -765,6 +817,7 @@
     "long": -82.825525,
     "status": "open",
     "id": "dogtap-columbus",
+    "official_site": "http://www.brewdog.com/uk/dogtap-columbus",
     "country_name": "United States"
   },
   {
@@ -782,15 +835,21 @@
     "status": "open",
     "id": "dogtap-ellon",
     "city": "Ellon",
+    "official_site": "http://www.brewdog.com/uk/dogtap-ellon",
     "country_name": "Scotland"
   },
   {
     "name": "Dubai Bluewaters",
     "country": "ARE",
     "city": "Dubai",
-    "status": "coming_soon",
+    "address": "Brewdog Dubai, EA001, Bluewaters Island, Dubai, United Arab Emirates",
+    "opening_date": "2025-05-23",
+    "lat": 25.0791649,
+    "long": 55.1244688,
+    "status": "open",
     "id": "dubai-bluewaters",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/dubai-bluewaters",
     "country_name": "United Arab Emirates"
   },
   {
@@ -803,6 +862,7 @@
     "status": "open",
     "id": "dublin-outpost",
     "city": "Dublin",
+    "official_site": "http://www.brewdog.com/uk/dublin-outpost",
     "country_name": "Ireland"
   },
   {
@@ -819,6 +879,7 @@
       "closing date, https://www.instagram.com/batterseabeat/p/C2MdnGaom8m/"
     ],
     "id": "duke-of-battersea",
+    "official_site": "http://www.brewdog.com/uk/duke-of-battersea",
     "country_name": "England"
   },
   {
@@ -830,6 +891,7 @@
     "long": -0.224139,
     "status": "open",
     "id": "duke-of-hammersmith",
+    "official_site": "http://www.brewdog.com/uk/duke-of-hammersmith",
     "country_name": "England"
   },
   {
@@ -847,6 +909,7 @@
     "id": "dundee",
     "type": "bar",
     "city": "Dundee",
+    "official_site": "http://www.brewdog.com/uk/dundee",
     "country_name": "Scotland"
   },
   {
@@ -856,6 +919,7 @@
     "id": "durham",
     "type": "bar",
     "city": "Durham",
+    "official_site": "http://www.brewdog.com/uk/durham",
     "country_name": "England"
   },
   {
@@ -869,6 +933,7 @@
     "status": "open",
     "id": "ealing",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/ealing",
     "country_name": "England"
   },
   {
@@ -888,6 +953,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/edinburgh-airport2",
     "country_name": "Scotland"
   },
   {
@@ -908,6 +974,7 @@
     ],
     "country": "GBR-SCT",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/edinburgh-airport",
     "country_name": "Scotland"
   },
   {
@@ -928,6 +995,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/edinburgh",
     "country_name": "Scotland"
   },
   {
@@ -945,6 +1013,7 @@
     "status": "open",
     "id": "edinburgh-lothian-road",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/edinburgh-lothian-road",
     "country_name": "Scotland"
   },
   {
@@ -959,6 +1028,7 @@
     "address": "BrewDog, Waverley Concourse, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1BB, United Kingdom",
     "id": "edinburgh-waverley",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/edinburgh-waverley",
     "country_name": "Scotland"
   },
   {
@@ -972,6 +1042,7 @@
     "id": "exeter",
     "type": "bar",
     "city": "Exeter",
+    "official_site": "http://www.brewdog.com/uk/exeter",
     "country_name": "England"
   },
   {
@@ -988,6 +1059,7 @@
     ],
     "id": "firenze",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/firenze",
     "country_name": "Italy"
   },
   {
@@ -1002,6 +1074,7 @@
     "id": "frankfurt",
     "type": "bar",
     "city": "Frankfurt",
+    "official_site": "http://www.brewdog.com/uk/frankfurt",
     "country_name": "Germany"
   },
   {
@@ -1017,6 +1090,7 @@
     "status": "open",
     "id": "franklinton",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/franklinton",
     "country_name": "United States"
   },
   {
@@ -1029,6 +1103,7 @@
     "status": "open",
     "id": "gatwick-airport",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/gatwick-airport",
     "country_name": "England"
   },
   {
@@ -1046,6 +1121,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/glasgow",
     "country_name": "Scotland"
   },
   {
@@ -1065,6 +1141,7 @@
     "status": "open",
     "id": "glasgow-merchant-city",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/glasgow-merchant-city",
     "country_name": "Scotland"
   },
   {
@@ -1080,6 +1157,7 @@
     "status": "open",
     "id": "gr\u00fcnerl\u00f8kka",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/gr\u00fcnerl\u00f8kka",
     "country_name": "Norway"
   },
   {
@@ -1091,6 +1169,7 @@
     "id": "gurugram",
     "type": "bar",
     "city": "Gurugram",
+    "official_site": "http://www.brewdog.com/uk/gurugram",
     "country_name": "India"
   },
   {
@@ -1106,6 +1185,7 @@
     "id": "g\u00f6teborg",
     "type": "bar",
     "city": "G\u00f6teborg",
+    "official_site": "http://www.brewdog.com/uk/g\u00f6teborg",
     "country_name": "Sweden"
   },
   {
@@ -1120,6 +1200,7 @@
     "address": "Brewdog/Red's True BBQ, 6a, Otley Road, Headingley Hill, Headingley, Leeds, West Yorkshire, England, LS6 2AD, United Kingdom",
     "id": "headingley",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/headingley",
     "country_name": "England"
   },
   {
@@ -1137,6 +1218,7 @@
     "id": "helsinki",
     "type": "bar",
     "city": "Helsinki",
+    "official_site": "http://www.brewdog.com/uk/helsinki",
     "country_name": "Finland"
   },
   {
@@ -1154,6 +1236,7 @@
     ],
     "id": "homerton",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/homerton",
     "country_name": "England"
   },
   {
@@ -1170,6 +1253,7 @@
     "id": "hong-kong",
     "type": "bar",
     "city": "Hong Kong",
+    "official_site": "http://www.brewdog.com/uk/hong-kong",
     "country_name": "China"
   },
   {
@@ -1184,6 +1268,7 @@
     "country": "GBR-SCT",
     "id": "hop-hub",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/hop-hub",
     "country_name": "Scotland"
   },
   {
@@ -1194,6 +1279,7 @@
     "closing_date": "2022-08-30",
     "country": "GBR-SCT",
     "id": "hop-and-anchor",
+    "official_site": "http://www.brewdog.com/uk/hop-and-anchor",
     "country_name": "Scotland"
   },
   {
@@ -1208,6 +1294,7 @@
     "id": "huddersfield",
     "type": "bar",
     "city": "Huddersfield",
+    "official_site": "http://www.brewdog.com/uk/huddersfield",
     "country_name": "England"
   },
   {
@@ -1224,6 +1311,7 @@
     "id": "hull",
     "type": "bar",
     "city": "Hull",
+    "official_site": "http://www.brewdog.com/uk/hull",
     "country_name": "England"
   },
   {
@@ -1235,6 +1323,7 @@
     "id": "indianapolis",
     "type": "bar",
     "city": "Indianapolis",
+    "official_site": "http://www.brewdog.com/uk/indianapolis",
     "country_name": "United States"
   },
   {
@@ -1251,6 +1340,7 @@
     "id": "inverurie",
     "type": "bar",
     "city": "Inverurie",
+    "official_site": "http://www.brewdog.com/uk/inverurie",
     "country_name": "Scotland"
   },
   {
@@ -1263,6 +1353,7 @@
     "id": "kijkduin",
     "type": "bar",
     "city": "Kijkduin",
+    "official_site": "http://www.brewdog.com/uk/kijkduin",
     "country_name": "Netherlands"
   },
   {
@@ -1276,6 +1367,7 @@
     "status": "open",
     "id": "kungsholmen",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/kungsholmen",
     "country_name": "Sweden"
   },
   {
@@ -1289,6 +1381,7 @@
     "id": "las-vegas",
     "type": "bar",
     "city": "Las Vegas",
+    "official_site": "http://www.brewdog.com/uk/las-vegas",
     "country_name": "United States"
   },
   {
@@ -1307,6 +1400,7 @@
     "status": "closed",
     "id": "le-marais",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/le-marais",
     "country_name": "France"
   },
   {
@@ -1321,6 +1415,7 @@
     "id": "leeds",
     "type": "bar",
     "city": "Leeds",
+    "official_site": "http://www.brewdog.com/uk/leeds",
     "country_name": "England"
   },
   {
@@ -1339,6 +1434,7 @@
     "status": "open",
     "id": "leeds-north-street",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/leeds-north-street",
     "country_name": "England"
   },
   {
@@ -1353,6 +1449,7 @@
     "opening_date": "2015-04-15",
     "id": "leicester",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/leicester",
     "country_name": "England"
   },
   {
@@ -1372,6 +1469,7 @@
     "id": "liverpool",
     "type": "bar",
     "city": "Liverpool",
+    "official_site": "http://www.brewdog.com/uk/liverpool",
     "country_name": "England"
   },
   {
@@ -1387,6 +1485,7 @@
     "id": "malm\u00f6",
     "type": "bar",
     "city": "Malm\u00f6",
+    "official_site": "http://www.brewdog.com/uk/malm\u00f6",
     "country_name": "Sweden"
   },
   {
@@ -1400,6 +1499,7 @@
     "address": "Brewdog Outpost Manchester, 144, Oxford Road, Brunswick, Chorlton-on-Medlock, Manchester, Greater Manchester, England, M13 9GP, United Kingdom",
     "status": "open",
     "id": "manchester-outpost",
+    "official_site": "http://www.brewdog.com/uk/manchester-outpost",
     "country_name": "England"
   },
   {
@@ -1422,6 +1522,7 @@
     "address": "BrewDog Manchester, 35, Peter Street, Civic Quarter, City Centre, Manchester, Greater Manchester, England, M2 5BG, United Kingdom",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/manchester",
     "country_name": "England"
   },
   {
@@ -1436,6 +1537,7 @@
     ],
     "id": "midtown-mumbai",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/midtown-mumbai",
     "country_name": "India"
   },
   {
@@ -1445,6 +1547,7 @@
     "id": "milan",
     "type": "bar",
     "city": "Milan",
+    "official_site": "http://www.brewdog.com/uk/milan",
     "country_name": "Italy"
   },
   {
@@ -1457,6 +1560,7 @@
     "id": "milton-keynes",
     "type": "bar",
     "city": "Milton Keynes",
+    "official_site": "http://www.brewdog.com/uk/milton-keynes",
     "country_name": "England"
   },
   {
@@ -1474,6 +1578,7 @@
     ],
     "id": "mumbai-bandra",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/mumbai-bandra",
     "country_name": "India"
   },
   {
@@ -1486,6 +1591,7 @@
     "id": "new-albany",
     "type": "bar",
     "city": "New Albany",
+    "official_site": "http://www.brewdog.com/uk/new-albany",
     "country_name": "United States"
   },
   {
@@ -1501,6 +1607,7 @@
     "id": "newcastle",
     "type": "bar",
     "city": "Newcastle",
+    "official_site": "http://www.brewdog.com/uk/newcastle",
     "country_name": "England"
   },
   {
@@ -1514,6 +1621,7 @@
     "id": "nice",
     "type": "bar",
     "city": "Nice",
+    "official_site": "http://www.brewdog.com/uk/nice",
     "country_name": "France"
   },
   {
@@ -1528,6 +1636,7 @@
       "Closing Date, brewdog forum post."
     ],
     "id": "northcote-arms",
+    "official_site": "http://www.brewdog.com/uk/northcote-arms",
     "country_name": "England"
   },
   {
@@ -1543,6 +1652,7 @@
     "id": "norwich",
     "type": "bar",
     "city": "Norwich",
+    "official_site": "http://www.brewdog.com/uk/norwich",
     "country_name": "England"
   },
   {
@@ -1562,6 +1672,7 @@
     "id": "nottingham",
     "type": "bar",
     "city": "Nottingham",
+    "official_site": "http://www.brewdog.com/uk/nottingham",
     "country_name": "England"
   },
   {
@@ -1578,6 +1689,7 @@
     "id": "norrk\u00f6ping",
     "type": "bar",
     "city": "Norrk\u00f6ping",
+    "official_site": "http://www.brewdog.com/uk/norrk\u00f6ping",
     "country_name": "Sweden"
   },
   {
@@ -1597,6 +1709,7 @@
     ],
     "id": "old-street",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/old-street",
     "country_name": "England"
   },
   {
@@ -1607,6 +1720,7 @@
     "type": "outpost",
     "id": "outpost-itaewon",
     "city": "Itaewon",
+    "official_site": "http://www.brewdog.com/uk/outpost-itaewon",
     "country_name": "Korea, Republic of"
   },
   {
@@ -1623,6 +1737,7 @@
     "country": "GBR-SCT",
     "id": "overworks-tap-room",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/overworks-tap-room",
     "country_name": "Scotland"
   },
   {
@@ -1642,6 +1757,7 @@
     "id": "oxford",
     "type": "bar",
     "city": "Oxford",
+    "official_site": "http://www.brewdog.com/uk/oxford",
     "country_name": "England"
   },
   {
@@ -1658,6 +1774,7 @@
     "status": "open",
     "id": "paddington",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/paddington",
     "country_name": "England"
   },
   {
@@ -1671,6 +1788,7 @@
     "id": "pentridge",
     "type": "bar",
     "city": "Pentridge",
+    "official_site": "http://www.brewdog.com/uk/pentridge",
     "country_name": "Australia"
   },
   {
@@ -1682,6 +1800,7 @@
     "long": 115.8472714,
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/perth-australia",
     "country_name": "Australia"
   },
   {
@@ -1697,6 +1816,7 @@
     "country": "GBR-SCT",
     "status": "open",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/perth",
     "country_name": "Scotland"
   },
   {
@@ -1710,6 +1830,7 @@
     "id": "peterhead",
     "type": "bar",
     "city": "Peterhead",
+    "official_site": "http://www.brewdog.com/uk/peterhead",
     "country_name": "Scotland"
   },
   {
@@ -1722,6 +1843,7 @@
     "id": "pittsburgh",
     "type": "bar",
     "city": "Pittsburgh",
+    "official_site": "http://www.brewdog.com/uk/pittsburgh",
     "country_name": "United States"
   },
   {
@@ -1734,6 +1856,7 @@
     "id": "ploenchit",
     "type": "bar",
     "city": "Ploenchit",
+    "official_site": "http://www.brewdog.com/uk/ploenchit",
     "country_name": "Thailand"
   },
   {
@@ -1747,6 +1870,7 @@
     "id": "plymouth",
     "type": "bar",
     "city": "Plymouth",
+    "official_site": "http://www.brewdog.com/uk/plymouth",
     "country_name": "England"
   },
   {
@@ -1758,6 +1882,7 @@
     "long": -0.13576,
     "status": "open",
     "id": "queen-charlotte",
+    "official_site": "http://www.brewdog.com/uk/queen-charlotte",
     "country_name": "England"
   },
   {
@@ -1773,6 +1898,7 @@
     "id": "reading",
     "type": "bar",
     "city": "Reading",
+    "official_site": "http://www.brewdog.com/uk/reading",
     "country_name": "England"
   },
   {
@@ -1785,6 +1911,7 @@
     "id": "reykjavik",
     "type": "bar",
     "city": "Reykjavik",
+    "official_site": "http://www.brewdog.com/uk/reykjavik",
     "country_name": "Iceland"
   },
   {
@@ -1802,6 +1929,7 @@
     "address": "BrewDog Roma, 80, Via delle Terme di Tito, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",
     "id": "roma",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/roma",
     "country_name": "Italy"
   },
   {
@@ -1816,6 +1944,7 @@
     "id": "roppongi",
     "type": "bar",
     "city": "Roppongi",
+    "official_site": "http://www.brewdog.com/uk/roppongi",
     "country_name": "Japan"
   },
   {
@@ -1828,6 +1957,7 @@
     "address": "Brewdog Outpost Rotterdam, 1, Halvemaanpassage, Stadsdriehoek, Centrum, Rotterdam, Zuid-Holland, Nederland, 3011 DL, Nederland",
     "status": "open",
     "id": "rotterdam-outpost",
+    "official_site": "http://www.brewdog.com/uk/rotterdam-outpost",
     "country_name": "Netherlands"
   },
   {
@@ -1840,6 +1970,7 @@
     "status": "open",
     "id": "rotterdam-witte-de-withstraat",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/rotterdam-witte-de-withstraat",
     "country_name": "Netherlands"
   },
   {
@@ -1852,6 +1983,7 @@
     "lat": 51.5100578,
     "long": -0.0793657,
     "status": "open",
+    "official_site": "http://www.brewdog.com/uk/seething-lane",
     "country_name": "England"
   },
   {
@@ -1868,6 +2000,7 @@
     "status": "open",
     "id": "seven-dials",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/seven-dials",
     "country_name": "England"
   },
   {
@@ -1881,6 +2014,7 @@
     "id": "shanghai",
     "type": "bar",
     "city": "Shanghai",
+    "official_site": "http://www.brewdog.com/uk/shanghai",
     "country_name": "China"
   },
   {
@@ -1897,6 +2031,7 @@
     "id": "sheffield",
     "type": "bar",
     "city": "Sheffield",
+    "official_site": "http://www.brewdog.com/uk/sheffield",
     "country_name": "England"
   },
   {
@@ -1916,6 +2051,7 @@
     "status": "open",
     "id": "shepherd's-bush",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/shepherd's-bush",
     "country_name": "England"
   },
   {
@@ -1932,6 +2068,7 @@
     "status": "open",
     "id": "shoreditch",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/shoreditch",
     "country_name": "England"
   },
   {
@@ -1947,6 +2084,7 @@
     "status": "open",
     "id": "short-north",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/short-north",
     "country_name": "United States"
   },
   {
@@ -1960,6 +2098,7 @@
     "lat": 51.519187,
     "long": -0.103694,
     "id": "smithfield-market-arms",
+    "official_site": "http://www.brewdog.com/uk/smithfield-market-arms",
     "country_name": "England"
   },
   {
@@ -1979,6 +2118,7 @@
     "status": "open",
     "id": "soho",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/soho",
     "country_name": "England"
   },
   {
@@ -1992,6 +2132,7 @@
     "id": "south-eveleigh",
     "type": "bar",
     "city": "South Eveleigh",
+    "official_site": "http://www.brewdog.com/uk/south-eveleigh",
     "country_name": "Australia"
   },
   {
@@ -2007,6 +2148,7 @@
     "id": "southampton",
     "type": "bar",
     "city": "Southampton",
+    "official_site": "http://www.brewdog.com/uk/southampton",
     "country_name": "England"
   },
   {
@@ -2023,6 +2165,7 @@
     "id": "st-andrews",
     "type": "bar",
     "city": "St Andrews",
+    "official_site": "http://www.brewdog.com/uk/st-andrews",
     "country_name": "Scotland"
   },
   {
@@ -2036,6 +2179,7 @@
     "status": "open",
     "id": "st-pauli",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/st-pauli",
     "country_name": "Germany"
   },
   {
@@ -2052,6 +2196,7 @@
     "id": "stirling",
     "type": "bar",
     "city": "Stirling",
+    "official_site": "http://www.brewdog.com/uk/stirling",
     "country_name": "Scotland"
   },
   {
@@ -2061,6 +2206,7 @@
     "id": "swansea",
     "type": "bar",
     "city": "Swansea",
+    "official_site": "http://www.brewdog.com/uk/swansea",
     "country_name": "Wales [Cymru GB-CYM]"
   },
   {
@@ -2082,6 +2228,7 @@
     "id": "s\u00e3o-paulo",
     "type": "bar",
     "city": "S\u00e3o Paulo",
+    "official_site": "http://www.brewdog.com/uk/s\u00e3o-paulo",
     "country_name": "Brazil"
   },
   {
@@ -2097,6 +2244,7 @@
     "status": "open",
     "id": "s\u00f6dermalm",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/s\u00f6dermalm",
     "country_name": "Sweden"
   },
   {
@@ -2115,6 +2263,7 @@
     "id": "tallinn",
     "type": "bar",
     "city": "Tallinn",
+    "official_site": "http://www.brewdog.com/uk/tallinn",
     "country_name": "Estonia"
   },
   {
@@ -2126,6 +2275,7 @@
     "id": "tampere",
     "type": "bar",
     "city": "Tampere",
+    "official_site": "http://www.brewdog.com/uk/tampere",
     "country_name": "Finland"
   },
   {
@@ -2135,6 +2285,7 @@
     "type": "pub",
     "status": "closed",
     "id": "the-tankard",
+    "official_site": "http://www.brewdog.com/uk/the-tankard",
     "country_name": "England"
   },
   {
@@ -2147,6 +2298,7 @@
     "long": -0.076883,
     "status": "open",
     "id": "tower-bridge-arms",
+    "official_site": "http://www.brewdog.com/uk/tower-bridge-arms",
     "country_name": "England"
   },
   {
@@ -2164,6 +2316,7 @@
     ],
     "status": "open",
     "id": "tower-hill-outpost",
+    "official_site": "http://www.brewdog.com/uk/tower-hill-outpost",
     "country_name": "England"
   },
   {
@@ -2174,6 +2327,7 @@
     "id": "turku",
     "type": "bar",
     "city": "Turku",
+    "official_site": "http://www.brewdog.com/uk/turku",
     "country_name": "Finland"
   },
   {
@@ -2187,6 +2341,7 @@
     "id": "upminster",
     "type": "bar",
     "city": "Upminster",
+    "official_site": "http://www.brewdog.com/uk/upminster",
     "country_name": "England"
   },
   {
@@ -2200,6 +2355,7 @@
     "status": "open",
     "id": "wandsworth",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/wandsworth",
     "country_name": "England"
   },
   {
@@ -2213,6 +2369,7 @@
     "id": "warszawa",
     "type": "bar",
     "city": "Warszawa",
+    "official_site": "http://www.brewdog.com/uk/warszawa",
     "country_name": "Poland"
   },
   {
@@ -2227,6 +2384,7 @@
     "status": "open",
     "id": "waterloo",
     "type": "bar",
+    "official_site": "http://www.brewdog.com/uk/waterloo",
     "country_name": "England"
   },
   {
@@ -2240,6 +2398,7 @@
     "long": -0.111338,
     "status": "open",
     "id": "waterloo-arms",
+    "official_site": "http://www.brewdog.com/uk/waterloo-arms",
     "country_name": "England"
   },
   {
@@ -2253,6 +2412,7 @@
     "id": "wiesbaden",
     "type": "bar",
     "city": "Wiesbaden",
+    "official_site": "http://www.brewdog.com/uk/wiesbaden",
     "country_name": "Germany"
   },
   {
@@ -2272,6 +2432,7 @@
     "id": "york",
     "type": "bar",
     "city": "York",
+    "official_site": "http://www.brewdog.com/uk/york",
     "country_name": "England"
   },
   {
@@ -2292,6 +2453,7 @@
     ],
     "status": "closed",
     "id": "hawkes-cidery-and-taproom",
+    "official_site": "http://www.brewdog.com/uk/hawkes-cidery-and-taproom",
     "country_name": "England"
   }
 ]
