@@ -1410,6 +1410,7 @@
   },
   {
     "name": "Leeds",
+    "opening_date": "2012-00-00",
     "status": "closed",
     "country": "GBR-ENG",
     "visas": [
@@ -1484,6 +1485,7 @@
     "visas": [
       "1.0"
     ],
+    "opening_date": "2016-05-04",
     "lat": 55.6047901,
     "long": 13.00514,
     "address": "Brewdog, 25, Baltzarsgatan, Gamla Staden, Norr, Malm\u00f6, Malm\u00f6 kommun, Sk\u00e5ne l\u00e4n, 211 37, Sverige",
@@ -1897,6 +1899,7 @@
   },
   {
     "name": "Reading",
+    "opening_date": "2018-03-15",
     "country": "GBR-ENG",
     "visas": [
       "1.0"
@@ -1904,6 +1907,9 @@
     "lat": 51.4535092,
     "long": -0.9743138,
     "address": "BrewDog, 11, Castle Street, Katesgrove, Coley, Reading, England, RG1 7SB, United Kingdom",
+    "references": [
+      "opening date, https://www.morningadvertiser.co.uk/Article/2018/03/19/BrewDog-continues-UK-expansion-with-the-launch-of-its-first-site-in-Reading/"
+    ],
     "status": "open",
     "id": "reading",
     "type": "bar",
