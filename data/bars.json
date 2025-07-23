@@ -9,6 +9,7 @@
       "3.0"
     ],
     "opening_date": "2010-10-01",
+    "closing_date": "2025-07-26",
     "lat": 57.149457749999996,
     "long": -2.097896794130933,
     "address": "BrewDog Flagship, 17, Gallowgate, City Centre, Aberdeen City, Alba / Scotland, AB25 1EB, United Kingdom",
@@ -343,6 +344,7 @@
     "name": "Brighton",
     "country": "GBR-ENG",
     "opening_date": "2015-08-27",
+    "closing_date": "2025-07-26",
     "lat": 50.82454165,
     "long": -0.1353913025972917,
     "address": "Brewdog, 52-54, Grand Parade, Round Hill, Brighton, Brighton and Hove, England, BN2 9QA, United Kingdom",
@@ -469,6 +471,7 @@
     "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2011-12-14",
+    "closing_date": "2025-07-25",
     "lat": 51.53833055,
     "long": -0.14093251556267572,
     "visas": [
@@ -479,7 +482,8 @@
     ],
     "trivia": [
       "This was the first brewdog bar opened outside of Scotland.",
-      "The Founders drove a tank down Camden High St to anounce the invasion."
+      "The Founders drove a tank down Camden High St to anounce the invasion.",
+      "Camden closed a day earlier compared to the other bars to coincide with the GM, Ryan's, retirement."
     ],
     "address": "BrewDog, 113, Bayham Street, Chalk Farm, London Borough of Camden, London, Greater London, England, NW1 0AG, United Kingdom",
     "status": "open",
@@ -901,6 +905,7 @@
       "3.0"
     ],
     "opening_date": "2014-06-14",
+    "closing_date": "2025-07-26",
     "lat": 56.4632348,
     "long": -2.9707948,
     "address": "BrewDog Dundee, Panmure Street, Central Waterfront, City Centre, Dundee, Dundee City, Alba / Scotland, DD1 2BW, United Kingdom",
@@ -1423,6 +1428,7 @@
     "country": "GBR-ENG",
     "city": "Leeds",
     "opening_date": "2015-07-31",
+    "closing_date": "2025-07-26",
     "visas": [
       "1.0"
     ],
@@ -1744,6 +1750,7 @@
     "name": "Oxford",
     "country": "GBR-ENG",
     "opening_date": "2017-09-28",
+    "closing_date": "2025-07-26",
     "visas": [
       "1.0"
     ],
@@ -1752,6 +1759,9 @@
     "address": "Brewdog, 119, Cowley Road, East Oxford, Oxford, Oxfordshire, England, OX4 1DD, United Kingdom",
     "references": [
       "Opening date, https://www.facebook.com/events/120626565265994/?active_tab=discussion&locale=en_GB"
+    ],
+    "trivia": [
+      "The bar closed after the closure announcement on 2025-07-22 and didn't reopen."
     ],
     "status": "open",
     "id": "oxford",
@@ -2024,6 +2034,7 @@
       "1.0"
     ],
     "opening_date": "2014-03-08",
+    "closing_date": "2025-07-26",
     "lat": 53.37957295,
     "long": -1.4772062373217931,
     "address": "BrewDog, 108-110, Devonshire Street, Devonshire, City Centre, Sheffield, South Yorkshire, England, S3 7SF, United Kingdom",
@@ -2038,6 +2049,7 @@
     "name": "Shepherd's Bush",
     "city": "London",
     "country": "GBR-ENG",
+    "closing_date": "2025-07-26",
     "opening_date": "2013-12-02",
     "visas": [
       "1.0"
@@ -2059,13 +2071,17 @@
     "city": "London",
     "country": "GBR-ENG",
     "opening_date": "2012-10-20",
+    "closing_date": "2025-06-09",
     "visas": [
       "1.0"
     ],
     "lat": 51.524592,
     "long": -0.0726328,
     "address": "BrewDog, 51-55, Bethnal Green Road, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 6LA, United Kingdom",
-    "status": "open",
+    "trivia": [
+      "The bar closed for essential work on [2025-06-09](https://forum.brewdog.com/t/brewdog-shoreditch-temporarily-closed/55028) and never reopened."
+    ],
+    "status": "closed",
     "id": "shoreditch",
     "type": "bar",
     "official_site": "http://www.brewdog.com/uk/shoreditch",
@@ -2419,6 +2435,7 @@
     "name": "York",
     "country": "GBR-ENG",
     "opening_date": "2016-12-08",
+    "closing_date": "2025-07-26",
     "visas": [
       "1.0"
     ],
