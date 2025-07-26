@@ -472,6 +472,7 @@
     "country": "GBR-ENG",
     "opening_date": "2011-12-14",
     "closing_date": "2025-07-25",
+    "status": "closed",
     "lat": 51.53833055,
     "long": -0.14093251556267572,
     "visas": [
