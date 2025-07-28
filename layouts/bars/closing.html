@@ -1,0 +1,22 @@
+{{ define "title"}}By Closing Date{{ end }}
+
+{{ define "main" }}
+{{ .Content }}
+
+<p>
+There are {{ len (where (where .Site.Data.bars ".status" "eq" "closed") ".closing_date" "eq" nil ) }} closed bars without closing dates but {{  len (where .Site.Data.bars ".closing_date" "ne" nil ) }} with so we're not doing too bad. </p>
+<table>
+{{- $year := "0000"  -}}
+{{- range sort (where .Site.Data.bars ".closing_date" "ne" nil) ".closing_date" -}}
+{{- $cyear := (substr .closing_date 0 4) -}}
+{{- if ne $year $cyear -}}
+{{- $year = $cyear }}
+<tr><td colspan="2"><h2>{{ $year }}</h2></td>
+   </tr>
+{{- end -}}
+<tr><td>{{ partial "day-month-fixed" .closing_date }}</td>
+       <td><a href="/bars/{{ .id }}/">{{ .name }}</a></td>
+   </tr>
+{{ end }}
+</table>
+{{ end }}

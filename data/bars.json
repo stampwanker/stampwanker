@@ -329,11 +329,14 @@
     "name": "Bradford",
     "country": "GBR-ENG",
     "opening_date": "2021-11-18",
-    "closing_date": "2025-12-00",
+    "closing_date": "2024-12-14",
     "lat": 53.7913899,
     "long": -1.7579432,
     "address": "BrewDog, 11, Great Horton Road, Great Horton, Bradford, West Yorkshire, England, BD7 1AJ, United Kingdom",
     "status": "closed",
+    "references": [
+      "closing date, https://www.thetelegraphandargus.co.uk/news/24840565.brewdog-bradford-pub-great-horton-road-closes/"
+    ],
     "id": "bradford",
     "type": "bar",
     "city": "Bradford",
@@ -738,18 +741,6 @@
     "id": "doghouse-columbus-hotel",
     "official_site": "http://www.brewdog.com/uk/doghouse-columbus-hotel",
     "country_name": "United States"
-  },
-  {
-    "name": "Doghouse Edinburgh Bar & Terrace",
-    "city": "Edinburgh",
-    "type": "bar",
-    "lat": 55.951296,
-    "long": -3.182814,
-    "country": "GBR-SCT",
-    "status": "open",
-    "id": "doghouse-edinburgh-bar-and-terrace",
-    "official_site": "http://www.brewdog.com/uk/doghouse-edinburgh-bar-and-terrace",
-    "country_name": "Scotland"
   },
   {
     "name": "Doghouse Edinburgh Hotel",
@@ -1411,6 +1402,7 @@
   {
     "name": "Leeds",
     "opening_date": "2012-00-00",
+    "closing_date": "2021-12-01",
     "status": "closed",
     "country": "GBR-ENG",
     "visas": [
@@ -1418,6 +1410,9 @@
     ],
     "lat": 53.7954815,
     "long": -1.5398508,
+    "references": [
+      "Closing Date, https://forum.brewdog.com/t/leeds-1-lease-expiring-closure/44101/88"
+    ],
     "id": "leeds",
     "type": "bar",
     "city": "Leeds",
@@ -1624,7 +1619,11 @@
     "lat": 43.6960274,
     "long": 7.269312,
     "address": "Brewdog, Avenue Max Gallo, Vieux Nice, Nice, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 06000, France",
+    "opening_date": "2019-06-27",
     "closing_date": "2025-01-03",
+    "references": [
+      "Opening Date, https://www.instagram.com/p/BzOTcfbl8e1/?hl=en"
+    ],
     "status": "closed",
     "id": "nice",
     "type": "bar",
@@ -2024,7 +2023,7 @@
     "country": "CHN",
     "lat": 31.2295943,
     "long": 121.4620009,
-    "closing_date": "2025-01-00",
+    "closing_date": "2024-11-00",
     "status": "closed",
     "address": "Brewdog, 333, \u6210\u90fd\u5317\u8def, \u5357\u4eac\u897f\u8def\u8857\u9053, \u9759\u5b89\u533a, \u4e0a\u6d77\u5e02, 200003, \u4e2d\u56fd",
     "id": "shanghai",

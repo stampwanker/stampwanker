@@ -1,5 +1,5 @@
 ---
 title: By Opening Date
-layout: date
+layout: opening
 type: bars
 ---
